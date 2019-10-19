@@ -1,0 +1,144 @@
+<resources>
+
+
+<string-array name="animal_title">
+    <item>Eläimen</item>
+    <item>Lintu</item>
+    <item>Kissa</item>
+
+    <item>Koira</item>
+    <item>Lehmä</item>
+    <item>Ankka</item>
+
+    <item>Norsu</item>
+    <item>Kala</item>
+    <item>Hevonen</item>
+
+    <item>Lammas</item>
+    <item>Leijona</item>
+    <item>Kani</item>
+
+    <item>Poro</item>
+    <item>Rotta</item>
+    <item>Käärme</item>
+
+    <item>Tiikeri</item>
+
+</string-array>
+
+<string-array name="animalsub_title">
+
+<item>Animal</item>  
+      <item>Bird</item>  
+      <item>Cat</item>  
+
+      <item>Dog</item>  
+      <item>Cow</item>  
+      <item>Duck</item>  
+
+      <item>Elephant</item>  
+      <item>Fish</item>  
+      <item> Horse</item> 
+ 
+      <item> Lamb</item>  
+      <item>Lion</item>  
+      <item>Rabbit</item>  
+
+      <item>Raindeer</item>  
+      <item>Rat</item>  
+      <item>Snake</item>  
+
+      <item>Tiger</item>  
+
+
+
+</string-array>
+
+<string-array name="animalimage_title">
+
+      <item>@drawable/animalpic</item>
+      <item>@drawable/bird</item>  
+      <item>@drawable/cat</item>  
+
+      <item>@drawable/dog</item>  
+      <item>@drawable/cow</item>  
+      <item>@drawable/duck</item>  
+
+      <item>@drawable/elephant</item>  
+      <item>@drawable/fish</item>  
+      <item>@drawable/horse</item>
+
+      <item>@drawable/lamb</item>
+      <item>@drawable/lion</item>  
+      <item>@drawable/rabbit</item>  
+
+      <item>@drawable/raindeer</item>  
+      <item>@drawable/rat</item>  
+      <item>@drawable/snake</item>  
+
+      <item>@drawable/tiger</item>  
+</string-array>
+
+<string-array name="animalnew_title">
+    <item>Ihmisen, mutta myös eläimen terveys on vaarassa.\n\n Meaning:Human health is at risk, clearly, but so too is animal health.</item>
+    <item>Kala-, lintu- ja nisäkäslajeja uhkaa sukupuutto.\n\n Meaning:Species of fish, birds and mammals are threatened by extinction.</item>
+    <item>Tiikeri on iso kissa.\n\n Meaning:Tiger is a big cat.</item>
+
+    <item>Koira meni koirien päivähoitoon.\n\n Meaning:The dog went into doggy day care.</item>
+    <item> Meille eurooppalaisille lehmä on tietysti hyvinvoinnin vertauskuva.\n\n Meaning:For us Europeans, this cow is of course a symbol of affluence.</item>
+    <item>Tämä on ankka.\n\n Meaning:tThis is a duck.</item>
+
+<item>Norsu taitaa pitää minusta.\n\n Meaning:I think this elephant likes me.</item>
+    <item>Kala-, lintu- ja nisäkäslajeja uhkaa sukupuutto.\n\n Meaning:Species of fish, birds and mammals are threatened by extinction.</item>
+    <item>Mikä tuo hevonen on?\n\n Meaning:What kind of a horse is that?</item>
+
+    <item>Profeetta Jesajan ennustuksen mukaan tulee päivä, jona leijona ja lammas elävät yhdessä.\n\n Meaning: The Prophet Isaiah foresaw a day when the lion and the lamb would live together.</item>
+    <item>Leijona ja lammas ovat todellakin kerran eläneet yhdessä.\n\n Meaning: But there was a time when the lion and the lamb did live together.</item>
+    <item>Onko sinulla kani kotona? \n\n Meaning: You got a rabbit at home?</item>
+
+<item>Poro häihin? \n\n Meaning: Reindeer for a wedding?</item>
+    <item>Rotta lemmikkinä. \n\n Meaning: Rat as a pet.</item>
+    <item>Kyllä, iso ja limainen käärme, mutta ei hätää.  \n\n Meaning:Yes, big and slimy snake, but no fear.</item>
+
+    <item>tiikeri ei pääse eroon raidoistaan\n\n Meaning: The leopard doesn’t change his spots</item>
+    
+
+
+</string-array>
+
+<string-array name="animalsong">
+
+         <item>@raw/elaimen</item> 
+      <item>@raw/lintu</item> 
+      <item>@raw/kissa</item> 
+
+      <item>@raw/koira</item> 
+      <item>@raw/lehma</item> 
+      <item>@raw/ankka</item>
+
+      <item>@raw/norsu</item> 
+      <item>@raw/kala</item> 
+      <item>@raw/hevonen</item> 
+
+      <item>@raw/lammas</item> 
+    <item>@raw/leijona</item>
+      <item>@raw/kani</item> 
+
+      <item>@raw/poro</item> 
+      <item>@raw/rotta</item> 
+      <item>@raw/kaarme</item> 
+
+      <item>@raw/tiikeri</item> 
+
+
+</string-array>
+
+
+
+</resources>
+
+
+
+
+
+

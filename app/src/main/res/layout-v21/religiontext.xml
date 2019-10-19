@@ -1,0 +1,183 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="10dp"
+    android:background="@drawable/back2"
+>
+
+    <ImageView
+        android:id="@+id/logodesign"
+        android:layout_width="300dp"
+        android:layout_height="80dp"
+        android:background="@drawable/druganddrop"
+        android:gravity="bottom"
+        android:padding="32dp"
+        android:layout_gravity="center"
+       />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="Text To Text"
+        android:textSize="24dp"
+        android:textStyle="bold"
+        android:textColor="#FFFFFF"/>
+
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="20dp"
+        android:padding="10dp"/>
+
+    <TextView
+        android:id="@+id/option_1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:background="@drawable/border"
+        android:gravity="center"
+        android:tag="abc"
+        android:text="Jumala"
+        android:textColor="#FFFFFF"
+        android:textSize="24dp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/option_2"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:background="@drawable/border"
+        android:gravity="center"
+        android:tag="bca"
+        android:text="Piru"
+        android:textColor="#FFFFFF"
+        android:textSize="24dp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/option_3"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:background="@drawable/border"
+        android:gravity="center"
+        android:tag="cba"
+        android:text="Taivas"
+        android:textColor="#FFFFFF"
+        android:textSize="24dp"
+        android:textStyle="bold" />
+
+
+    <TextView
+        android:id="@+id/option_4"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:background="@drawable/border"
+        android:gravity="center"
+        android:tag="dba"
+        android:text="Helvetti"
+        android:textColor="#FFFFFF"
+        android:textSize="24dp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/option_5"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:background="@drawable/border"
+        android:gravity="center"
+        android:tag="kda"
+        android:text="Ateisti"
+        android:textColor="#FFFFFF"
+        android:textSize="24dp"
+        android:textStyle="bold" />
+
+
+
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="20dp"
+        android:padding="10dp"/>
+    <TextView
+        android:id="@+id/choice_3"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:tag="cba"
+        android:background="@drawable/borderx"
+        android:textSize="24dp"
+        android:textColor="#CCFFFF"
+        android:textStyle="bold"
+        android:gravity="center"
+        android:text="Heaven" />
+
+
+    <TextView
+        android:id="@+id/choice_5"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:tag="kda"
+        android:background="@drawable/borderx"
+        android:textSize="24dp"  android:textColor="#CCFFFF"
+        android:textStyle="bold"
+        android:gravity="center"
+        android:text="Atheist" />
+
+    <TextView
+        android:id="@+id/choice_4"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:background="@drawable/borderx"
+        android:textSize="24dp"  android:textColor="#CCFFFF"
+        android:textStyle="bold"
+        android:tag="dba"
+        android:gravity="center"
+        android:text="Hell" />
+    <TextView
+        android:id="@+id/choice_1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:tag="abc"
+        android:background="@drawable/borderx"
+        android:textSize="24dp"  android:textColor="#CCFFFF"
+        android:textStyle="bold"
+        android:gravity="center"
+        android:text="God" />
+
+    <TextView
+        android:id="@+id/choice_2"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:tag="bca"
+        android:background="@drawable/borderx"
+        android:textSize="24dp"  android:textColor="#CCFFFF"
+        android:textStyle="bold"
+        android:gravity="center"
+        android:text="Devil " />
+
+
+    <Button
+        android:id="@+id/reset"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_below="@+id/editText4"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="26dp"
+        android:background="@drawable/buttonfor"
+        android:onClick="reset"
+        android:padding="10dp"
+        android:text="Reset"
+
+        android:textSize="20dp" />
+
+
+
+</LinearLayout>

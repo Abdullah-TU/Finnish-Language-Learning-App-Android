@@ -1,0 +1,160 @@
+<resources>
+
+
+
+
+
+<string-array name="chemistry_title">
+
+
+
+<item>Kemia</item>
+<item>Kemiallinen</item>
+<item>Molekyyli</item>
+
+<item>Atomi</item>
+<item>Reaktio</item>
+<item>Kiinteä</item>
+
+<item>Neste</item>
+<item>Kaasu</item>
+<item>Hapan</item>
+
+<item>Happi</item>
+<item>Vety</item>
+<item>Typpi</item>
+
+<item>Hiili</item>
+<item>Kalium</item>
+<item>Hiilihydraatti</item>
+
+<item>Proteiini</item>
+<item>Rasva</item>
+
+
+
+
+
+
+
+</string-array>
+
+<string-array name="chemistrysub_title">
+  
+<item>Chemistry</item>
+<item>Chemical</item>
+<item>Molecule</item>
+
+<item>Atom</item>
+<item>Reaction</item>
+<item>Solid</item>
+
+<item>Liquid</item>
+<item>Gas</item>
+<item>Acid</item>
+
+<item>Oxigen</item>
+<item>Hydrogen</item>
+<item>Nitrogen</item>
+
+<item>Carbon</item>
+<item>Potassium</item>
+<item>Carbohydrate</item>
+
+<item>Protein</item>
+<item>Fat</item>
+
+
+</string-array>
+
+<string-array name="chemistryimage_title">
+    
+
+<item>@drawable/chemistr</item>
+<item>@drawable/chemical</item>
+<item>@drawable/molecule</item>
+
+<item>@drawable/atom</item>
+<item>@drawable/reaction</item>
+<item>@drawable/solid</item>
+
+<item>@drawable/liquid</item>
+<item>@drawable/gas</item>
+<item>@drawable/acid</item>
+
+<item>@drawable/oxygen</item>
+<item>@drawable/hydrogen</item>
+<item>@drawable/nitrogen</item>
+
+<item>@drawable/carbon</item>
+<item>@drawable/potassium</item>
+<item>@drawable/carbohydrate</item>
+
+<item>@drawable/protien</item>
+<item>@drawable/fat</item>
+
+
+</string-array>
+
+<string-array name="chemistrynew_title">
+    <item>Kemia on aineen koostumusta.\n\n Meaning:Chemistry is the composition of the substance.</item>
+    <item>Tuoko on kullan kemiallinen yhtälö?\n\n Meaning: That\'s the chemical equation for gold? That\'s right.</item>
+    <item>Molekyyli on niin iso, että se näkyy valomikroskoopissa.\n\n Meaning: It\'s such a large molecule we can see it with a light microscope.</item>
+
+    <item>Universumi on pikkuruinen; pienempi kuin atomi.\n\n Meaning: The universe is tiny; it\'s smaller than an atom.</item>
+    <item>Kemiallisessa reaktiossa aineet hajoavat tai yhdistyvät.\n\n Meaning:In a chemical reaction, the substances decompose or combine.</item>
+    <item>Vauva alkoi syödä kiinteää ruokaa puolen vuoden iässä.\n\n Meaning:The baby began to eat solid food at the age of six months.</item>
+
+<item>Se neste parantaa taudit, neutralisoi myrkyt - ja ajaa jopa sisäisen pimeyden tiehensä. \n\n Meaning:The liquid can cure illness, neutralize poison, it can even stave off the darkness from within.</item>
+    <item>Kaasut ovat voimakkaasti tulistettuja höyryjä.\n\n Meaning:Gases are heavily concentrated vapors.</item>
+    <item> Happo on molekyyli tai ioni, joka kykenee luovuttamaan hydronin tai vaihtoehtoisesti pystyy muodostamaan kovalenttisen sidoksen elektroniparilla.
+\n\n Meaning:An acid is a molecule or ion capable of donating a hydron, or, alternatively, capable of forming a covalent bond with an electron pair.</item>
+    <item>Hapen kemiallinen merkki on O.\n\n Meaning:The oxygen chemical symbol is O.</item>
+    <item>En edes tiedä, mitä vety on. \n\n Meaning:I don\'t even know what hydrogen is.</item>
+    <item>Nestemäinen typpi räjähti. \n\n Meaning:The liquid nitrogen blew through the inner seal.</item>
+
+<item>Hiiltä saadaan polttamalla puuta hiilimiilussa.\n\n Meaning:Coal is obtained by burning wood in coal mining.</item>
+    <item>Kalium on toiseksi kevyin metalli litiumin jälkeen.\n\n Meaning:Potassium is the second lightest metal after lithium.</item>
+    <item>Riisi ja pasta sisältävät paljon hiilihydraatteja. \n\n Meaning:Rice and pasta contain lots of carbohydrates.</item>
+
+    <item>Proteiini pirtelö aamulla. \n\n Meaning: Protein shake in the morning.</item>
+    <item>Cocoa butter, fat and oil Kaakaovoi, -rasva ja -öljy.\n\n Meaning:Cocoa butter, fat and oil Cocoa butter, fat and oil</item>
+
+</string-array>
+
+<string-array name="chemistrysong">
+   
+
+
+<item>@raw/kemia</item>
+<item>@raw/kemiallinen</item>
+<item>@raw/molekyyli</item>
+
+<item>@raw/atomi</item>
+<item>@raw/reaktio</item>
+<item>@raw/kiintea</item>
+
+<item>@raw/neste</item>
+<item>@raw/kaasu</item>
+<item>@raw/hapan</item>
+
+<item>@raw/happi</item>
+<item>@raw/vety</item>
+<item>@raw/typpi</item>
+
+<item>@raw/hiili</item>
+<item>@raw/kalium</item>
+<item>@raw/hiilihydraatti</item>
+
+<item>@raw/proteiini</item>
+<item>@raw/rasva</item>
+
+</string-array>
+
+
+</resources>
+
+
+
+
+

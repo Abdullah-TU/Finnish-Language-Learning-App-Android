@@ -1,0 +1,818 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.emssoft.knowfinnish">
+    <uses-permission android:name="android.permission.READ_PHONE_STATE"/>
+    <uses-permission android:name="android.permission._EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <supports-screens android:resizeable="true"
+    android:smallScreens="true"
+    android:normalScreens="true"
+    android:largeScreens="true"
+    android:xlargeScreens="true"
+/>
+
+    <application
+        android:allowBackup="true"
+        android:hardwareAccelerated="false"
+         android:largeHeap="true"
+        android:icon="@mipmap/finallog"
+        android:supportsRtl="true"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme"
+        tools:replace="allowBackup,supportsRtl"
+        tools:ignore="GoogleAppIndexingWarning,UnusedAttribute">
+
+    <activity android:name=".MainActivity"
+     >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+        <activity android:name=".MoreInfo"
+        >
+
+        </activity>
+
+        <activity android:name=".Dictionary_Page2"
+        
+           >
+
+
+
+
+        </activity>
+
+        <activity android:name=".Word_List"
+        
+            >
+
+
+
+        </activity>
+
+        <activity android:name=".About"
+            android:label="About"
+            >
+
+        </activity>
+        <activity android:name=".Quiz_Easy1"
+        
+            >
+        </activity>
+
+
+        <activity android:name=".Writingmain"
+        
+            android:label="Writing Test"
+            >
+
+        </activity>
+
+
+        <activity android:name=".FillinTheBlanks"
+        
+            android:label="Fill in the blanks">
+
+        </activity>
+        <activity android:name=".Tipsandtrics"
+            android:label="Tips and Trics"
+        
+          >
+
+        </activity>
+
+        <activity android:name=".ImagetofinnishActivity"
+        
+            android:label="Pic MCQ Test">
+
+        </activity>
+
+
+
+        <activity android:name=".Texttotext"
+        
+            android:label="Multiple Choice Questions">
+
+        </activity>
+
+        <activity android:name=".Quizy"
+            android:label="Quizy"
+        
+        >
+
+        </activity>
+
+
+        <activity android:name=".Family"
+            android:label="Family"
+        >
+
+        </activity>
+        <activity android:name=".Food"
+            android:label="Food"
+        >
+
+        </activity>
+        <activity android:name=".Fruits"
+            android:label="Fruits"
+        >
+
+        </activity>
+        <activity android:name=".Home"
+            android:label="Home"
+        >
+
+        </activity>
+        <activity android:name=".Numbers"
+            android:label="Number"
+        >
+
+        </activity>
+        <activity android:name=".Transport"
+            android:label="Transport"
+        >
+
+        </activity>
+        <activity android:name=".Animal"
+            android:label="Animal"
+        >
+
+        </activity>
+        <activity android:name=".Clothes"
+            android:label="Clothes"
+        >
+
+        </activity>
+
+        <activity android:name=".Sports"
+            android:label="Sports"
+        >
+
+        </activity>
+
+
+        <activity android:name=".Greetings"
+            android:label="Greetings"
+        >
+
+        </activity>
+
+        <activity android:name=".GrammarActivity"
+            android:label="Finnish Grammar"
+        
+       >
+
+        </activity>
+
+
+        <activity android:name=".Environment"
+            android:label="Environment"
+        >
+
+        </activity>
+        <activity android:name=".DicMainAc"
+            android:label="Word Bank"
+            >
+
+        </activity>
+        <activity android:name=".Education"
+            android:label="Body parts"
+        >
+
+        </activity>
+
+
+        <activity android:name=".Religion"
+            android:label="Religion"
+        >
+
+        </activity>
+
+        <activity android:name=".Government"
+            android:label=" Government"
+        >
+
+        </activity>
+
+        <activity android:name=".Physics"
+            android:label="Physics"
+        >
+
+        </activity>
+
+        <activity android:name=".Chemistry"
+            android:label="Chemistry"
+        >
+
+        </activity>
+
+        <activity android:name=".Biology"
+            android:label="Biology"
+        >
+
+        </activity>
+
+        <activity android:name=".Computer"
+            android:label="Computer"
+        >
+
+        </activity>
+
+        <activity android:name=".Communication"
+            android:label="Communication"
+        >
+
+        </activity>
+
+        <activity android:name=".Flower"
+            android:label="Flower"
+        >
+
+        </activity>
+
+        <activity android:name=".Languages"
+            android:label="Languages"
+        >
+
+        </activity>
+
+
+        <activity android:name=".Alphabet"
+        >
+
+        </activity>
+
+        <activity android:name=".Body"
+        >
+
+        </activity>
+
+        <activity android:name=".Color"
+        >
+
+        </activity>
+
+        <activity android:name=".Emotions"
+        >
+
+        </activity>
+
+        <activity android:name=".Health"
+        >
+
+        </activity>
+
+        <activity android:name=".Math"
+        >
+
+        </activity>
+        <activity android:name=".Nations"
+        >
+
+        </activity>
+
+        <activity android:name=".Science"
+        >
+
+        </activity>
+        <activity android:name=".Space"
+        >
+
+        </activity>
+        <activity android:name=".Timeandate"
+        >
+
+        </activity>
+
+
+        <activity android:name=".AnimalCard"
+            android:label="Animal Card"
+        >
+
+        </activity>
+        <activity android:name=".AnimalImage"
+            android:label="Animal Image"
+        >
+
+        </activity>
+        <activity android:name=".AnimalText"
+            android:label="Animal Text"
+        >
+
+        </activity>
+
+        <activity android:name=".AlphabetCard"
+        >
+
+        </activity>
+        <activity android:name=".AlphabetImage"
+        >
+
+        </activity>
+        <activity android:name=".AlphabetText"
+        >
+
+        </activity>
+
+        <activity android:name=".BiologyCard"
+        >
+
+        </activity>
+        <activity android:name=".BiologyImage"
+        >
+
+        </activity>
+        <activity android:name=".BiologyText"
+        >
+
+        </activity>
+
+        <activity android:name=".BodypartsCard"
+        >
+
+        </activity>
+        <activity android:name=".BodypartsImage"
+        >
+
+        </activity>
+        <activity android:name=".BodypartsText"
+        >
+
+        </activity>
+
+        <activity android:name=".ClothesCard"
+        >
+
+        </activity>
+        <activity android:name=".ClothesImage"
+        >
+
+        </activity>
+        <activity android:name=".ClothesText"
+        >
+
+        </activity>
+
+        <activity android:name=".ColorCard"
+        >
+
+        </activity>
+        <activity android:name=".ColorImage"
+        >
+
+        </activity>
+        <activity android:name=".ColorText"
+        >
+
+        </activity>
+
+        <activity android:name=".CommunicationCard"
+        >
+
+        </activity>
+        <activity android:name=".CommunicationImage"
+        >
+
+        </activity>
+        <activity android:name=".CommunicationText"
+        >
+
+        </activity>
+
+        <activity android:name=".ComputerCard"
+        >
+
+        </activity>
+        <activity android:name=".ComputerImage"
+        >
+
+        </activity>
+        <activity android:name=".ComputerText"
+        >
+
+        </activity>
+
+        <activity android:name=".EducationCard"
+        >
+
+        </activity>
+        <activity android:name=".EducationImage"
+        >
+
+        </activity>
+        <activity android:name=".EducationText"
+        >
+
+        </activity>
+
+
+        <activity android:name=".EnvironmentCard"
+        >
+
+        </activity>
+        <activity android:name=".EnvironmentImage"
+        >
+
+        </activity>
+        <activity android:name=".EnvironmentText"
+        >
+
+        </activity>
+
+        <activity android:name=".FamilyCard"
+        >
+
+        </activity>
+        <activity android:name=".FamilyImage"
+        >
+
+        </activity>
+        <activity android:name=".FamilyText"
+        >
+
+        </activity>
+
+        <activity android:name=".FlowerCard"
+        >
+
+        </activity>
+        <activity android:name=".FlowerImage"
+        >
+
+        </activity>
+        <activity android:name=".FlowerText"
+        >
+
+        </activity>
+
+        <activity android:name=".FoodCard"
+        >
+
+        </activity>
+        <activity android:name=".FoodImage"
+        >
+
+        </activity>
+        <activity android:name=".FoodText"
+        >
+
+        </activity>
+
+        <activity android:name=".FruitsCard"
+        >
+
+        </activity>
+        <activity android:name=".FruitsImage"
+        >
+
+        </activity>
+        <activity android:name=".FruitsText"
+        >
+
+        </activity>
+
+
+        <activity android:name=".GovtCard"
+        >
+
+        </activity>
+        <activity android:name=".GovtImage"
+        >
+
+        </activity>
+        <activity android:name=".GovtText"
+        >
+
+        </activity>
+
+        <activity android:name=".HealthCard"
+        >
+
+        </activity>
+        <activity android:name=".HealthImage"
+        >
+
+        </activity>
+        <activity android:name=".HealthText"
+        >
+
+        </activity>
+
+        <activity android:name=".HomeCard"
+        >
+
+        </activity>
+        <activity android:name=".HomeImage"
+        >
+
+        </activity>
+        <activity android:name=".HomeText"
+        >
+
+        </activity>
+
+        <activity android:name=".MathCard"
+        >
+
+        </activity>
+        <activity android:name=".MathImage"
+        >
+
+        </activity>
+        <activity android:name=".MathText"
+        >
+
+        </activity>
+
+        <activity android:name=".NationsCard"
+        >
+
+        </activity>
+        <activity android:name=".NationsImage"
+        >
+
+        </activity>
+        <activity android:name=".NationsText"
+        >
+
+        </activity>
+
+        <activity android:name=".NumberCard"
+        >
+
+        </activity>
+        <activity android:name=".NumberImage"
+        >
+
+        </activity>
+        <activity android:name=".NumberText"
+        >
+
+        </activity>
+
+        <activity android:name=".PhyscsCradu"
+        >
+
+        </activity>
+        <activity android:name=".PhysicsImage"
+        >
+
+        </activity>
+        <activity android:name=".PhysicsText"
+        
+            >
+
+        </activity>
+
+
+        <activity android:name=".ReligionCard"
+        
+            >
+
+        </activity>
+        <activity android:name=".ReligionImage"
+        
+            >
+
+        </activity>
+        <activity android:name=".ReligionText"
+        
+            >
+
+        </activity>
+
+
+        <activity android:name=".SandtCard"
+        
+            >
+
+        </activity>
+        <activity android:name=".SandtImage"
+        
+            >
+
+        </activity>
+        <activity android:name=".SandtText"
+        
+            >
+
+        </activity>
+
+        <activity android:name=".SpaceCard"
+        
+            >
+
+        </activity>
+        <activity android:name=".SpaceImage"
+        
+            >
+
+        </activity>
+        <activity android:name=".SpaceText"
+        
+            >
+
+        </activity>
+
+        <activity android:name=".SportCard"
+        
+            >
+
+        </activity>
+        <activity android:name=".SportImage"
+        
+            >
+
+        </activity>
+        <activity android:name=".SportText"
+        
+            >
+
+        </activity>
+
+        <activity android:name=".TimeandDateCard"
+        
+            >
+
+        </activity>
+        <activity android:name=".TimeandDateImage"
+        
+            >
+
+        </activity>
+        <activity android:name=".TimeandDateText"
+        
+            >
+
+        </activity>
+
+        <activity android:name=".TransportCard"
+        
+            >
+
+        </activity>
+        <activity android:name=".TransportImage"
+        
+            >
+
+        </activity>
+        <activity android:name=".TransportText"
+        
+            >
+
+        </activity>
+
+        <activity android:name=".EmossionCard"
+        
+            >
+
+        </activity>
+        <activity android:name=".EmossionImage"
+        
+            >
+
+        </activity>
+        <activity android:name=".EmossionText"
+        
+            >
+
+        </activity>
+
+
+
+        <activity android:name=".GreetingCard"
+        
+            >
+
+        </activity>
+        <activity android:name=".GreetingImage"
+        
+            >
+
+        </activity>
+        <activity android:name=".GreetingText"
+        
+            >
+
+        </activity>
+
+        <activity android:name=".ChemistryCard"
+        
+            >
+
+        </activity>
+        <activity android:name=".ChemistryImage"
+        
+            >
+
+        </activity>
+        <activity android:name=".ChemistryText"
+        
+            >
+
+        </activity>
+
+        <activity android:name=".DetailsItem"
+        
+            >
+
+        </activity>
+
+
+        <activity
+            android:label=" Finnish Grammar"
+            android:name=".FinnishhRammarIntro"
+        >
+        </activity>
+
+
+        <activity
+            android:label="Finnish Alphabet"
+            android:name=".Scriptandortho"
+        >
+        </activity>
+        <activity
+            android:label="Vowel Harmony"
+            android:name=".Vowelhar"
+        >
+        </activity>
+
+        <activity
+            android:label="Consonant Gradation"
+            android:name=".Consonantgrd"
+        >
+        </activity>
+
+
+        <activity
+            android:label="Cases"
+            android:name=".Casess"
+        >
+        </activity>
+
+        <activity
+            android:label="Pronoun"
+            android:name=".Pronouns"
+        >
+        </activity>
+        <activity
+            android:label="Adjectives"
+            android:name=".Adjectives"
+        >
+        </activity>
+        <activity
+            android:label="Verb"
+            android:name=".Verb"
+        >
+        </activity>
+        <activity
+            android:label="Tenses"
+            android:name=".Tenses"
+        >
+        </activity>
+        <activity
+            android:label="Prepostion"
+            android:name=".Prepostion"
+        >
+        </activity>
+
+
+
+
+
+        <activity android:name=".SlideActivity"
+            android:label="Quick Tips"
+        
+            >
+
+        </activity>
+
+        <activity android:name=".Links"
+            android:label="Useful Links"
+        
+            >
+
+        </activity>
+
+
+        <activity
+            android:name=".VocabularyActivity"
+        
+            android:label="Vocabulary"
+          >
+        </activity>
+
+
+
+
+
+    </application>
+
+
+
+</manifest>

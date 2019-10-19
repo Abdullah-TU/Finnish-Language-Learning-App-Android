@@ -1,0 +1,760 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/back2"
+    >
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginLeft="25dp"
+        android:orientation="vertical">
+
+        <RelativeLayout
+            android:id="@+id/LinearLayout01"
+            android:orientation="horizontal"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content">
+
+            <ImageView
+                android:id="@+id/button1button"
+                android:layout_width="100dp"
+                android:layout_height="80dp"
+                android:layout_alignParentLeft="true"
+                android:layout_marginRight="10px"
+                android:background="@drawable/webweb">
+
+            </ImageView>
+
+            <TextView
+                android:id="@+id/firstedittext"
+                android:layout_width="181dp"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="10px"
+                android:layout_toRightOf="@id/button1button"
+                android:text="USEFUL LINKS"
+                android:textColor="#00FFFF"
+                android:layout_marginTop="10dp"
+                android:textStyle="bold"
+                android:textSize="24sp">
+
+            </TextView>
+
+        </RelativeLayout>
+
+
+        <HorizontalScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="16dp"
+            android:layout_marginTop="16dp"
+            android:textColor="#FFFFFF"
+            android:textStyle="normal|bold"
+            android:text="ONLINE COURSES AND WEB BASED LEARNING "/>
+
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+
+            <com.varunest.sparkbutton.SparkButton
+                android:id="@+id/atasteoffinnish"
+                android:layout_width="95dp"
+                android:layout_height="95dp"
+                app:sparkbutton_activeImage="@drawable/testoffinnish"
+                app:sparkbutton_inActiveImage="@drawable/testoffinnish"
+                app:sparkbutton_iconSize="95dp"
+                app:sparkbutton_primaryColor="@color/colorAccent"
+                app:sparkbutton_secondaryColor="@color/colorMain"
+                app:sparkbutton_animationSpeed="0.5"
+                android:layout_marginRight="20dp"/>
+
+
+            <com.varunest.sparkbutton.SparkButton
+                android:id="@+id/tavataantaas"
+                android:layout_width="95dp"
+                android:layout_height="95dp"
+                app:sparkbutton_activeImage="@drawable/finnishforforeigners"
+                app:sparkbutton_inActiveImage="@drawable/finnishforforeigners"
+                app:sparkbutton_iconSize="95dp"
+                app:sparkbutton_primaryColor="@color/colorAccent"
+                app:sparkbutton_secondaryColor="@color/colorMain"
+                app:sparkbutton_animationSpeed="1.5"
+                android:layout_marginRight="20dp"/>
+
+            <com.varunest.sparkbutton.SparkButton
+                android:id="@+id/language_training"
+                android:layout_width="95dp"
+                android:layout_height="95dp"
+                app:sparkbutton_activeImage="@drawable/languagetraining"
+                app:sparkbutton_inActiveImage="@drawable/languagetraining"
+                app:sparkbutton_iconSize="95dp"
+                app:sparkbutton_primaryColor="@color/colorAccent"
+                app:sparkbutton_secondaryColor="@color/colorMain"
+                app:sparkbutton_animationSpeed="2.5"
+                android:layout_marginRight="20dp"/>
+
+            <com.varunest.sparkbutton.SparkButton
+                android:id="@+id/finnishcourses"
+                android:layout_width="95dp"
+                android:layout_height="95dp"
+                app:sparkbutton_activeImage="@drawable/finnishcourses"
+                app:sparkbutton_inActiveImage="@drawable/finnishcourses"
+                app:sparkbutton_iconSize="95dp"
+                app:sparkbutton_primaryColor="@color/colorAccent"
+                app:sparkbutton_secondaryColor="@color/colorMain"
+                app:sparkbutton_animationSpeed="0.5"
+                android:layout_marginRight="20dp"/>
+
+
+            <com.varunest.sparkbutton.SparkButton
+                android:id="@+id/finnjoy"
+                android:layout_width="95dp"
+                android:layout_height="95dp"
+                app:sparkbutton_activeImage="@drawable/finjoy"
+                app:sparkbutton_inActiveImage="@drawable/finjoy"
+                app:sparkbutton_iconSize="95dp"
+                app:sparkbutton_primaryColor="@color/colorAccent"
+                app:sparkbutton_secondaryColor="@color/colorMain"
+                app:sparkbutton_animationSpeed="2.5"
+                android:layout_marginRight="20dp"/>
+
+            <com.varunest.sparkbutton.SparkButton
+                android:id="@+id/onnenkieli"
+                android:layout_width="95dp"
+                android:layout_height="95dp"
+                app:sparkbutton_activeImage="@drawable/onnenkieli"
+                app:sparkbutton_inActiveImage="@drawable/onnenkieli"
+                app:sparkbutton_iconSize="95dp"
+                app:sparkbutton_primaryColor="@color/colorAccent"
+                app:sparkbutton_secondaryColor="@color/colorMain"
+                app:sparkbutton_animationSpeed="0.5"
+                android:layout_marginRight="20dp"/>
+
+
+
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+    </HorizontalScrollView>
+
+        <HorizontalScrollView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="10dp"
+                    android:textColor="#FFFFFF"
+                    android:layout_marginTop="25dp"
+                    android:text="RECOMMENDED BOOKS AND DICTIONARIES" />
+
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal">
+
+
+                    <com.varunest.sparkbutton.SparkButton
+                        android:id="@+id/leilawhiteagrammarbookoffinnish"
+                        android:layout_width="95dp"
+                        android:layout_height="95dp"
+                        app:sparkbutton_activeImage="@drawable/agrammarbook"
+                        app:sparkbutton_inActiveImage="@drawable/agrammarbook"
+                        app:sparkbutton_iconSize="95dp"
+                        app:sparkbutton_primaryColor="@color/colorAccent"
+                        app:sparkbutton_secondaryColor="@color/colorMain"
+                        app:sparkbutton_animationSpeed="1.5"
+                        android:layout_marginRight="20dp"/>
+
+
+
+                    <com.varunest.sparkbutton.SparkButton
+                        android:id="@+id/suomenmestari1"
+                        android:layout_width="95dp"
+                        android:layout_height="95dp"
+                        app:sparkbutton_activeImage="@drawable/suomenmestari1"
+                        app:sparkbutton_inActiveImage="@drawable/suomenmestari1"
+                        app:sparkbutton_iconSize="95dp"
+                        app:sparkbutton_primaryColor="@color/colorAccent"
+                        app:sparkbutton_secondaryColor="@color/colorMain"
+                        app:sparkbutton_animationSpeed="0.5"
+                        android:layout_marginRight="20dp"/>
+
+
+                    <com.varunest.sparkbutton.SparkButton
+                        android:id="@+id/kuulostaahyvalta1"
+                        android:layout_width="95dp"
+                        android:layout_height="95dp"
+                        app:sparkbutton_activeImage="@drawable/kuulostaahyvalta"
+                        app:sparkbutton_inActiveImage="@drawable/kuulostaahyvalta"
+                        app:sparkbutton_iconSize="95dp"
+                        app:sparkbutton_primaryColor="@color/colorAccent"
+                        app:sparkbutton_secondaryColor="@color/colorMain"
+                        app:sparkbutton_animationSpeed="1.5"
+                        android:layout_marginRight="20dp"/>
+
+                    <com.varunest.sparkbutton.SparkButton
+                        android:id="@+id/hyvinmenee1"
+                        android:layout_width="95dp"
+                        android:layout_height="95dp"
+                        app:sparkbutton_activeImage="@drawable/hyvinmenee1"
+                        app:sparkbutton_inActiveImage="@drawable/hyvinmenee1"
+                        app:sparkbutton_iconSize="95dp"
+                        app:sparkbutton_primaryColor="@color/colorAccent"
+                        app:sparkbutton_secondaryColor="@color/colorMain"
+                        app:sparkbutton_animationSpeed="2.5"
+                        android:layout_marginRight="20dp"/>
+
+                    <com.varunest.sparkbutton.SparkButton
+                        android:id="@+id/omasuomi1"
+                        android:layout_width="95dp"
+                        android:layout_height="95dp"
+                        app:sparkbutton_activeImage="@drawable/omasuomi1"
+                        app:sparkbutton_inActiveImage="@drawable/omasuomi1"
+                        app:sparkbutton_iconSize="95dp"
+                        app:sparkbutton_primaryColor="@color/colorAccent"
+                        app:sparkbutton_secondaryColor="@color/colorMain"
+                        app:sparkbutton_animationSpeed="0.5"
+                        android:layout_marginRight="20dp"/>
+
+
+                    <com.varunest.sparkbutton.SparkButton
+                        android:id="@+id/kielikayttoon1"
+                        android:layout_width="95dp"
+                        android:layout_height="95dp"
+                        app:sparkbutton_activeImage="@drawable/kielikayttoon"
+                        app:sparkbutton_inActiveImage="@drawable/kielikayttoon"
+                        app:sparkbutton_iconSize="95dp"
+                        app:sparkbutton_primaryColor="@color/colorAccent"
+                        app:sparkbutton_secondaryColor="@color/colorMain"
+                        app:sparkbutton_animationSpeed="2.5"
+                        android:layout_marginRight="20dp"/>
+
+                    <com.varunest.sparkbutton.SparkButton
+                        android:id="@+id/sanakirja"
+                        android:layout_width="95dp"
+                        android:layout_height="95dp"
+                        app:sparkbutton_activeImage="@drawable/sakr"
+                        app:sparkbutton_inActiveImage="@drawable/sakr"
+                        app:sparkbutton_iconSize="95dp"
+                        app:sparkbutton_primaryColor="@color/colorAccent"
+                        app:sparkbutton_secondaryColor="@color/colorMain"
+                        app:sparkbutton_animationSpeed="0.5"
+                        android:layout_marginRight="20dp"/>
+
+                    <com.varunest.sparkbutton.SparkButton
+                        android:id="@+id/kielitoimistonsanakirja"
+                        android:layout_width="95dp"
+                        android:layout_height="95dp"
+                        app:sparkbutton_activeImage="@drawable/kielitoimistonsanakirja"
+                        app:sparkbutton_inActiveImage="@drawable/kielitoimistonsanakirja"
+                        app:sparkbutton_iconSize="95dp"
+                        app:sparkbutton_primaryColor="@color/colorAccent"
+                        app:sparkbutton_secondaryColor="@color/colorMain"
+                        app:sparkbutton_animationSpeed="0.5"
+                        android:layout_marginRight="20dp"/>
+
+
+                </LinearLayout>
+
+            </LinearLayout>
+        </HorizontalScrollView>
+
+
+        <HorizontalScrollView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textColor="#FFFFFF"
+                    android:layout_marginTop="25dp"
+                    android:layout_marginBottom="10dp"
+                    android:text="ONLINE GROUP AND SOCIAL MEDIA"/>
+
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal">
+
+
+                    <com.varunest.sparkbutton.SparkButton
+                        android:id="@+id/linguajoy"
+                        android:layout_width="95dp"
+                        android:layout_height="95dp"
+                        app:sparkbutton_activeImage="@drawable/linguajoy2"
+                        app:sparkbutton_inActiveImage="@drawable/linguajoy2"
+                        app:sparkbutton_iconSize="95dp"
+                        app:sparkbutton_primaryColor="@color/colorAccent"
+                        app:sparkbutton_secondaryColor="@color/colorMain"
+                        app:sparkbutton_animationSpeed="1.5"
+                        android:layout_marginRight="20dp"/>
+
+
+
+                    <com.varunest.sparkbutton.SparkButton
+                        android:id="@+id/finnishlanguagehelsinkiregion"
+                        android:layout_width="95dp"
+                        android:layout_height="95dp"
+                        app:sparkbutton_activeImage="@drawable/fb2"
+                        app:sparkbutton_inActiveImage="@drawable/fb2"
+                        app:sparkbutton_iconSize="95dp"
+                        app:sparkbutton_primaryColor="@color/colorAccent"
+                        app:sparkbutton_secondaryColor="@color/colorMain"
+                        app:sparkbutton_animationSpeed="0.5"
+                        android:layout_marginRight="20dp"/>
+
+
+                    <com.varunest.sparkbutton.SparkButton
+                        android:id="@+id/groups13522116475"
+                        android:layout_width="95dp"
+                        android:layout_height="95dp"
+                        app:sparkbutton_activeImage="@drawable/fb3"
+                        app:sparkbutton_inActiveImage="@drawable/fb3"
+                        app:sparkbutton_iconSize="95dp"
+                        app:sparkbutton_primaryColor="@color/colorAccent"
+                        app:sparkbutton_secondaryColor="@color/colorMain"
+                        app:sparkbutton_animationSpeed="1.5"
+                        android:layout_marginRight="20dp"/>
+
+                    <com.varunest.sparkbutton.SparkButton
+                        android:id="@+id/groups2064891"
+                        android:layout_width="95dp"
+                        android:layout_height="95dp"
+                        app:sparkbutton_activeImage="@drawable/fb1"
+                        app:sparkbutton_inActiveImage="@drawable/fb1"
+                        app:sparkbutton_iconSize="95dp"
+                        app:sparkbutton_primaryColor="@color/colorAccent"
+                        app:sparkbutton_secondaryColor="@color/colorMain"
+                        app:sparkbutton_animationSpeed="2.5"
+                        android:layout_marginRight="20dp"/>
+
+                    <com.varunest.sparkbutton.SparkButton
+                        android:id="@+id/opiskelemmesuomea"
+                        android:layout_width="95dp"
+                        android:layout_height="95dp"
+                        app:sparkbutton_activeImage="@drawable/fb4"
+                        app:sparkbutton_inActiveImage="@drawable/fb4"
+                        app:sparkbutton_iconSize="95dp"
+                        app:sparkbutton_primaryColor="@color/colorAccent"
+                        app:sparkbutton_secondaryColor="@color/colorMain"
+                        app:sparkbutton_animationSpeed="0.5"
+                        android:layout_marginRight="20dp"/>
+
+
+                    <com.varunest.sparkbutton.SparkButton
+                        android:id="@+id/finnishlanguageclub4bd"
+                        android:layout_width="95dp"
+                        android:layout_height="95dp"
+                        app:sparkbutton_activeImage="@drawable/fb5"
+                        app:sparkbutton_inActiveImage="@drawable/fb5"
+                        app:sparkbutton_iconSize="95dp"
+                        app:sparkbutton_primaryColor="@color/colorAccent"
+                        app:sparkbutton_secondaryColor="@color/colorMain"
+                        app:sparkbutton_animationSpeed="2.5"
+                        android:layout_marginRight="20dp"/>
+
+
+                </LinearLayout>
+
+            </LinearLayout>
+        </HorizontalScrollView>
+
+
+
+
+    <HorizontalScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#FFFFFF"
+            android:layout_marginBottom="10dp"
+            android:layout_marginTop="25dp"
+            android:text="GRAMMAR AND VOCABULARY"/>
+
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+
+
+            <com.varunest.sparkbutton.SparkButton
+                android:id="@+id/vocabulary"
+                android:layout_width="95dp"
+                android:layout_height="95dp"
+                app:sparkbutton_activeImage="@drawable/vocabulary"
+                app:sparkbutton_inActiveImage="@drawable/vocabulary"
+                app:sparkbutton_iconSize="95dp"
+                app:sparkbutton_primaryColor="@color/colorAccent"
+                app:sparkbutton_secondaryColor="@color/colorMain"
+                app:sparkbutton_animationSpeed="1.5"
+                android:layout_marginRight="20dp"/>
+
+
+
+            <com.varunest.sparkbutton.SparkButton
+                android:id="@+id/grammar"
+                android:layout_width="95dp"
+                android:layout_height="95dp"
+                app:sparkbutton_activeImage="@drawable/grammar"
+                app:sparkbutton_inActiveImage="@drawable/grammar"
+                app:sparkbutton_iconSize="95dp"
+                app:sparkbutton_primaryColor="@color/colorAccent"
+                app:sparkbutton_secondaryColor="@color/colorMain"
+                app:sparkbutton_animationSpeed="0.5"
+                android:layout_marginRight="20dp"/>
+
+
+            <com.varunest.sparkbutton.SparkButton
+                android:id="@+id/finnishpod101"
+                android:layout_width="95dp"
+                android:layout_height="95dp"
+                app:sparkbutton_activeImage="@drawable/finnishpod101"
+                app:sparkbutton_inActiveImage="@drawable/finnishpod101"
+                app:sparkbutton_iconSize="95dp"
+                app:sparkbutton_primaryColor="@color/colorAccent"
+                app:sparkbutton_secondaryColor="@color/colorMain"
+                app:sparkbutton_animationSpeed="1.5"
+                android:layout_marginRight="20dp"/>
+
+            <com.varunest.sparkbutton.SparkButton
+                android:id="@+id/verbix"
+                android:layout_width="95dp"
+                android:layout_height="95dp"
+                app:sparkbutton_activeImage="@drawable/verbix"
+                app:sparkbutton_inActiveImage="@drawable/verbix"
+                app:sparkbutton_iconSize="95dp"
+                app:sparkbutton_primaryColor="@color/colorAccent"
+                app:sparkbutton_secondaryColor="@color/colorMain"
+                app:sparkbutton_animationSpeed="2.5"
+                android:layout_marginRight="20dp"/>
+
+
+
+
+        </LinearLayout>
+
+    </LinearLayout>
+    </HorizontalScrollView>
+
+
+
+
+
+
+        <HorizontalScrollView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textColor="#FFFFFF"
+                    android:layout_marginBottom="10dp"
+                    android:layout_marginTop="25dp"
+                    android:text="NEWSPAPER AND MEDIA"/>
+
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal">
+
+
+
+                    <com.varunest.sparkbutton.SparkButton
+                        android:id="@+id/news"
+                        android:layout_width="95dp"
+                        android:layout_height="95dp"
+                        app:sparkbutton_activeImage="@drawable/news"
+                        app:sparkbutton_inActiveImage="@drawable/news"
+                        app:sparkbutton_iconSize="95dp"
+                        app:sparkbutton_primaryColor="@color/colorAccent"
+                        app:sparkbutton_secondaryColor="@color/colorMain"
+                        app:sparkbutton_animationSpeed="1.5"
+                        android:layout_marginRight="20dp"/>
+
+
+
+                    <com.varunest.sparkbutton.SparkButton
+                        android:id="@+id/osasto"
+                        android:layout_width="95dp"
+                        android:layout_height="95dp"
+                        app:sparkbutton_activeImage="@drawable/ylenews"
+                        app:sparkbutton_inActiveImage="@drawable/ylenews"
+                        app:sparkbutton_iconSize="95dp"
+                        app:sparkbutton_primaryColor="@color/colorAccent"
+                        app:sparkbutton_secondaryColor="@color/colorMain"
+                        app:sparkbutton_animationSpeed="0.5"
+                        android:layout_marginRight="20dp"/>
+
+
+                    <com.varunest.sparkbutton.SparkButton
+                        android:id="@+id/hs"
+                        android:layout_width="95dp"
+                        android:layout_height="95dp"
+                        app:sparkbutton_activeImage="@drawable/hs"
+                        app:sparkbutton_inActiveImage="@drawable/hs"
+                        app:sparkbutton_iconSize="95dp"
+                        app:sparkbutton_primaryColor="@color/colorAccent"
+                        app:sparkbutton_secondaryColor="@color/colorMain"
+                        app:sparkbutton_animationSpeed="1.5"
+                        android:layout_marginRight="20dp"/>
+
+
+
+
+
+                </LinearLayout>
+
+            </LinearLayout>
+        </HorizontalScrollView>
+
+
+
+
+
+        <HorizontalScrollView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textColor="#FFFFFF"
+                    android:layout_marginBottom="10dp"
+                    android:layout_marginTop="25dp"
+                    android:text="WATCH AND LEARN"/>
+
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal">
+
+                    <com.varunest.sparkbutton.SparkButton
+                        android:id="@+id/areena"
+                        android:layout_width="95dp"
+                        android:layout_height="95dp"
+                        app:sparkbutton_activeImage="@drawable/yletv"
+                        app:sparkbutton_inActiveImage="@drawable/yletv"
+                        app:sparkbutton_iconSize="95dp"
+                        app:sparkbutton_primaryColor="@color/colorAccent"
+                        app:sparkbutton_secondaryColor="@color/colorMain"
+                        app:sparkbutton_animationSpeed="1.5"
+                        android:layout_marginRight="20dp"/>
+
+
+
+                    <com.varunest.sparkbutton.SparkButton
+                        android:id="@+id/linkki"
+                        android:layout_width="95dp"
+                        android:layout_height="95dp"
+                        app:sparkbutton_activeImage="@drawable/tvprograms"
+                        app:sparkbutton_inActiveImage="@drawable/tvprograms"
+                        app:sparkbutton_iconSize="95dp"
+                        app:sparkbutton_primaryColor="@color/colorAccent"
+                        app:sparkbutton_secondaryColor="@color/colorMain"
+                        app:sparkbutton_animationSpeed="0.5"
+                        android:layout_marginRight="20dp"/>
+
+
+                    <com.varunest.sparkbutton.SparkButton
+                        android:id="@+id/telecommunications"
+                        android:layout_width="95dp"
+                        android:layout_height="95dp"
+                        app:sparkbutton_activeImage="@drawable/tvandmedia"
+                        app:sparkbutton_inActiveImage="@drawable/tvandmedia"
+                        app:sparkbutton_iconSize="95dp"
+                        app:sparkbutton_primaryColor="@color/colorAccent"
+                        app:sparkbutton_secondaryColor="@color/colorMain"
+                        app:sparkbutton_animationSpeed="1.5"
+                        android:layout_marginRight="20dp"/>
+
+
+
+
+                </LinearLayout>
+
+            </LinearLayout>
+        </HorizontalScrollView>
+
+
+        <HorizontalScrollView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textColor="#FFFFFF"
+                    android:layout_marginBottom="10dp"
+                    android:layout_marginTop="25dp"
+                    android:text="LISTEN AND LEARN"/>
+
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal">
+
+
+                    <com.varunest.sparkbutton.SparkButton
+                        android:id="@+id/listenlive"
+                        android:layout_width="95dp"
+                        android:layout_height="95dp"
+                        app:sparkbutton_activeImage="@drawable/listofradio"
+                        app:sparkbutton_inActiveImage="@drawable/listofradio"
+                        app:sparkbutton_iconSize="95dp"
+                        app:sparkbutton_primaryColor="@color/colorAccent"
+                        app:sparkbutton_secondaryColor="@color/colorMain"
+                        app:sparkbutton_animationSpeed="1.5"
+                        android:layout_marginRight="20dp"/>
+
+
+
+                    <com.varunest.sparkbutton.SparkButton
+                        android:id="@+id/radio"
+                        android:layout_width="95dp"
+                        android:layout_height="95dp"
+                        app:sparkbutton_activeImage="@drawable/radio"
+                        app:sparkbutton_inActiveImage="@drawable/radio"
+                        app:sparkbutton_iconSize="95dp"
+                        app:sparkbutton_primaryColor="@color/colorAccent"
+                        app:sparkbutton_secondaryColor="@color/colorMain"
+                        app:sparkbutton_animationSpeed="0.5"
+                        android:layout_marginRight="20dp"/>
+
+
+
+
+                </LinearLayout>
+
+            </LinearLayout>
+        </HorizontalScrollView>
+
+
+        <HorizontalScrollView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textColor="#FFFFFF"
+                    android:layout_marginBottom="10dp"
+                    android:layout_marginTop="25dp"
+                    android:text="LANGUAGE SCHOOL AND COURSES"/>
+
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal">
+
+
+                    <com.varunest.sparkbutton.SparkButton
+                        android:id="@+id/language_trainin"
+                        android:layout_width="95dp"
+                        android:layout_height="95dp"
+                        app:sparkbutton_activeImage="@drawable/languagetraining"
+                        app:sparkbutton_inActiveImage="@drawable/languagetraining"
+                        app:sparkbutton_iconSize="95dp"
+                        app:sparkbutton_primaryColor="@color/colorAccent"
+                        app:sparkbutton_secondaryColor="@color/colorMain"
+                        app:sparkbutton_animationSpeed="1.5"
+                        android:layout_marginRight="20dp"/>
+
+
+
+                    <com.varunest.sparkbutton.SparkButton
+                        android:id="@+id/finnishcourse"
+                        android:layout_width="95dp"
+                        android:layout_height="95dp"
+                        app:sparkbutton_activeImage="@drawable/finnishcourses"
+                        app:sparkbutton_inActiveImage="@drawable/finnishcourses"
+                        app:sparkbutton_iconSize="95dp"
+                        app:sparkbutton_primaryColor="@color/colorAccent"
+                        app:sparkbutton_secondaryColor="@color/colorMain"
+                        app:sparkbutton_animationSpeed="0.5"
+                        android:layout_marginRight="20dp"
+                        android:layout_marginBottom="40dp"/>
+
+
+                </LinearLayout>
+
+            </LinearLayout>
+        </HorizontalScrollView>
+
+
+
+
+</LinearLayout>
+
+
+
+    </ScrollView>

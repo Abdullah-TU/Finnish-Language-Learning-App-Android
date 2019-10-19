@@ -1,0 +1,128 @@
+<resources>
+
+
+<string-array name="color_title">
+
+
+
+   <item>Värit</item> 
+   <item>Musta</item>
+   <item>Sininen</item>
+
+   <item>Vihreä</item> 
+   <item>Harmaa</item> 
+   <item>Oranssi</item>  
+  
+   <item>Pinkki</item> 
+   <item>Violetti</item> 
+   <item>Punainen</item> 
+
+   <item>Valkoinen</item>
+   <item>Keltainen</item>
+
+    
+
+
+</string-array>
+
+<string-array name="colorsub_title">
+  
+
+   <item> Colors</item>
+   <item> Black</item> 
+   <item> Blue</item> 
+
+   <item> Green</item> 
+   <item> Grey</item> 
+   <item> Orange</item> 
+
+   <item> Pink</item> 
+   <item> Purple</item> 
+   <item> Red</item> 
+
+   <item> White</item> 
+   <item> Yellow</item> 
+    
+
+</string-array>
+
+<string-array name="colorimage_title">
+    
+
+
+<item>@drawable/colors</item>
+   <item>@drawable/black</item>
+   <item>@drawable/blue</item>
+
+   <item>@drawable/green</item>
+   <item>@drawable/grey</item>
+   <item>@drawable/orangecolor</item>
+
+   <item>@drawable/pink</item>
+   <item>@drawable/purple</item>
+   <item>@drawable/red</item>
+
+   <item>@drawable/white</item>
+   <item>@drawable/yellow</item>
+
+
+</string-array>
+
+<string-array name="colornew_title">
+    <item>Ylläsi on väärät värit. \n\n Meaning:You\'re wearing the wrong color.</item>
+    <item>Oli asiakas sitten mies tai nainen, musta tai valkoinen. \n\n Meaning:Man or woman, black or white. I don\'t discriminate.</item>
+    <item>Sininen kylmälaukku?\n\n Meaning: Redder! - The blue cooler?</item>
+
+    <item>Keltainen liekki, vihreä leimahdus. \n\n Meaning:Yellow flame, green bursts.</item>
+    <item>Eli Harmaa Pyhiinvaeltaja. \n\n Meaning:It means, Grey Pilgrim.</item>
+    <item>Oranssi ei ole lempivärini.\n\n Meaning: Wow, I\'m not a big fan of the orange.</item>
+
+    <item> Onko hänellä yhä pinkki tukka? \n\n Meaning:Does she still have that pink hair?</item>
+    <item>Se on se sama violetti laatikko. \n\n Meaning:It\'s that same violet box</item>
+    <item>Onko punainen viulumme se Punainen viulu? \n\n Meaning:Is our little red violin the Red Violin?</item>
+
+    <item>valkoinen suklaa.\n\n Meaning: White chocolate</item>
+    <item>Keltainen ilmaisee, että tietokone on mahdollisesti suojaamaton.\n\n Meaning:Yellow indicates that your PC\'s status is "potentially unprotected."</item>
+
+
+
+
+</string-array>
+
+<string-array name="colorsong">
+   
+<item>@raw/varit</item> 
+   <item>@raw/musta</item>
+   <item>@raw/sininen</item>
+
+   <item>@raw/vihrea</item> 
+   <item>@raw/harmaa</item> 
+   <item>@raw/oranssi</item> 
+   
+<item>@raw/pinkki</item> 
+   <item>@raw/violetti</item> 
+   <item>@raw/punainen</item> 
+
+   <item>@raw/valkoinen</item> 
+   <item>@raw/keltainen</item> 
+
+
+</string-array>
+
+
+
+
+
+
+
+
+
+
+
+
+</resources>
+
+
+
+
+

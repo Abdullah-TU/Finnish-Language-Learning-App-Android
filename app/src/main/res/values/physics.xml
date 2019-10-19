@@ -1,0 +1,114 @@
+<resources>
+
+
+
+<string-array name="physics_title">
+<item>Lämpö</item>
+<item>Höyry</item>
+<item>Laajeta</item>
+
+<item>Sulaa</item>
+<item>Sulamispiste</item>
+<item>Kiehua</item>
+
+<item>Magneetismi</item>
+<item>Magneetti</item>
+<item>Generaattori</item>
+
+<item>Painovoima</item>
+<item>Valo</item>
+
+</string-array>
+
+<string-array name="physicssub_title">
+
+  
+<item>Heat</item>
+<item>Steam</item>
+<item>To expand</item>
+
+<item>To melt</item>
+<item>Melting point</item>
+<item>To boil</item>
+
+<item>Magnetism</item>
+<item>Magnet</item>
+<item>Generator</item>
+
+<item>Gravitation</item>
+<item>Light</item>
+
+
+</string-array>
+
+<string-array name="physicsimage_title">
+    
+
+<item>@drawable/heat</item>
+<item>@drawable/stream</item>
+<item>@drawable/toexpand</item>
+
+<item>@drawable/tomelt</item>
+<item>@drawable/meltu</item>
+<item>@drawable/toboil</item>
+
+<item>@drawable/magnetism</item>
+<item>@drawable/magnet</item>
+<item>@drawable/generator</item>
+
+<item>@drawable/gravitation</item>
+<item>@drawable/light</item>
+
+
+</string-array>
+
+<string-array name="physicsnew_title">
+    <item>Kesän lämpö on miellyttävää.\n\n Meaning:Summer heat is pleasant.</item>
+    <item>Bordelles, höyry on päällä. \n\n Meaning:Mr Bordelles, steam is up.</item>
+    <item>Metalli laajentuu lämmössä.\n\n Meaning:The metal expands in heat.</item>
+
+    <item>Kulta sulaa syanidiliuokseen.\n\n Meaning:The gold melts in the cyanide solution.</item>
+    <item>jonka sulamispiste on vähintään 268 °C mutta enintään 272 °C, \n\n Meaning:a melting point of 268 °C or more but not more than 272 °C</item>
+    <item>Vesi alkaa kiehua 100 celsiusasteessa.\n\n Meaning:Water begins to boil at 100 degrees Celsius.</item>
+
+    <item>Magnetism is a physical phenomenon</item>
+    <item>Magneetti on kappale, joka luo ympärilleen magneettikentän.\n\n Meaning:The magnet is a piece that creates a magnetic field around it.</item>
+    <item> Tarkista generaattori.\n\n Meaning: Check the generator.</item>
+
+    <item>Maan painovoima lisää 5 kiloa.\n\n Meaning:Earth\'s gravity adds 5 pounds.</item>
+    <item>Autossa on pidettävä valoja ajaessa.\n\n Meaning:The car must keep the lights running.</item>
+</string-array>
+
+<string-array name="physicssong">
+   
+
+
+<item>@raw/lampo</item>
+<item>@raw/hoyry</item>
+<item>@raw/laajeta</item>
+
+<item>@raw/sulaa</item>
+<item>@raw/sulamispiste</item>
+<item>@raw/kiehua</item>
+
+<item>@raw/magneetismi</item>
+<item>@raw/magneetti</item>
+<item>@raw/generaattori</item>
+
+<item>@raw/painovoima</item>
+<item>@raw/valo</item>
+
+</string-array>
+
+
+
+
+
+
+
+</resources>
+
+
+
+
+

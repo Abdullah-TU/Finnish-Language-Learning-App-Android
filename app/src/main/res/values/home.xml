@@ -1,0 +1,142 @@
+<resources>
+
+
+
+
+<string-array name="home_title">
+
+
+
+<item>Koti</item> 
+<item>Ovi</item> 
+<item>Lattia</item> 
+
+<item>Matto</item>
+<item>Ikkuna</item> 
+<item>Vessa (WC)</item>
+
+<item>Pyyhe</item>
+<item>Saippua</item>
+<item>Keittiö</item>
+
+<item>Uuni</item>
+<item>Kylpyhuone</item>
+<item>Olohuone</item>
+
+<item>Makuuhuone</item>
+<item>Huopa</item>
+<item>Tyyny</item>
+
+
+</string-array>
+
+<string-array name="homesub_title">
+  
+<item> Home</item>
+<item> Door</item> 
+<item> Floor</item> 
+
+<item> Mat</item> 
+<item> Window</item> 
+<item>Toilet</item>
+
+<item>Towel</item>
+<item>Soap</item>
+<item>Kitchen</item>
+
+<item>Oven</item>
+<item>Bathroom</item>
+<item>Living room</item>
+
+<item>Bedroom</item>
+<item>Blanket</item>
+<item>Pillow</item>
+
+
+</string-array>
+
+<string-array name="homeimage_title">
+    
+
+
+<item>@drawable/myhome</item>
+<item>@drawable/doo</item>
+<item>@drawable/floor</item> 
+
+<item>@drawable/mat</item> 
+<item>@drawable/window</item> 
+<item>@drawable/toilet</item>
+
+<item>@drawable/towel</item> 
+<item>@drawable/soap</item> 
+<item>@drawable/kitchen</item> 
+
+<item>@drawable/oven</item> 
+<item>@drawable/bathroom</item>
+<item>@drawable/livingroom</item>
+
+<item>@drawable/bedroom</item> 
+<item>@drawable/blanket</item> 
+<item>@drawable/pillow</item> 
+
+
+
+
+</string-array>
+
+<string-array name="homenew_title">
+    <item>Meillä on nyt yhteinen koti.\n\n Meaning: We now share the same house </item>
+    <item>Meillä on upea ikkuna talossamme.\n\n Meaning: We have a wonderful window in our house.</item>
+    <item>Se ei olisi katto vaan lattia.\n\n Meaning: It would not be a ceiling but a floor.</item>
+
+    <item>Keskellä tietä oli pelkkä matto.\n\n Meaning:There was a simple carpet in the middle of the road.</item>
+    <item>Sulje ikkuna \n\n Meaning:Close the window</item>
+    <item>missä on vessa\n\n Meaning: where is the toilet</item>
+
+    <item>Ota pyyhe ja ala kuivat astioita.\n\n Meaning:Take the towel and dry the dry dishes.</item>
+    <item>Saippua on perinteisesti tehty eläinrasvoista ja lipeästä.\n\n Meaning:Soap has traditionally been made of animal fat and lye.</item>
+    <item>Isä laittaa ruokaa keittiössä.\n\n Meaning:Dad puts food in the kitchen.</item>
+
+    <item>Tämä on uuni \n\n Meaning:This is oven</item>
+    <item>Tuolla on keittiö ja kylpyhuone. \n\n Meaning:There\'s a kitchen and a bathroom.</item>
+    <item>Tässä on olohuone.\n\n Meaning:Here is the living room.</item>
+
+    <item>Tämä on vanhempieni makuuhuone.\n\n Meaning: This is my parents\' bedroom.</item>
+    <item>Vedä huopa peitoksi.\n\n Meaning:Pull the blanket off.</item>
+    <item>Hyvää sapuskaa, - pehmeä tyyny - ja lämmin kamiina. \n\n Meaning:Good food, soft pillow, warm stove.</item>
+
+    
+</string-array>
+
+<string-array name="homesong">
+   
+
+
+<item>@raw/koti</item> 
+<item>@raw/ovi</item> 
+<item>@raw/lattia</item> 
+<item>@raw/matto</item> 
+<item>@raw/ikkuna</item>
+<item>@raw/vessa</item>
+<item>@raw/pyyhe</item>
+<item>@raw/saippua</item>
+<item>@raw/keittio</item>
+<item>@raw/uuni</item>
+<item>@raw/kylpyhuone</item>
+<item>@raw/olohuone</item>
+<item>@raw/makuuhuone</item>
+<item>@raw/huopa</item>
+<item>@raw/tyyny</item>
+
+
+
+</string-array>
+
+
+</resources>
+
+
+
+
+
+

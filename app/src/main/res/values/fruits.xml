@@ -1,0 +1,173 @@
+<resources>
+
+
+
+<string-array name="fruits_title">
+
+
+<item>Mango</item> 
+<item>Vesimeloni</item> 
+<item>Banaani</item>
+
+<item>Viinirypäleitä</item> 
+<item>Kiivi</item>
+<item>Avocado</item>
+
+<item>Omena</item> 
+<item>Persimoni</item>
+<item>Appelsiini</item>
+
+<item>Ananas</item> 
+<item>Vadelma</item>
+<item>Mansikka</item>
+
+<item>Taateli</item> 
+<item>Guava</item> 
+<item>Hasselpähkinä</item>
+
+<item>Litsi</item> 
+<item>Oliivi</item>
+<item>Papaija</item>
+
+<item>Luumu</item> 
+<item>Tamarindi</item> 
+    
+
+</string-array>
+
+
+<string-array name="fruitssub_title">
+
+<item>Mango</item> 
+<item>Watermelon</item> 
+<item>Banana</item>
+
+<item>Grapes</item> 
+<item>Kiwi</item>
+<item>Avocado</item>
+
+<item>Apple</item> 
+<item>Persimmon</item>
+<item>Orange</item>
+
+<item>Pineapple</item> 
+<item>Raspberry</item>
+<item>Strawberry</item>
+
+<item>Date</item> 
+<item>Guava</item>
+<item>Hazelnut</item>
+
+<item>Lychee</item> 
+<item>Olive</item>
+<item>Papaya</item>
+
+<item>Plum</item> 
+<item>Tamarind</item> 
+    
+
+</string-array>
+
+<string-array name="fruitsimage_title">
+
+
+<item>@drawable/mango</item> 
+<item>@drawable/watermelon</item>
+<item>@drawable/banana</item>
+
+<item>@drawable/grapes</item> 
+<item>@drawable/kiwi</item>
+<item>@drawable/avocado</item>
+
+<item>@drawable/apple</item> 
+<item>@drawable/persimmon</item>
+<item>@drawable/orange</item>
+
+<item>@drawable/pineapple</item> 
+<item>@drawable/raspberry</item>
+<item>@drawable/strawberry</item>
+
+<item>@drawable/date</item> 
+<item>@drawable/guava</item>
+<item>@drawable/hazelnut</item>
+
+<item>@drawable/lychee</item> 
+<item>@drawable/olive</item>
+<item>@drawable/papaya</item>
+
+<item>@drawable/plum</item> 
+<item>@drawable/tamarind</item> 
+
+
+</string-array>
+
+<string-array name="fruitsnew_title">
+
+    <item>Mangot ovat mehukkaita kivihedelmiä.\n\n Meaning:Mangoes are juicy stone fruit.</item>
+    <item>Vesimeloni on Citrullus-sukuun kuuluva viljelyskasvi ja sen hedelmä. Watermelon is a cultivar of Citrullus and its fruit.</item>
+    <item>Noniin, kuka tahtoo banaani-pähkinävoi lettuja?\n\n Meaning: All right, who\'s ready for some banana-peanut butter pancakes?</item>
+
+    <item>Viinirypäle on viiniköynnös kasveihin (Vitaceae) kuuluvien viiniköynnösten (Vitis) hedelmä.\n\n Meaning:A grape is a fruit, botanically a berry, of the deciduous woody vines of the flowering plant genus Vitis.</item>
+    <item>Kiivi on yleisnimi laikkuköynnösten sukuun kuuluvien kasvien hedelmälle.\n\n Meaning: Kiwif is the edible berry of several species of woody vines in the genus Actinidia. </item>
+    <item>Avokado on ainutlaatuinen hedelmä.\n\n Meaning:The avocado is a unique type of fruit. </item>
+
+    <item>Yksi mätä omena joukossa ei haittaa. \n\n Meaning:One rotten apple ain\'t so bad.</item>
+    <item>Persimoni on eebenpuihin kuuluva hedelmäpuu.\n\n Meaning: The persimmon tree is a fruit tree belonging to the Ebenaceae family.</item>
+    <item>Greippi- vai appelsiinimehua? -Appelsiini. \n\n Meaning:Do you want a grapefruit or orange juice?</item>
+
+    <item>Ananas on trooppinen kasvi, jossa on syötäviä useita hedelmiä, jotka koostuvat coalesced marjoista.\n\n Meaning:The pineapple is a tropical plant with an edible multiple fruit consisting of coalesced berries.</item>
+    <item>Vadelma on punainen, syötävä ja makea, mutta kermavaahtoinen hedelmä.\n\n Meaning: Raspberry is red, edible, and sweet but tart-flavoured fruit.</item>
+    <item> Mansikat (Fragaria) on ruusukasveihin (Rosaceae) kuuluva kasvisuku. \n\n Meaning:Strawberries are perennial rotundous herbaceous plants</item>
+
+    <item>Taateli on maistuva sellaisenaan jälkiruokana muiden hedelmien tapaan.\n\n Meaning:The dough is tasty as it is dessert like other fruits.</item>
+    <item>Guava-hedelmät, yleensä 4-12 senttimetriä , ovat pyöreitä tai soikeita lajista riippuen.\n\n Meaning:Guava fruits, usually 4 to 12 centimetres long, are round or oval depending on the species.</item>
+    <item>Hasselpähkinä tunnetaan nimellä cobnut tai filbert nut lajien mukaan\n\n Meaning: The hazelnut is known as cobnut or filbert nut according to species</item>
+
+    <item>Sulla on litsit auki.\n\n Meaning:You got open lychee.</item>
+    <item>Miksi oliivi ei ole lasissa? \n\n Meaning:Why is that olive out of the glass?</item>
+    <item>Papaija on makea hedelmä.\n\n Meaning: Papaija is a sweet fruit.</item>
+
+    <item>Luumu on maukas hedelmä.\n\n Meaning:Palm is a tasty fruit.</item>
+    <item>Tamarindi- vai luumumehua?\n\n Meaning: Tamarind or plum juice?</item>
+    
+</string-array>
+
+<string-array name="fruitssong">
+   
+
+
+<item>@raw/mango</item> 
+<item>@raw/vesimeloni</item> 
+
+<item>@raw/banaani</item> 
+<item>@raw/viinirypaleita</item>
+<item>@raw/kiivi</item>
+
+<item>@raw/avoc</item>
+<item>@raw/omena</item> 
+<item>@raw/persimoni</item> 
+
+<item>@raw/appelsiini</item>
+<item>@raw/ananas</item> 
+<item>@raw/vadelma</item> 
+
+<item>@raw/mansikka</item>
+<item>@raw/taateli</item> 
+<item>@raw/guava</item> 
+
+<item>@raw/hasselpahkina</item>
+<item>@raw/litsiluumu</item>
+<item>@raw/oliivi</item>
+
+<item>@raw/papaija</item>
+<item>@raw/luumu</item> 
+<item>@raw/tamarindi</item> 
+
+
+</string-array>
+    </resources>
+
+
+
+
+

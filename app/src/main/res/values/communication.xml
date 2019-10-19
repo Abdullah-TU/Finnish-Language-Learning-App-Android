@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string-array name="communication_title">
+
+        <item>Keskustelu</item>
+        <item>Kokous</item>
+        <item>Sähköposti</item>
+
+        <item>Puhelin</item>
+        <item>Matkapuhelin</item>
+        <item>Ilmoittaa</item>
+
+        <item>Jutella</item>
+        <item>Keskustella</item>
+        <item>Komentaa</item>
+
+        <item>Kommunikoida</item>
+        <item>Kutsua</item>
+        <item>Kuunnella</item>
+
+        <item>Kysyä</item>
+        <item>Käskeä</item>
+        <item>Puhua</item>
+
+        <item>Pyytää</item>
+        <item>Riidellä</item>
+
+
+    </string-array>
+
+
+    <string-array name="communicationsub_title">
+
+
+        <item>Conversation</item>
+        <item>Meeting</item>
+        <item>Email</item>
+
+        <item>Telephone</item>
+        <item>Mobile</item>
+        <item>Inform</item>
+
+        <item>Chat</item>
+        <item>Converse</item>
+        <item>Command</item>
+
+        <item>Communicate</item>
+        <item>Invite</item>
+        <item>Listen</item>
+
+        <item>Ask</item>
+        <item>Order</item>
+        <item>Speak</item>
+
+        <item>Request</item>
+        <item>Argue</item>
+
+
+    </string-array>
+
+    <string-array name="communicationimage_title">
+
+
+        <item>@drawable/toconverse</item>
+        <item>@drawable/meeting</item>
+        <item>@drawable/email</item>
+
+        <item>@drawable/telephone</item>
+        <item>@drawable/mobile</item>
+        <item>@drawable/toinform</item>
+
+        <item>@drawable/tochat</item>
+        <item>@drawable/toconverse</item>
+        <item>@drawable/tocommand</item>
+
+        <item>@drawable/tocommunicate</item>
+        <item>@drawable/toinvite</item>
+        <item>@drawable/tolisten</item>
+
+        <item>@drawable/toask</item>
+        <item>@drawable/toorder</item>
+        <item>@drawable/tospeak</item>
+
+        <item>@drawable/torequest</item>
+        <item>@drawable/toargue</item>
+
+
+    </string-array>
+
+    <string-array name="communicationnew_title">
+        <item>Minusta meillä on oikein mukava keskustelu.\n\n Meaning:I think we have a nice conversation.</item>
+        <item>Yhdistyksen perustava kokous pidetään ensi viikon perjantaina.\n\n Meaning:The founding meeting will be held next Friday. </item>
+        <item>Voit synkronoida yhteystiedot kahdella tavalla: Sähköposti-sovelluksesta tai Ihmiset-sovelluksesta.\n\n Meaning: There are two ways to sync your contacts—from the Mail app or from the People app.</item>
+
+        <item>Kuluttajansuojaan liittyvä auttava puhelin on luonteeltaan aivan erilainen.\n\n Meaning:As far as the other hotline of consumer protection is concerned, it is a very different issue.</item>
+        <item>Useimmilla meistä on matkapuhelin!\n\n Meaning:Most of us have mobile phones!</item>
+        <item>Parlamentin pääsihteeristö tiedottaa meille asiasta mitä pikimmin.\n\n Meaning:The Secretary-General of Parliament will inform us as soon as possible.</item>
+
+        <item>Oli todella mukavaa jutella kanssasi!\n\n Meaning:It\'s been really nice talking to you!</item>
+        <item>Euroopan unioni taas perustuu päinvastaiseen periaatteeseen.\n\n Meaning:The European Union, by contrast, is founded on the converse principle.</item>
+        <item>Ette kuitenkaan voi perustaa sitä, koska se ei voi hallita kansan tukea.\n\n Meaning:Yet you cannot do it, because it will not command public support.</item>
+
+        <item>Kieli on rauhanomaisin tapa kommunikoida.\n\n Meaning:Language is the most peaceful way of communicating.</item>
+        <item>Nyt minulla on suuri kunnia kutsua teidät pitämään puheenne parlamentissa.\n\n Meaning:It is now my great honour and privilege to invite you to address the House.</item>
+        <item>Ensin kuuntelette ja sitten sanotte: " Ei toki, en halunnutkaan kuunnella" .\n\n Meaning:First you listen and then you say: \' No, I did not want to listen\' .</item>
+
+        <item>Haluaisin erityisesti kysyä, kohteleeko komissio kansalaisia yhdenmukaisesti?\n\n Meaning:Could I ask, in particular, for consistency in how the Commission deals with citizens?</item>
+        <item>Käsky kuuluu: "Tie auki vapaille kuorma-autoille".\n\n Meaning:‘Road clear for free lorries’ is the order of the day.</item>
+        <item>Jäsenillä on yksi minuutti aikaa puhua esityksen puolesta ja yksi minuutti aikaa puhua sitä vastaan.\n\n Meaning:You have one minute to speak in favour and one minute to speak against.‘</item>
+
+        <item>Se voi myös pyytää tietoja. \n\n Meaning:It can request information.</item>
+        <item>Vanhempien ei pitäisi riidellä jo ennen lapsensa syntymää.\n\n Meaning:The parents should not be arguing before the child is even born.</item>
+
+
+
+    </string-array>
+
+    <string-array name="communicationsong">
+
+
+        <item>@raw/keskustelu</item>
+        <item>@raw/kokous</item>
+        <item>@raw/sahkoposti</item>
+
+        <item>@raw/puhelin</item>
+        <item>@raw/matkapuhelin</item>
+        <item>@raw/ilmoittaa</item>
+
+        <item>@raw/jutella</item>
+        <item>@raw/keskustella</item>
+        <item>@raw/komentaa</item>
+
+        <item>@raw/kommunikoida</item>
+        <item>@raw/kutsua</item>
+        <item>@raw/kuunnella</item>
+
+        <item>@raw/kysya</item>
+        <item>@raw/kaskea</item>
+        <item>@raw/puhua</item>
+
+        <item>@raw/pyytaa</item>
+        <item>@raw/riidella</item>
+
+
+    </string-array>
+
+</resources>

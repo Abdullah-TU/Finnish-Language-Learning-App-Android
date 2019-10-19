@@ -1,0 +1,154 @@
+<resources>
+
+
+
+
+<string-array name="emotions_title">
+
+
+<item>Anteeksi</item>
+<item>Kiitos!</item>
+<item>Ole varovainen</item>	
+
+<item>Ole hiljaa! </item>	
+<item>Pää kiinni! </item>	
+<item>Turpa kiinni! </item>	
+
+<item>Lopeta se! </item>	
+<item>Älä viitsi! </item>	
+<item>Todellako? </item>	
+
+<item>Oletko varma?</item>
+<item>Uskomatonta. </item>	
+<item>Niin on varmaan	</item>
+
+<item>Se kuulostaa todella mukavalta.</item>
+<item>Voi miten mukavaa. </item>	
+<item>Ihana ajatus! </item>	
+
+
+    
+
+</string-array>
+
+
+
+
+<string-array name="emotionssub_title">
+  
+<item>Sorry</item>
+<item>Thanks! </item>
+<item>Be careful! </item>
+
+<item>Be quiet! </item>
+<item>Shut up! </item>
+<item>Shut your head! </item>
+
+<item>Stop it! </item>
+<item>Be serious! </item>
+<item>Really? </item>
+
+<item>Are you sure? </item>
+<item>Unbelievable. </item>
+<item>Yeah, right! </item>
+
+<item>Sounds great! </item>
+<item>Wow, how great! </item>
+<item>Good idea! </item>
+
+
+</string-array>
+
+
+
+
+
+
+
+<string-array name="emotionsimage_title">
+    
+
+
+<item>@drawable/blank</item>
+<item>@drawable/blank</item>
+<item>@drawable/blank</item>
+
+<item>@drawable/blank</item>
+<item>@drawable/blank</item>
+<item>@drawable/blank</item>
+
+<item>@drawable/blank</item>
+<item>@drawable/blank</item>
+<item>@drawable/blank</item>
+
+<item>@drawable/blank</item>
+<item>@drawable/blank</item>
+<item>@drawable/blank</item>
+
+<item>@drawable/blank</item>
+<item>@drawable/blank</item>
+<item>@drawable/blank</item>
+
+
+</string-array>
+
+<string-array name="emotionsnew_title">
+    <item>Anteeksi, että olen myöhässä, kulta.\n\n Meaning: I know I\'m late. Sorry, honey.</item>
+    <item>Kiitos, että otit minut mukaan.\n\n Meaning: I just wanted to thank you for bringing me on.</item>
+    <item>Ole varovainen arkaluontoisten tai luottamuksellisten tietojen kanssa.\n\n Meaning:Be careful with sensitive or confidential information.</item>
+
+    <item>Joten ole hiljaa ja jätä politiikka muille, jotka ymmärtävät tilanteen paremmin.”\n\n Meaning: So keep quiet and leave the politics to other people who have a better understanding of the situation\'.</item>
+    <item>Pää kiinni.\n\n Meaning:Shut up! </item>
+    <item>Turpa kiinni!\n\n Meaning:Shut your head! </item>
+
+    <item>Lopeta se! \n\n Meaning:Stop it!</item>
+    <item>Älä viitsi!\n\n Meaning: Be serious!   </item>
+    <item>Todellako?\n\n Meaning: Really?    </item>
+
+    <item>Oletko varma?\n\n Meaning: Are you sure? </item>
+    <item>Uskomatonta. \n\n Meaning:Unbelievable.  </item>
+    <item>Niin on varmaan.  \n\n Meaning:Yeah, right!  </item>
+
+    <item>Se kuulostaa todella mukavalta. \n\n Meaning:Sounds great! </item>
+    <item>Voi miten mukavaa.\n\n Meaning: Wow, how great!    </item>
+    <item>Ihana ajatus!\n\n Meaning: Good idea!</item>
+
+
+</string-array>
+
+<string-array name="emotionssong">
+   
+
+
+
+<item>@raw/anteeksi</item>
+<item>@raw/kiitos</item>
+<item>@raw/olevarovainen</item>
+	
+<item>@raw/olehilja </item>	
+<item>@raw/paakiinni</item>	
+<item>@raw/turpakiinni</item>
+	
+<item>@raw/lopetase</item>	
+<item>@raw/alaviitsi</item>	
+<item>@raw/todellako</item>	
+
+<item>@raw/oletkovarma</item>
+<item>@raw/uskomatonta</item>	
+<item>@raw/niinonvarmaan</item>
+
+<item>@raw/sekuulostaatodellamukavalta</item>
+<item>@raw/voimitenmukavaa</item>	
+<item>@raw/ihanaajatus</item>
+
+</string-array>
+
+
+
+</resources>
+
+
+
+
+
+

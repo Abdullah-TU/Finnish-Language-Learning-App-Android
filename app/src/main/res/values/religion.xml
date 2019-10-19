@@ -1,0 +1,175 @@
+<resources>
+    
+    
+
+<string-array name="religions_title">
+
+
+
+<item>Uskonto</item> 
+<item>Uskonnollinen</item> 
+<item>Muslimi</item>
+
+<item>Islaminusko</item> 
+<item>Moskeija</item>
+<item>Koraani</item>
+
+<item>Kristitty</item> 
+<item>Kristinusko</item> 
+<item>Kirkko</item>
+
+<item>Raamattu</item>
+<item>Hindulaisuus</item> 
+<item>Buddhalaisuus</item> 
+
+<item>Temppeli</item> 
+<item>Rukous</item> 
+<item>Profeetta</item> 
+
+<item>Jumala</item> 
+<item>Piru</item>
+ <item>Taivas</item>
+
+<item>Helvetti</item> 
+<item>Ateisti</item>
+
+</string-array>
+
+<string-array name="religionssub_title">
+  
+
+<item>Religion</item>
+<item>Religious</item> 
+<item>Muslim</item>
+
+<item>Islam</item>
+<item>Mosque</item>
+<item>Quran</item>
+
+<item>Christian</item> 
+<item>Christianity</item> 
+<item>Church</item>
+
+<item>Bible</item>
+<item>Hinduism</item> 
+<item>Buddhism</item>
+
+
+<item>Temple</item> 
+<item>Prayer</item>
+<item>Prophet</item>
+
+<item>God</item>
+<item>Devil</item>
+<item>Heaven</item>
+
+<item>Hell</item>
+<item>Atheist</item>
+
+    
+
+</string-array>
+
+<string-array name="religionsimage_title">
+    
+
+<item>@drawable/blank</item>
+<item>@drawable/blank</item> 
+<item>@drawable/muslim</item>
+
+<item>@drawable/blank</item> 
+<item>@drawable/quran</item>
+<item>@drawable/mosque</item>
+
+<item>@drawable/christian</item> 
+<item>@drawable/blank</item>
+<item>@drawable/church</item>
+
+<item>@drawable/bible</item>
+<item>@drawable/blank</item> 
+<item>@drawable/blank</item>
+
+
+<item>@drawable/temple</item> 
+<item>@drawable/prayer</item>
+<item>@drawable/blank</item>
+
+<item>@drawable/blank</item>
+<item>@drawable/blank</item>
+<item>@drawable/blank</item>
+
+<item>@drawable/blank</item>
+<item>@drawable/blank</item>
+
+
+
+
+</string-array>
+
+<string-array name="religionsnew_title">
+    <item>Uskonto sisältää joukon uskomuksia ja käytäntöjä, jotka käsittelevät elämän peruskysymyksiä.\n\n Meaning:Religion includes a set of beliefs and practices that address fundamental issues of life.</item>
+    <item>Hän on uskonnollinen henkilö.\n\n Meaning:He is a religious person.</item>
+    <item>Hän on muslimi.\n\n Meaning:He is muslim.</item>
+
+    <item>Islaminusko on uskonto.\n\n Meaning:Islam is a religion.</item>
+    <item>Hän haluaa rukoilla moskeijassa.\n\n Meaning:He likes to pray at the mosque.</item>
+    <item>Koraani on islamin pyhä kirja.\n\n Meaning:The Quran is the holy book of Islam.</item>
+
+    <item>kristitty kirkko, kristitty maa.\n\n Meaning:christian church, christian country.
+    \n\n Meaning:Hän on kristitty. \n\n Meaning:He\'s a Christian</item>
+    <item>Siten kristinusko toimii. \n\n Meaning:That\'s how Christianity works.</item>
+    <item>kristitty kirkko, kristitty maa.\n\n Meaning:christian church, christian country.\n\n Meaning:
+        katolinen kirkko.\n\n Meaning:The Catholic Church.</item>
+
+    <item>mitä Raamattu sanoo?\n\n Meaning:what does the Bible say?</item>
+    <item>Hindulaisuus on materialistista.\n\n Meaning:Hinduism is materialistic.</item>
+    <item>Buddhalaisuus opettaa, että kärsimys johtuu haluista. \n\n Meaning:Buddhism teaches that suffering is caused by desire.</item>
+
+    <item>Tämä temppeli ei ole hyljätty. \n\n Meaning:This temple is not abandoned.</item>
+    <item>Se on muutenki vaan rukous, Et sulle tulis parempi mieli. \n\n Meaning:It\'s just a prayer to make you feel better.</item>
+    <item>Profeetta, sal Allahu alayhi wa sallam, oli orpo.\n\n Meaning:The Prophet, sallallaahu \'alayhi wa sallam, was an orphan.</item>
+
+    <item>Jumala taivaassa, pelasta minut. \n\n Meaning:Great God in heaven, save me.</item>
+    <item>Piru on suomalaisessa kansanperinteessä joko paholaista palveleva tai muutoin vähäisempi paha olento eli demoni.\n\n Meaning:Piru is a devilish or otherwise inferior evil creature or demon in Finnish folklore.</item>
+    <item>Taivas on uskonnollinen käsitys paikasta kuoleman jälkeen.\n\n Meaning:heaven is a religious concept of a place after death.</item>
+
+    <item>Todellisuudessa se on usein paremminkin maanpäällinen helvetti.\n\n Meaning: In reality, it is often more like hell on earth.</item>
+    <item>Hän on sitoutunut ateisti.\n\n Meaning:He is a committed atheist</item>
+</string-array>
+
+<string-array name="religionssong">
+   
+
+
+<item>@raw/uskonto</item> 
+<item>@raw/uskonnollinen</item> 
+<item>@raw/muslimi</item>
+
+<item>@raw/islaminusko</item> 
+<item>@raw/moskeija</item>
+<item>@raw/koraani</item>
+
+<item>@raw/kristitty</item> 
+<item>@raw/kristinusko</item> 
+<item>@raw/kirkko</item>
+
+<item>@raw/raamattu</item>
+<item>@raw/hindulaisuus</item> 
+<item>@raw/buddhalaisuus</item> 
+
+<item>@raw/temppeli</item> 
+<item>@raw/rukous</item> 
+<item>@raw/profeetta</item> 
+
+<item>@raw/jumala</item> 
+<item>@raw/piru</item>
+ <item>@raw/taivas</item>
+
+<item>@raw/helvetti</item> 
+<item>@raw/jumalankieltaja</item>
+
+
+</string-array>
+
+
+</resources>

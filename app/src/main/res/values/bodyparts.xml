@@ -1,0 +1,136 @@
+<resources>
+
+
+
+<string-array name="bodyparts_title">
+<item>Elin</item> 
+<item>Kasvot</item> 
+<item>Pää</item> 
+
+<item>Suu</item> 
+<item>Nenä</item> 
+<item>Käsi</item>
+
+<item>Jalkaa</item> 
+<item>Sormi</item> 
+<item>Silmä</item>
+ 
+<item>Hiukset</item> 
+<item>Hammas</item> 
+<item>Sydän</item> 
+
+<item>Vatsa</item>
+ 
+
+
+</string-array>
+
+<string-array name="bodypartssub_title">
+
+
+<item>Body </item>
+ <item>Face </item> 
+ <item>Head </item> 
+
+ <item>Mouth </item> 
+ <item>Nose </item> 
+ <item>Hand </item> 
+
+ <item>Foot </item> 
+ <item>Finger </item> 
+ <item>Eye </item> 
+
+ <item>Hair </item> 
+ <item>Teeth </item>
+ <item>heart </item> 
+
+ <item>Stomach </item> 
+
+    
+
+</string-array>
+
+<string-array name="bodypartsimage_title">
+<item>@drawable/bodyparts</item>
+ <item>@drawable/face</item> 
+ <item>@drawable/head</item> 
+
+ <item>@drawable/mouth</item> 
+ <item>@drawable/nose</item> 
+ <item>@drawable/hand</item>
+
+ <item>@drawable/feet</item>
+ <item>@drawable/finger</item> 
+ <item>@drawable/eye</item> 
+
+
+ <item>@drawable/hair</item> 
+ <item>@drawable/teeth</item>
+ <item>@drawable/heart</item> 
+
+ <item>@drawable/stomach</item> 
+
+</string-array>
+
+<string-array name="bodypartsnew_title">
+    <item>Elin on useasta eri kudoksesta muodostunut rakenteellinen ja toiminnallinen kokonaisuus, joka on erikoistunut yksilössä tiettyyn tehtävään tai tehtäviin. \n\n Meaning:The body is a structural and functional entity of several different tissues that specializes in an individual for a specific task or tasks.</item>
+    <item>Kiva nähdä uusia kasvoja.\n\n Meaning:Nice to see new faces.</item>
+    <item>Katolta putosi lunta päähäni.\n\n Meaning:The roof fell down in my head.</item>
+
+    <item>Hänellä on niin upea suu.\n\n Meaning: She has such a magnificent mouth.</item>
+    <item>Iso nenä sopii sinulle. \n\n Meaning: You look good with a big nose, actually.</item>
+    <item>Kaaduin ja minulta murtui käsi olkavarresta.\n\n Meaning:I fell and crushed my arm from the shoulder.</item>
+
+    <item>Antipodit olivat kehon ääripäitä, sen jalkoja tai sormen kynsiä. \n\n Meaning:The Antipodes were the body\'s extremities, its feet or its finger nails</item>
+    <item>Ja ne, joiden sormi oli juuri painamassa nappia, saivat huomata, että se ei kirjannut ääniä. \n\n Meaning:And people who had their fingers on the button discovered that it was not registering.</item>
+    <item>Hyvä kirja sanoo: "Silmä silmästä."\n\n Meaning: Good Book says, "An eye for an eye."</item>
+
+    <item>Tumma nainen, tummat hiukset. \n\n Meaning:Tough chick, dark hair.</item>
+    <item>Olen ihminen, ja minulla on hammas.\n\n Meaning: Now that I am a man, I have a tooth.</item>
+    <item>Onko hänellå ihmis sydän? \n\n Meaning:Has he got a human heart?</item>
+
+    <item>Minulla on vatsa kipeä. \n\n Meaning:My stomach was hurting a little.</item>
+    
+</string-array>
+
+<string-array name="bodypartssong">
+
+<item>@raw/elin</item> 
+<item>@raw/kasvot</item> 
+<item>@raw/paa</item> 
+
+<item>@raw/suu</item> 
+<item>@raw/nena</item> 
+<item>@raw/kasi</item>
+
+<item>@raw/jalkaa</item> 
+<item>@raw/sormi</item> 
+<item>@raw/silma</item> 
+
+<item>@raw/hiukset</item> 
+<item>@raw/hammas</item> 
+<item>@raw/sydan</item> 
+
+<item>@raw/vatsa</item>
+
+
+
+</string-array>
+
+
+
+
+
+
+
+
+
+
+
+</resources>
+
+
+
+
+
+

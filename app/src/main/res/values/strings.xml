@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Know Finnish</string>
+    <string name="action_settings">Settings</string>
+    <string name="rate">Rate the app</string>
+    <string name="share">Share the app</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_game">GameActivity</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="initial_score">Score 0/21 </string>
+
+
+    <string name="incorrect_toast">Wrong!</string>
+    <string name="correct_toast">You got it!</string>
+
+
+
+
+    <string name="question_1">Good morning, could you help me?  \n \n Huomenta, voisitteko auttaa minua?</string>
+    <string name="question_2"> passport </string>
+    <string name="question_3">city\n \n  kaupunki </string>
+    <string name="question_4"> I want to exchange only $100  \n\n  Minulla on kansainvälinen ajokortti. </string>
+    <string name="question_5">	I would like to buy a ticket for the next flight to Helsinki.  \n\n  Haluaisin ostaa lipun seuraavalle lennolle Helsinkiin.</string>
+    <string name="question_6">	Straight ahead.  \n \n   Seuratkaa tätä tietä.</string>
+    <string name="question_7">kaksikymmentäyksi \n \n  21 </string>
+    <string name="question_8">Haluamme kaksi eri vuodetta.  \n \n I only speak a little Finnish. </string>
+    <string name="question_9">Kiitos avusta. \n \n Thanks for all your help. </string>
+    <string name="question_10">	 Milloin laskeudumme? \n  \n When do we land? </string>
+    <string name="question_11">	Paljonko kello on?  \n \n  When shall we leave? </string>
+    <string name="question_12">	Missä se on?  \n \n Where should we go to have dinner tonight?</string>
+    <string name="question_13">Good morning, could you help me?  \n \n Huomenta, voisitteko auttaa minua?</string>
+
+    <string name="question_14">	Missä se on?  \n \n Where should we go to have dinner tonight?</string>
+    <string name="question_15">Good morning, could you help me?  \n \n Huomenta, voisitteko auttaa minua?</string>
+    <string name="question_16">	Paljonko kello on?  \n \n  When shall we leave? </string>
+    <string name="question_17">	Missä se on?  \n \n Where should we go to have dinner tonight?</string>
+
+    <string name="question_18">	Missä se on?  \n \n Where should we go to have dinner tonight?</string>
+    <string name="question_19">Good morning, could you help me?  \n \n Huomenta, voisitteko auttaa minua?</string>
+    <string name="question_20">	Paljonko kello on?  \n \n  When shall we leave? </string>
+    <string name="question_21">	Missä se on?  \n \n Where should we go to have dinner tonight?</string>
+
+    <string name="quiz">Quiz</string>
+    <string name="good_morning">Good Morning</string>
+    <string name="hello">Hello</string>
+    <string name="score">Score</string>
+    <string name="welcome">Welcome</string>
+    <string name="what_is_the_meaning_of">What is the meaning of Finnish word</string>
+    <string name="tervetuloa_apos"> Tervetuloa </string>
+    <string name="develop_yourself">Develop Yourself</string>
+
+
+    <string name="title_activity_dictionary_list">DictionaryListActivity</string>
+    <string name="title_activity_word_definition_detail">WordDefinitionDetailActivity</string>
+    <string name="english_to_finnish_dictionary">English To Finnish Dictionary</string>
+    <string name="open_dictionary">Open Dictionary</string>
+    <string name="please_enter_your_name">Please Enter Your Name</string>
+    <string name="definition">Definition:</string>
+    <string name="word">Word:</string>
+    <string name="search">Search</string>
+    <string name="vocabulary">Vocabulary</string>
+    <string name="art_btn_moreIssues">More Words</string>
+
+    <string name="bookmark">Bookmark</string>
+    <string name="save">Save</string>
+
+
+    <string name="delete">Delete</string>
+    <string name="print">Print</string>
+
+
+    <string name="question_22"> Ruoka\n \n  Food </string>
+    <string name="question_23"> Jyvä \n \n  Grain </string>
+    <string name="question_24"> Naudanliha\n \n  Bread</string>
+    <string name="question_25"> Hampurilainen\n \n  Oyster </string>
+    <string name="question_26"> city\n \n  kaupunki </string>
+    <string name="question_27"> city\n \n  kaupunki </string>
+    <string name="question_28"> city\n \n  kaupunki </string>
+    <string name="question_29"> city\n \n  kaupunki </string>
+    <string name="question_30"> city\n \n  kaupunki </string>
+    <string name="question_31"> city\n \n  kaupunki </string>
+    <string name="question_32"> city\n \n  kaupunki </string>
+
+
+
+
+    <string-array name="dialogmessage">
+        <item>North Holland is located in the North West of Holland</item>
+        <item>South Holland is located in the South West of Holland</item>
+        <item>Flevoland is located in the North - middle of Holland</item>
+        <item>Utrecht is located in the middle of the Netherlands</item>
+        <item>Zeeland is located in the South West of Holland</item>
+        <item>North Brabant is located in the South middle of the Netherlands</item>
+
+
+    </string-array>
+
+
+    <string name="finnishgr">The Finns originated from Central Russia. Finnic people groups are their earlier descendants. Their language affected by the Baltic and Germanic populations approximately two centuries back, or maybe prior when they moved westwards and northwards. They stayed under Swedish control for six centuries until the point when they were fused into Russia toward the start of the nineteenth. Finland became a free nation in 1917.
+
+    \n \nFinnish has obtained numerous words from neighboring Indo-European languages, especially from Baltic, German, and Russian. Finnish has consonants as well as vowel framework called vowel harmony. It has rich case system.
+</string>
+
+    <string name="alphabet">The Finnish alphabet has the same letters as the English alphabet except for the addition of 3 vowels at the end. Of its 29 letters, 9 (highlighted in color) are used only in foreign words.\n </string>
+
+    <string name="vowelhar1">All vowels of a word (stem and suffixes) must be front or back depending on the category of the vowel in the first syllable of the word. The vowels i and e are neutral in respect of harmony. Suffixes have one front and one back variant occurring after front and back stems, respectively. In compound words vowel harmony affects each lexical component separately.\n  </string>
+    <string name="vowelhar2">There are three classes of vowels in Finnish. There can be either A, U, O or Ä, Y, Ö, but never both, inside a single word. E and I are "neutral" vowels. You can find them in both words with A, U, O and Ä, Y, Ö. \n \n
+
+    With respect to vowel harmony, compound words can be considered separate words. For example, syyskuu ("autumn month" i.e. September) has both u and y, but it consists of two words syys and kuu, and declines syys·kuu·ta (not *syyskuutä). The same goes for enclitics, e.g. taaksepäin "backwards" consists of the word taakse "to back" and -päin "-wards". \n </string>
+
+    <string name="consonant1">When, by adding an ending, a previously open syllable becomes closed, some consonants change! The form with the changed consonants is called the weak stem. The form with the "harder" consonants is the strong stem.\n</string>
+    <string name="consonant2">The endings where consonant gradation may take place are those which begin with two consonants (-ssa/-ssä, sta/-stä, -lla/-llä, -lta/-ltä, -lle, -ksi) or consist of one consonant (-t, -n). It only happens when the consonants are on the border between the last and the previous syllable!
+        That\'s why keittiö becomes keittiössä, but konsertti becomes konsertissa.\n</string>
+
+    <string name="consonantype"> There are three types of consonant gradation for verb: \n\n
+    1.	Verb type 1\n
+    2.	Verb type 3\n
+    3.	Verb type 4\n
+</string>
+
+
+    <string name="prepositions">There are a number of postpositions which approximate English prepositions. The element carrying the information comes last, after the main word, hence the name postpositions. (Liisan kanssa = with Liisa - reversed wordorder) The main word is usually in the genitive. Finnish also has a few prepositions.\n </string>
+
+    <string name="prepositions1">\nThe postpositions inflect into the location cases: the missä, mistä and mihin forms. Some of the postpositions come with -lla others with -ssa. The point is just not to mix them: if the missä-form has -lla, the mistä form has to have -lta and not -sta.\n\nBefore each postposition, it says "sen". This is the genitive form of "se" (=it). You can replace it by any noun, as long as you put the noun in the genitive as well.\n </string>
+
+    <string name="cases">Cases are divided into four groups:\n\n
+a)syntactical cases: nominative, accusative, genitive.\n\n
+b)general locative cases: essive, partitive, translative.\n\n
+c)specific locative cases subdivided in:\n\n
+•internal: inessive (in), illative (into), elative (from inside).\n\n
+•external: adessive (at, near), allative (to, towards), ablative (from outside).\n\n
+d) marginal cases: instrumental or instructive (with), comitative (accompanied by), abessive (without).\n\n </string>
+
+    <string name="pronoun">Pronouns are a class of words that are used as substitutes for nouns or noun phrases. In Finnish, there are five types of pronouns:\n\n
+1.	Personal pronouns \n
+2.	Relative pronouns \n
+3.	Interrogative pronouns \n
+4.	Demonstrative pronouns \n
+5.	Indefinite pronouns. \n\n </string>
+
+
+    <string name="pronoun1">There are three interrogative pronouns in Finnish: \n\n
+•	kuka \n
+•	mikä \n
+•	kumpi \n\n
+* Kuka is used for people, while mikä is used for things or animals. \n\n
+* Kuka heistä on kaiken komein?  Which one of them (people) is the most handsome? \n\n
+* Mikä niistä on kaiken komein?  Which one of those (animals/things) is the most handsome? \n\n </string>
+
+
+    <string name="adj">Adjectives belong to a group of words that modify nouns. In Finnish, as in English, they have comparative and superlative forms.
+        Unlike English, Finnish declines not only its adjectives, but also its comparative and superlative forms, giving a grand total of (max.)
+        90 different forms for each adjective. \n\n
+
+•	Comparative\n\n
+•	Superlative
+\n </string>
+
+    <string name="adj2">The comparative is used to compare two characteristics to each other. When comparing three or more characteristics, the superlative is used. Unlike in English, the Finnish comparative, which is subject to k-p-t changes, can be used with adjectives, pronouns and nouns.
+\n \n </string>
+
+    <string name="verb">Verbs are a class of words that are to express actions, processes and conditions. In Finnish, there are six types of verbs (V means any vowel):\n\n
+•	Type 1 (-Va/ -Vä, e.g. lukea, puhua, etc.)\n\n
+•	Type 2 (-da/-dä, e.g. saada, syödä, etc.)\n\n
+•	Type 3 (-la/-lä, -na/-nä, -ra/-rä, -sta/-stä, e.g. tulla, mennä, surra, nousta, etc.)\n\n
+•	Type 4 (-Vta/-Vtä, e.g. haluta, pelätä, pelata etc.)\n\n
+•	Type 5 (-ita/-itä, e.g. tarvita, mainita, hallita, etc.)\n\n
+•	Type 6 (-eta/-etä, e.g. paeta, kyetä, etc.)
+
+\n \n </string>
+
+    <string name="verbtense">In addition Finnish verbs decline according to 4 tenses:\n
+•	Present tense (e.g. puhun)\n
+•	Preterite or past tense (e.g. puhuin)\n
+•	Perfect tense (e.g. olen puhunut)\n
+•	Past perfect or Pluperfect tense (e.g. olin puhunut)
+
+
+\n \n </string>
+
+
+    <string name="verbmood">Finnish verbs also have 4 moods:\n\n
+•	Indicative (e.g. puhun)\n
+•	Conditional (e.g. puhuisin)\n
+•	Imperative (e.g. puhu!)\n
+•	Potential (e.g. puhunen)\n
+The indicative can be used with all 4 tenses, the conditional and the potential with the present and past, and the imperative only with the present.
+
+\n \n </string>
+
+
+
+    <string name="importantforms">In order to use a verb in Finnish, there are three basic forms of that verb that need to be remembered:\n
+•	the infinitive form\n
+•	the 1st person singular present form\n
+•	the 3rd person plural present form\n\n </string>
+
+
+    <string name="personalending">In Finnish, there are 6 personal endings for verbs:\n \n </string>
+
+    <string name="tense">Primary tenses are the present and the imperfect . Compound tenses are the perfectand pluperfect formed with the auxiliary olla
+        (\'to be\'), conjugated for person and number, plus a past participle inflected for number.
+        There is no specific future tense though the present may function as such.\n\n
+        The present indicative has no tense suffix. The imperfect uses the tense suffix -i and the marker of the 3rd person singular is zero.
+        As an example we show below the conjugation of the verb puhua (\'to speak, to talk\'):\n \n </string>
+
+
+
+    <string name="number_of_choices">Number of Choices</string>
+    <string name="number_of_choices_description">Display 2, 4, 6 or 8 guess buttons</string>
+    <string name="world_regions">Regions</string>
+    <string name="world_regions_description">Regions to include in the quiz</string>
+    <string name="guess_country">Guess the Country</string>
+    <string name="results">%1$d guesses, %2$.02f%% correct</string>
+    <string name="incorrect_answer">Incorrect!</string>
+    <string name="default_region_message">One region must be selected. Setting North America as the default region.</string>
+    <string name="restarting_quiz">Quiz will restart with your new settings</string>
+    <string name="question">Question %1$d of %2$d</string>
+    <string name="reset_quiz">Reset Quiz</string>
+    <string name="image_description">Image of the current flag in the quiz</string>
+    <string name="default_region">North_America</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <string name="developyrfself">Know Finnish - Develop Yourself</string>
+    <string name="abt">An Android App to learn finnish</string>
+    <string name="version">Know Finnish, Version: 1.1 \n\n © 2018-2019 \n\n All Rights Reserved. </string>
+    <string name="contactss">Contact: knowfinnish@gmail.com</string>
+    <string name="finalword">Happy Learning!</string>
+
+</resources>

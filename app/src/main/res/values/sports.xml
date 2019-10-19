@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="sports_title">
+
+        <item>Maahockey</item>
+        <item>Kriketti</item>
+        <item>Uinti</item>
+
+        <item>Hiihto</item>
+        <item>Jääkiekko</item>
+        <item>Luistelu</item>
+
+        <item>Jalkapallo</item>
+        <item>Metsästys</item>
+        <item>Ammunta</item>
+
+        <item>Pyöräily</item>
+        <item>Kalastus</item>
+
+
+    </string-array>
+
+
+
+
+    <string-array name="sportssub_title">
+
+
+        <item>Hockey</item>
+        <item>Cricket</item>
+        <item>Swimming</item>
+
+        <item>Skiing</item>
+        <item>Ice-hockey</item>
+        <item>Ice-skating</item>
+
+        <item>Football</item>
+        <item>Hunting</item>
+        <item>Shooting</item>
+
+        <item>Cycling</item>
+        <item>Fishing</item>
+
+
+    </string-array>
+
+    <string-array name="sportsimage_title">
+
+
+        <item>@drawable/hockey</item>
+        <item>@drawable/cricket</item>
+        <item>@drawable/swimming</item>
+
+        <item>@drawable/skiing</item>
+        <item>@drawable/icehockey</item>
+        <item>@drawable/iceskating</item>
+
+        <item>@drawable/football</item>
+        <item>@drawable/hunting</item>
+        <item>@drawable/shooting</item>
+
+        <item>@drawable/cycling</item>
+        <item>@drawable/fishing</item>
+
+
+    </string-array>
+
+    <string-array name="sportsnew_title">
+        <item>Tykkään pelata maahockey.\n\n Meaning:I like to play hockey.</item>
+        <item>Hän haluaa pelata krikettia.\n\n Meaning:He likes to play cricket.</item>
+        <item>Uinti on harrastuksiani.\n\n Meaning:Swimming is my hobby.</item>
+
+        <item>Hiihto on harrastuksiani. \n\n Meaning:Skiing is my hobby.</item>
+        <item>He haluavat pelata jääkiekkoa.\n\n Meaning:They likes to play ice hockey.</item>
+        <item>Luistelu on hyväksi terveydelle. \n\n Meaning:Ice skating is good for health.</item>
+
+        <item>Jalkapallo on hyvää terveydelle.\n\n Meaning:Football is good for health.</item>
+        <item>Metsästys on harrastuksiani. \n\n Meaning:Hunting is my hobby.</item>
+        <item>Ammunta on harrastuksiani.\n\n Meaning:Shooting is my hobby.</item>
+
+
+        <item>Pyöräily on hyväksi terveydelle.\n\n Meaning:Cycling is good for health.</item>
+        <item>Kalastus on harrastuksiani.\n\n Meaning:Fishing is my hobby.</item>
+
+
+
+    </string-array>
+
+    <string-array name="sportssong">
+
+
+        <item>@raw/maahockey</item>
+        <item>@raw/kriketti</item>
+        <item>@raw/uinti</item>
+
+        <item>@raw/hiihto</item>
+        <item>@raw/jaakiekko</item>
+        <item>@raw/luistelu</item>
+
+        <item>@raw/jalkapallo</item>
+        <item>@raw/metsastys</item>
+        <item>@raw/ammunta</item>
+
+        <item>@raw/pyoraily</item>
+        <item>@raw/kalastus</item>
+
+
+    </string-array>
+
+</resources>

@@ -1,0 +1,152 @@
+<resources>
+
+
+
+<string-array name="clothes_title">
+    
+  <item>Vaatteet</item>
+  <item>Saapas</item> 
+  <item>Jakku</item> 
+
+  <item>Farkut</item> 
+  <item>Nahka</item> 
+  <item>Housut</item> 
+
+  <item>Sormikkaat</item>
+  <item>Huivi</item> 
+  <item>Paita</item> 
+
+  <item>Kengät</item> 
+  <item>Hame</item> 
+  <item>Puku</item>
+
+  <item>Solmio</item>
+  <item>Hattu</item> 
+  <item>T-paita</item>
+
+</string-array>
+
+<string-array name="clothessub_title">
+
+  <item> Clothes </item>
+  <item> Boot </item>
+  <item> Jacket </item>
+
+  <item> Jeans </item>
+  <item> Leather </item>
+  <item> Pants </item>
+
+   <item> Gloves </item>
+  <item> Scarf  </item>
+  <item> Shirt </item>
+
+  <item> Shoes </item>
+  <item> Skirt </item>
+  <item> Suit </item>
+
+
+  <item> Tie </item> 
+  <item> Hat </item>
+  <item> T-Shirt </item>
+    
+
+</string-array>
+
+<string-array name="clothesimage_title">
+   
+
+      <item>@drawable/clothes </item> 
+     <item>@drawable/boot </item>
+     <item>@drawable/jacket </item>
+
+
+     <item>@drawable/jeans </item> 
+     <item>@drawable/leather </item>
+     <item>@drawable/pant</item>
+
+
+     <item>@drawable/gloves </item> 
+
+     <item>@drawable/scarf  </item> 
+
+     <item>@drawable/shirt </item> 
+
+
+     <item>@drawable/shoe</item>
+     <item>@drawable/skirt </item>
+     <item>@drawable/suit </item>
+
+
+     <item>@drawable/tie </item> 
+     <item>@drawable/hat </item>
+     <item>@drawable/tshirt </item>
+
+</string-array>
+
+<string-array name="clothesnew_title">
+    <item>Vuonna 2000 tekstiilit ja vaatteet muodostivat 95 prosenttia Bangladeshin koko teollisuustuotteiden viennistä.\n\n Meaning: In 2000 textiles and clothing accounted for 95% of all Bangladesh’s industrial goods exports.</item>
+    <item>Ja pitäähän minun hakea toinen saapas.\n\n Meaning: Besides, I have to pick up my other boot.</item>
+    <item>Jakku on vatsan keskipitkä vaatetus ylävartaloon. \n\n Meaning:A jacket is a mid-stomach–length garment for the upper body.</item>
+
+    <item>Hänellä oli tosi tiukat farkut\n\n Meaning:He used to wear these jeans.</item>
+    <item>Musta vaatetus ja nahka ovat todella tärkeitä. \n\n Meaning:The color black is very important. Leather is very important.</item>
+    <item>Onko minulla liian kireät housut?\n\n Meaning: Tell me the truth. Are these pants too tight?</item>
+
+    <item>Sormikkaat on koko käden peittävä vaatekappale.\n\n Meaning:Gloves are a garment covering the whole hand.</item>
+    <item>Se on huivi, ukkini antoi sen minulle.\n\n Meaning:It\'s a scarf, my dad gave it to me.</item>
+    <item>Tämä paita maksoi 85 taalaa.\n\n Meaning: This is an $85 shirt.</item>
+
+    <item>Naisten kengät saavat olla tylsiä. \n\n Meaning:Women\'s shoes can be flat and dull. Not men\'s.</item>
+    <item>Ovatko nuo shortsit vai hame? \n\n Meaning: Wow, are those shorts or a skirt?</item>
+    <item>"Hmm, kiva puku", vai - Hmm... \n\n Meaning:"Hmm, nice dress," or "Hmm...</item>
+
+    <item>Solmio on löysällä.\n\n Meaning: Your tie, it\'s all loose around your neck.</item>
+    <item> Hänellä on toinenkin hattu.\n\n Meaning: Look, he\'s got another hat on.</item>
+    <item>Tämä T-paita maksoi 100 taalaa.\n\n Meaning: This is an $100 T-shirt.</item>
+
+
+</string-array>
+
+<string-array name="clothessong">
+    
+<item>@raw/vaatteet</item>
+ <item>@raw/saapas</item> 
+ <item>@raw/jakku</item> 
+
+ <item>@raw/farkut</item> 
+ <item>@raw/nahka</item> 
+ <item>@raw/housut</item> 
+
+ <item>@raw/sormikkaat</item>
+ <item>@raw/huivi</item> 
+ <item>@raw/paita</item> 
+
+ <item>@raw/kengat</item> 
+ <item>@raw/hame</item> 
+ <item>@raw/puku</item>
+
+ <item>@raw/solmio</item>
+ <item>@raw/hattu</item> 
+ <item>@raw/tpaita</item>
+
+
+</string-array>
+
+
+
+
+
+
+
+
+
+
+
+
+</resources>
+
+
+
+
+
+

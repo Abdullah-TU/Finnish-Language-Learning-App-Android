@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/back1"
+    tools:context=".MainActivity">
+
+
+
+    <ImageView
+        android:id="@+id/imageView3"
+        android:layout_width="160dp"
+        android:layout_height="90dp"
+        app:srcCompat="@drawable/title"
+        tools:ignore="ContentDescription"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="11dp"/>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/imageView3"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:id="@+id/relativeLayouta">
+
+        <TextView
+            android:id="@+id/tvText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:text="@string/develop_yourself"
+            android:textColor="#FFFFFF"
+            android:textSize="18sp"
+            android:textStyle="bold"/>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="16dp"
+            android:layout_toLeftOf="@id/tvText"
+            android:background="#FF0000"
+            tools:ignore="RtlHardcoded"/>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="16dp"
+            android:layout_toRightOf="@id/tvText"
+            android:background="#FF0000"
+            tools:ignore="RtlHardcoded"/>
+
+
+    </RelativeLayout>
+
+
+    <HorizontalScrollView
+        android:layout_width="369dp"
+        android:layout_height="378dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true"
+        android:padding="5dp">
+
+    </HorizontalScrollView>
+
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="460dp"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/relativeLayouta"
+        android:layout_marginStart="15dp"
+        android:layout_marginTop="3dp"
+        android:padding="5dp">
+
+        <LinearLayout
+            android:id="@+id/relativesafe"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+
+            <LinearLayout
+                android:id="@+id/lin1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:padding="2dp">
+
+
+                <ImageView
+                    android:id="@+id/button4"
+                    android:layout_width="180sp"
+                    android:layout_height="140sp"
+                    android:paddingRight="15dp"
+                    android:layout_weight="1"
+                    android:spacing="15dp"
+                    android:src="@drawable/vcblry" />
+
+
+                <ImageView
+                    android:id="@+id/game"
+                    android:layout_width="180sp"
+                    android:layout_height="140sp"
+                    android:paddingRight="15dp"
+                    android:layout_weight="1"
+                    android:spacing="15dp"
+                    android:src="@drawable/quizy" />
+
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/lin2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:padding="2dp">
+
+
+                <ImageView
+                    android:id="@+id/button2"
+                    android:layout_width="181dp"
+                    android:layout_height="145dp"
+                    android:paddingRight="15dp"
+                    android:layout_weight="1"
+                    android:spacing="15dp"
+                    android:src="@drawable/fingr" />
+
+
+                <ImageView
+                    android:id="@+id/wordbankbutton"
+                    android:layout_width="180sp"
+                    android:layout_height="140sp"
+                    android:paddingRight="15dp"
+                    android:spacing="15dp"
+                    android:layout_weight="1"
+                    android:src="@drawable/wodbnk" />
+
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/lin3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+
+                android:padding="2dp">
+
+
+                <ImageView
+                    android:id="@+id/button"
+                    android:layout_width="180sp"
+                    android:layout_height="140sp"
+                    android:paddingRight="15dp"
+                    android:layout_weight="1"
+                    android:spacing="15dp"
+                    android:src="@drawable/owndicfinal" />
+
+
+                <ImageView
+                    android:id="@+id/sentenceButton"
+                    android:layout_width="180sp"
+                    android:layout_height="140sp"
+                    android:paddingRight="15dp"
+                    android:layout_weight="1"
+                    android:spacing="15dp"
+                    android:src="@drawable/tipstrics" />
+
+            </LinearLayout>
+
+        </LinearLayout>
+    </ScrollView>
+</RelativeLayout>

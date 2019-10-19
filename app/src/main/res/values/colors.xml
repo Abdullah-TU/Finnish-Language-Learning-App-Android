@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1F618D  </color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorText">#FFFFFF</color>
+    <color name="colorTrueButton">#27ae60</color>
+    <color name="colorFalseButton">#902217</color>
+    <color name="main">#9A08F9</color>
+    <color name="titletextcolor">#FFFFFF</color>
+    <color name="colorMain">#11ed32</color>
+    <color name="colorSecondary">#e40bbc</color>
+    <color name="color1">#EFE046</color>
+    <color name="color2">#1B998B</color>
+    <color name="color3">#0D324E</color>
+    <color name="color4">#098178</color>
+    <color name="color5">#E4E0EF</color>
+    <color name="correct_answer">#00CC00</color>
+    <color name="incorrect_answer">#FF0000</color>
+    <color name="diccolor">#008B8B</color>
+</resources>

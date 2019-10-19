@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+
+    <string-array name="biology_title">
+
+
+        <item>Biologia</item>
+        <item>Kasvitiede</item>
+        <item>Eläin</item>
+
+        <item>Kasvi</item>
+        <item>Loinen</item>
+        <item>Solu</item>
+
+        <item>siemenet</item>
+        <item>Rokote</item>
+        <item>Bakteerit</item>
+
+
+
+
+
+    </string-array>
+
+
+
+
+    <string-array name="biologysub_title">
+
+
+        <item>Biology</item>
+        <item>Botany</item>
+        <item>Animal</item>
+
+        <item>Plant</item>
+        <item>Parasite</item>
+        <item>Cell</item>
+
+        <item>Seed</item>
+        <item>vaccine</item>
+        <item>Bacteria</item>
+
+
+    </string-array>
+
+    <string-array name="biologyimage_title">
+
+
+        <item>@drawable/biologi</item>
+        <item>@drawable/botany</item>
+        <item>@drawable/animalpic</item>
+
+        <item>@drawable/plant</item>
+        <item>@drawable/parasite</item>
+        <item>@drawable/cell</item>
+
+        <item>@drawable/seed</item>
+        <item>@drawable/vaccine</item>
+        <item>@drawable/bacteria</item>
+
+
+
+
+    </string-array>
+
+    <string-array name="biologynew_title">
+        <item>Biologia tutkii eliökuntaa.\n\n Meaning:Biology is studying the organism.</item>
+        <item>Kasvitiede jakautuu useihin haaroihin.\n\n Meaning: Botany/Plant science is divided into several branches: </item>
+        <item>Ihmisen, mutta myös eläimen terveys on vaarassa.\n\n Meaning:Human health is at risk, clearly, but so too is animal health.</item>
+
+        <item>Kissa on eläin\n\n Meaning:The cat is an animal</item>
+        <item>Puu on kasvi.\n\n Meaning: Tree is a plant.</item>
+        <item>Pian on taas yksi loinen lisää. \n\n Meaning: This is how they reproduce. - Second adult parasite in minutes.</item>
+
+        <item>Pohjoismaisissa metsissä on useita kasvilajeja, joilla on vahapintaiset siemenet.\n\n Meaning: In the Nordic forests, there are a great many species of plant which have waxed seeds.</item>
+        <item>Jos kaikki menee hyvin, minulla on pian rokote. \n\n Meaning:If all goes well we\'ll have a vaccine soon.</item>
+        <item>Bakteerit ovat juuston valmistuksessa välttämättömiä.\n\n Meaning:Bacteria are necessary to make cheese.</item>
+
+
+
+
+
+    </string-array>
+
+    <string-array name="biologysong">
+
+
+        <item>@raw/biologia</item>
+        <item>@raw/kasvitiede</item>
+        <item>@raw/elain</item>
+
+        <item>@raw/kasvi</item>
+        <item>@raw/loinen</item>
+        <item>@raw/solu</item>
+
+        <item>@raw/siemenet</item>
+        <item>@raw/rokote</item>
+        <item>@raw/bakteerit</item>
+
+
+
+    </string-array>
+
+
+
+</resources>

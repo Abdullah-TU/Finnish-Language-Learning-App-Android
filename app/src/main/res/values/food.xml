@@ -1,0 +1,393 @@
+<resources>
+
+
+
+<string-array name="food_title">
+
+<item>Ruoka</item> 
+<item>Parsa</item> 
+<item>Papu</item> 
+
+<item>Jyvä</item> 
+<item>Peruna</item> 
+<item>Naudanliha</item> 
+
+<item>Leipä</item> 
+<item>Hampurilainen</item> 
+<item>Muna</item> 
+
+<item>Liha</item> 
+<item>Osteri</item> 
+<item>Riisi</item> 
+
+<item>Salaatti</item> 
+<item>Lohi</item> 
+<item>Nakkisämpylä</item> 
+
+<item>Tonnikala</item> 
+<item>Aniksensiemen</item> 
+<item>Kakku</item> 
+
+<item>Cashew-pähkinä</item>
+<item>Kahvi</item> 
+<item>Pikkuleipä</item> 
+
+<item>Korianteri</item> 
+<item>Maissijauho</item> 
+<item>Maissihiutaleet</item> 
+
+<item>Kerma</item> 
+<item>Kurkku</item> 
+<item>Kumina</item> 
+
+<item>Tilli </item> 
+<item>Jauho</item>
+<item>Valkosipuli</item> 
+
+<item>Inkivääri</item> 
+<item>Mehu</item> 
+<item>Sitruuna</item> 
+
+<item>Sitruunaruoho</item> 
+<item>Maito</item> 
+<item>Sinappi</item>
+
+
+<item>Sipuli</item> 
+<item>Pasta</item> 
+<item>Maapähkinä</item> 
+
+<item>Puolanminttu</item> 
+<item>Pippuri</item> 
+<item>Popcorn</item> 
+
+<item>Sahrami</item> 
+<item>Seesaminsiemen</item> 
+<item>Pinaatti</item> 
+
+<item>Sokeri</item> 
+<item>Tee</item> 
+<item>Tomaatti</item> 
+
+<item>Kurkuma</item> 
+<item>Vanilja</item> 
+<item>Vehnä</item>
+
+    <item>Hedelmät</item>
+
+</string-array>
+
+
+<string-array name="foodsub_title"> 
+
+<item>Food</item> 
+<item>Asparagus</item> 
+<item>Bean</item> 
+
+<item>Grain</item>
+<item>Potato</item> 
+<item>Beef</item> 
+
+<item>Bread</item> 
+<item>Burger</item> 
+<item>Persimmon</item> 
+
+<item>Meat</item> 
+<item>Oyster</item> 
+<item>Rice</item> 
+
+<item>Salad</item> 
+<item>Salmon</item> 
+<item>Hotdog</item> 
+
+<item>Tuna</item> 
+<item>Anise</item> 
+<item>Cake</item> 
+
+<item>Cashew</item> 
+<item>Coffee</item> 
+<item>Cookie</item> 
+
+<item>Coriander</item> 
+<item>Corn flour</item> 
+<item>Corn flakes</item> 
+
+<item>Cream</item> 
+<item>Cucumber</item> 
+<item>Cumin</item> 
+
+<item>Dill</item> 
+<item>Flour</item> 
+<item>Garlic</item>
+ 
+<item>Ginger</item> 
+<item>Juice</item> 
+<item>Lemon</item> 
+
+<item>Lemongrass</item> 
+<item>Milk</item> 
+<item>Mustard</item> 
+
+<item>Onion</item> 
+<item>Pasta</item> 
+<item>Peanut</item> 
+
+<item>Pennyroyal</item> 
+<item>Pepper</item> 
+<item>Popcorn</item> 
+
+<item>saffron</item> 
+<item>Sesame</item> 
+<item>Spinach</item> 
+
+<item>Sugar</item> 
+<item>Tea</item> 
+<item>Tomato</item> 
+
+<item>Turmeric</item> 
+<item>Vanilla</item> 
+<item>Wheat</item>
+
+    <item>Vegetables</item>
+
+</string-array>
+
+<string-array name="foodimage_title">
+    
+<item>@drawable/food</item> 
+<item>@drawable/asparagus</item> 
+<item>@drawable/bean</item> 
+
+<item>@drawable/grain</item>
+<item>@drawable/potato</item> 
+<item>@drawable/beef</item> 
+
+<item>@drawable/bread</item> 
+<item>@drawable/burger</item> 
+<item>@drawable/persimmon</item> 
+
+<item>@drawable/meat</item> 
+<item>@drawable/oyster</item> 
+<item>@drawable/rice</item> 
+
+<item>@drawable/salad</item> 
+<item>@drawable/salmon</item> 
+<item>@drawable/hotdog</item> 
+
+<item>@drawable/tuna</item> 
+<item>@drawable/anise</item> 
+<item>@drawable/cake</item> 
+
+<item>@drawable/cashew</item> 
+<item>@drawable/coffee</item> 
+<item>@drawable/cookie</item> 
+
+<item>@drawable/coriander</item> 
+<item>@drawable/cornflour</item>
+<item>@drawable/cornflakes</item>
+
+<item>@drawable/cream</item> 
+<item>@drawable/cucumber</item> 
+<item>@drawable/cumin</item> 
+
+<item>@drawable/dill</item> 
+<item>@drawable/flour</item> 
+<item>@drawable/garlic</item> 
+
+<item>@drawable/ginger</item> 
+<item>@drawable/juice</item> 
+<item>@drawable/lemon</item> 
+
+<item>@drawable/lemongrass</item> 
+<item>@drawable/milk</item> 
+<item>@drawable/mustard</item> 
+
+
+<item>@drawable/onion</item> 
+<item>@drawable/pasta</item> 
+<item>@drawable/peanut</item> 
+
+<item>@drawable/pennyroyal</item> 
+<item>@drawable/pepper</item> 
+<item>@drawable/popcorn</item> 
+
+<item>@drawable/saffron</item> 
+<item>@drawable/sesame</item> 
+<item>@drawable/spinach</item> 
+
+<item>@drawable/sugar</item> 
+<item>@drawable/tea</item> 
+<item>@drawable/tomato</item> 
+
+<item>@drawable/turmeric</item> 
+<item>@drawable/vanilla</item> 
+<item>@drawable/wheat</item>
+
+    <item>@drawable/vegetables</item>
+
+</string-array>
+
+<string-array name="foodnew_title">
+    <item>Vellikin on ruokaa.\n\n Meaning:The velvet is food.</item>
+    <item>Tuore tai jäähdytetty parsa. \n\n Meaning:Asparagus, fresh or chilled</item>
+    <item>Otetaan uudestaan. Vielä yksikin papu, niin oksennan. \n\n Meaning:Charlie, if I eat one more bean, I\'m going to be sick.</item>
+
+    <item>Viljan jyviä käytetään ravinnoksi.\n\n Meaning:Grains are used as food.</item>
+    <item>Rakastan peruna purjo keittoa. \n\n Meaning:I love potato leek soup.</item>
+    <item>Naudanliha nousussa.\n\n Meaning: The price of beef is on the rise.</item>
+
+    <item>Leipomossa leivotaan leipää.\n\n Meaning: The bakery baked bread.</item>
+    <item> Yksi hampurilainen, ja sitten häivyt elämästäni.\n\n Meaning: One hamburger and you\'re out of my life. That\'s it.</item>
+    <item>Tuo kaupasta munia!\n\n Meaning:Bring eggs to the store!</item>
+
+    <item>Liha on heikko.\n\n Meaning:Meat is weak.</item>
+    <item>Järjestän osteri-illalliset kunniaksesi.\n\n Meaning: I\'m having a oyster supper in your honour.</item>
+    <item>Riisi on saatettu esikypsyttää. \n\n Meaning:The rice may have been parboiled.</item>
+
+    <item>Keittiömestarin salaatti, öljy ja etikka erikseen. \n\n Meaning:The chef\'s salad with the oil and vinegar on the side.</item>
+    <item>Lohi on tärkeä raaka kala, ja maailmanlaajuisesti yksi kalanviljelyssä eniten tuotettuja kalalajeja.\n\n Meaning:Salmon is an important raw fish, and globally one of the most produced fish species in fish farming.</item>
+    <item>Kelpaako nakkisämpylä? \n\n Meaning:How about a hot dog?</item>
+
+    <item>Tonnikalat ovat erittäin nopeita uimareita (on mitattu 77 km/h nopeuksia).\n\n Meaning:Tuna are very fast swimmers (measured at 77 km / h speeds)</item>
+    <item>Aniksensiemen käytetään makua ruokaa.\n\n Meaning: Anise seeds are used to flavor food. </item>
+    <item>Hän sai taas kakkua.\n\n Meaning:He got the cake again.</item>
+
+    <item>Cashew-pähkinä puu on trooppinen ikivihreä puu, joka tuottaa cashew-siemeniä ja cashew-omenaa.\n\n Meaning:The cashew tree is a tropical evergreen tree that produces the cashew seed and the cashew apple. </item>
+    <item>Suomalaiset pukeutuvat maailman kovimpaan kahvinjuoja.\n\n Meaning:The Finns are the world\'s best coffee drinker.</item>
+    <item>Maistuuko pikkuleipä?\n\n Meaning: Hey, you like to have a cookie?</item>
+
+    <item>Korianterinsiemeniä käytetään ruoanlaittoon. \n\n Meaning:Coriander seeds are used in cooking.</item>
+    <item>Maissijauho on kuivatusta maissista jauhettu ateria. \n\n Meaning:Flour is a meal ground from dried maize.</item>
+    <item>Maissihiutaleet ovat aamiaismuroja, jotka tehdään sekoittamalla keitettyä maissia sokerin.\n\n Meaning:Corn flakes are breakfast cereals made by mixing boiled corn with sugar.</item>
+
+    <item>Väri ei ole kerma, se on vanilja. \n\n Meaning:It\'s not cream. It\'s vanilla.</item>
+    <item>Kurkku on eräänlainen salaatti.\n\n Meaning:Cucumber is a kind of salad.</item>
+    <item>Kumina on eräänlainen mauste.\n\n Meaning:Cumin is a kind of spice.</item>
+
+    <item>Tilli on mausteinen ruoka.\n\n Meaning: Dill is  a flavouring food.</item>
+    <item>Jauho, joka on jauhettu hampun, Cannabis sativa L., kuivatuista lehdistä.\n\n Meaning: Flour ground from dried leaves from Cannabis sativa </item>
+    <item>Teidän täytyy pystyä haistamaan valkosipuli.\n\n Meaning: You must be able to smell the garlic.</item>
+
+     <item>Inkivääri-valkosipulihummeria.\n\n Meaning: The ginger-garlic lobster.</item>
+    <item>Meiltä on mehu loppu ja se on ollut loppu viikon. \n\n Meaning:We\'re out of juice, and we\'ve been out of juice for, like, a week.</item>
+    <item>Sitruuna on sellainen, joka murretaan helposti.\n\n Meaning:Lemon is one that is easily crushed.</item>
+
+    <item>Sitruunaruoho is a tropical plant.\n\n Meaning:Lemongrass is also a Tropical plant</item>
+    <item>Onko tuo maito pastöroitua?\n\n Meaning: Is that milk pasteurized?</item>
+    <item>Isi, mistä sinappi on tehty?\n\n Meaning:Daddy, what is mustard made of? </item>
+
+    <item>Tämä on sipuli. \n\n Meaning:This is an onion. </item>
+    <item>Suomessa pasta ostetaan tavallisesti valmiina kaupasta.\n\n Meaning:In Finland, pasta is usually purchased ready for sale.</item>
+    <item>Teenkö maapähkinä-hillovoileivän?\n\n Meaning: What do you want, peanut butter and jelly sandwich?</item>
+
+    <item>Puolanminttu eli vuoriminttu on aromaattisen tuoksuinen ruohokasvi minttujen suvussa. \n\n Meaning:Polish pulp is the aromatic herb plant in the genus of mint.</item>
+    <item>Siinä on nyt vain suola ja pippuri ja se näyttää typerältä.\n\n Meaning:There is now only salt and pepper and it looks stupid.</item>
+    <item>Popcorn kasvattaa lihaksia.\n\n Meaning:Popcorn grows muscles.</item>
+
+    <item>Sahrami antaa hyvän säväyksen. \n\n Meaning:You add a pinch of saffron, it makes all the difference.</item>
+    <item>Seesaminsiemenet ovat terveyttä tulvillaan.\n\n Meaning: Sesame seeds are health at floods</item>
+    <item>Sinun piti syödä pinaatti.\n\n Meaning: You\'re supposed to eat the spinach!</item>
+
+
+    <item>Sokerit liukenevat hyvin veteen, mutta ne voidaan myös kiteyttää, ja ne maistuvat makeilta.\n\n Meaning:The sugars are well soluble in water, but they can also be crystallized and taste sweet.</item>
+    <item>Tuo kaupasta teetä!\n\n Meaning:Bring the tea in the store!</item>
+    <item>Tomaatti kasvaa kohisten.\n\n Meaning:Tomato grows fast</item>
+
+    <item> Kurkuma on lääketieteellisiä ominaisuuksia.\n\n Meaning:Turmeric has medicinal properties.</item>
+    <item> Tupakki tai vanilja olisi parempi. \n\n Meaning:Tobacco or vanilla would be better.</item>
+    <item>tämä leipä on vehnää.\n\n Meaning:This bread is wheat.</item>
+
+    <item>Hedelmät ja vihannekset ovat ylihinnoiteltuja EU:ssa.\n\n Meaning:Fruit and vegetables in the EU are over-priced.</item>
+    
+</string-array>
+
+<string-array name="foodsong">
+   
+
+
+
+<item>@raw/ruoka</item> 
+<item>@raw/parsa</item> 
+<item>@raw/papu</item> 
+
+<item>@raw/jyva</item> 
+<item>@raw/peruna</item> 
+<item>@raw/naudanliha</item> 
+
+<item>@raw/leipa</item> 
+<item>@raw/hampurilainen</item> 
+<item>@raw/muna</item> 
+
+<item>@raw/liha</item> 
+<item>@raw/osteri</item> 
+<item>@raw/riisi</item> 
+
+<item>@raw/salaatti</item> 
+<item>@raw/lohi</item> 
+<item>@raw/nakkisampyla</item> 
+
+<item>@raw/tonnikala</item> 
+<item>@raw/aniksensiemen</item> 
+<item>@raw/kakku</item>
+ 
+<item>@raw/cashewpahkina</item>
+<item>@raw/kahvi</item> 
+<item>@raw/pikkuleipa</item> 
+
+<item>@raw/korianteri</item> 
+<item>@raw/maissijauho</item> 
+<item>@raw/maissihiutaleet</item> 
+
+<item>@raw/kerma</item> 
+<item>@raw/kurkku</item> 
+<item>@raw/kumina</item> 
+
+<item>@raw/tilli </item> 
+<item>@raw/jauho</item>
+<item>@raw/valkosipuli</item> 
+
+<item>@raw/inkivaari</item> 
+<item>@raw/mehu</item> 
+<item>@raw/sitruuna</item> 
+
+<item>@raw/sitruunaruoho</item> 
+<item>@raw/maito</item> 
+<item>@raw/sinappi</item>
+
+
+<item>@raw/sipuli</item> 
+<item>@raw/pasta</item> 
+<item>@raw/maapahkina</item> 
+
+<item>@raw/puolanminttu</item> 
+<item>@raw/pippuri</item> 
+<item>@raw/popcorn</item> 
+
+<item>@raw/sahrami</item> 
+<item>@raw/seesaminsiemen</item> 
+<item>@raw/pinaatti</item> 
+
+<item>@raw/sokeri</item> 
+<item>@raw/tee</item> 
+<item>@raw/tomaatti</item> 
+
+<item>@raw/kurkuma</item> 
+<item>@raw/vanilja</item> 
+<item>@raw/vehna</item>
+    <item>@raw/hedelmat</item>
+
+</string-array>
+
+
+
+
+
+
+
+
+</resources>
+
+
+
+
+

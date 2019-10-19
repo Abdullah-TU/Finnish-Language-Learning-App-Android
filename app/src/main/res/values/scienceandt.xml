@@ -1,0 +1,160 @@
+<resources>
+
+
+
+
+<string-array name="scienceandtechnology_title">
+
+
+
+<item>Tiede</item>
+<item>Tekniikka</item>
+<item>Tietotekniikka</item> 
+
+<item>Maatalous</item> 
+<item>Automaatio</item> 
+<item>Liike</item> 
+
+<item>Tietokone</item> 
+<item>Metsänhoito</item> 
+<item>Matkapuhelin</item> 
+
+<item>Sähköposti</item>
+<item>Puhelin</item> 
+<item>Taivas</item>
+
+<item>Sää</item>
+<item>Ennuste</item> 
+<item>Röntgen</item>
+
+
+
+</string-array>
+
+<string-array name="scienceandtechnologysub_title">
+
+
+  
+<item> Science</item> 
+
+<item> Technology</item> 
+
+<item> Information technology</item> 
+
+
+<item> Agriculture</item>  
+
+<item> Automation</item>  
+
+<item> Business</item> 
+
+ 
+<item> Computer</item>  
+
+<item> Forestry</item>  
+
+<item> Mobile</item>
+
+  
+<item> Email</item> 
+ 
+<item> Telephone</item> 
+ 
+<item> Sky</item>
+
+  
+<item> Weather</item> 
+ 
+<item> Forecast</item>  
+
+<item> X-ray</item>  
+
+    
+
+</string-array>
+
+<string-array name="scienceandtechnologyimage_title">
+    
+
+<item>@drawable/science</item> 
+<item>@drawable/technology</item> 
+<item>@drawable/itechnology</item>
+
+<item>@drawable/agriculture</item>  
+<item>@drawable/automation</item>  
+<item>@drawable/business</item>  
+
+<item>@drawable/computer</item>  
+<item>@drawable/forestry</item>  
+<item>@drawable/mobile</item>  
+
+<item>@drawable/email</item>  
+<item>@drawable/telephone</item>  
+<item>@drawable/sky</item>  
+
+<item>@drawable/weather</item>  
+<item>@drawable/forcast</item>
+<item>@drawable/xray</item>
+
+
+</string-array>
+
+<string-array name="scienceandtechnologynew_title">
+    <item>Matematiikka on tiede.\n\n Meaning:Mathematics is a science.</item>
+    <item>Tämä tekniikka on vaara.\n\n Meaning:This technology is a danger.</item>
+    <item>Tietotekniikka on jo käynnistänyt teollisen vallankumouksen.\n\n Meaning:Information technology has already initiated an industrial revolution.</item>
+
+    <item>Näitä aloja ovat matkailu, liikenne, kaivostoiminta, maatalous ja kalastus.\n\n Meaning: These sectors include tourism, transportation, mining, agriculture and fisheries.</item>
+    <item>Automaatio tarkoittaa itse toimivaa laitetta tai järjestelmää.\n\n Meaning:Automation means a functioning device or system.</item>
+    <item>Neuvoston puheenjohtaja puhui Hongkongin merkityksestä liike-elämässä.\n\n Meaning:The President-in-Office spoke of the importance of Hong Kong to business.</item>
+
+    <item>Käynnistä tietokone, aseta Windowsin asennuslevy asemaan ja käynnistä tietokone uudelleen.\n\n Meaning: Turn on your computer, insert the Windows installation disc, and then restart your computer.</item>
+    <item>Kestävä metsänhoito mahdollistaa energiantuotannon hakkuujätteestä.\n\n Meaning: Sustainable forestry exploitation will make it possible to produce energy using wood residues.</item>
+    <item>Kaksi sukupolvemme suurinta keksintöä ovat Internet ja matkapuhelin.\n\n Meaning: The two most likely largest inventions of our generation are the Internet and the mobile phone.</item>
+
+    <item>Voit syöttää haluamasi määrän sähköpostiosoitteita Nimi ja sähköposti -välilehteen. \n\n Meaning:You can enter as many e‑mail addresses as you like for a contact on the Name and E‑mail tab.</item>
+    <item>Liitä kamera, puhelin tai muistikortti tietokoneeseesi. \n\n Meaning:Connect a camera, phone, or memory card to your PC.</item>
+    <item>Taivas jaetaan funktionaalisiin lohkoihin, jotka myydään erikseen palveluntarjoajille.\n\n Meaning: The sky is to be divided into functional blocks that will be sold separately to service providers.</item>
+
+    <item>Huono sää aiheuttaa muita odottamattomia inhimillisiä murhenäytelmiä koko planeetalla. \n\n Meaning:Adverse weather is causing other unforeseen human tragedy across our planet.</item>
+    <item>Kotimaisen kysynnän 2, 5 % on tietenkin ennuste seuraaville kahdelle vuodelle.\n\n Meaning: 2.5 %, of course, of the domestic demand is forecast for the next two years.</item>
+    <item>Tässä on röntgenkuva tuosta toimivasta verisuonesta.\n\n Meaning: And this is an X-ray showing you the patent, functional blood vessel. </item>
+
+
+</string-array>
+
+<string-array name="scienceandtechnologysong">
+   
+
+
+<item>@raw/tiede</item>
+<item>@raw/tekniikka</item>
+<item>@raw/tietotekniikka</item> 
+
+<item>@raw/maatalous</item> 
+<item>@raw/automaatio</item> 
+<item>@raw/liike</item> 
+
+<item>@raw/tietokone</item> 
+<item>@raw/metsanhoito</item> 
+<item>@raw/matkapuhelin</item> 
+
+<item>@raw/sahkoposti</item>
+<item>@raw/puhelin</item> 
+<item>@raw/taivas</item> 
+<item>@raw/saa</item>
+
+<item>@raw/ennuste</item> 
+<item>@raw/rontgen</item>
+
+
+</string-array>
+
+
+</resources>
+
+
+
+
+
+

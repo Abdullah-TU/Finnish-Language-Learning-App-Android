@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:id="@+id/slidelinearlayout"
+    android:background="@drawable/back2">
+
+    <ImageView
+        android:id="@+id/another"
+        android:layout_width="126dp"
+        android:layout_height="50dp"
+        android:layout_alignEnd="@+id/another2"
+        android:layout_alignRight="@+id/another2"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="35dp" />
+
+    <ImageView
+        android:id="@+id/another2"
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginEnd="29dp"
+        android:layout_marginRight="29dp"
+        android:layout_marginTop="23dp" />
+
+    <ImageView
+        android:id="@+id/slideimg"
+        android:layout_width="180dp"
+        android:layout_height="160dp"
+        android:layout_above="@+id/txttitle"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:id="@+id/txttitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:layout_centerInParent="true"
+        android:gravity="center"
+        android:padding="16dp"
+        android:text="Title Here"
+        android:textColor="#fff"
+        android:textSize="30sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/txtdescription"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:layout_below="@+id/txttitle"
+        android:layout_centerHorizontal="true"
+        android:gravity="center"
+        android:padding="16dp"
+        android:text="Description is Here"
+        android:textAlignment="center"
+        android:textColor="#fff"
+        android:textSize="17sp" />
+
+
+</RelativeLayout>

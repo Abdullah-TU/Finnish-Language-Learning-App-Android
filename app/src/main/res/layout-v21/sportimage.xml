@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/table_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/back2">
+    <LinearLayout>
+
+        <ImageView
+            android:id="@+id/logodesign"
+            android:layout_width="0dp"
+            android:layout_height="80dp"
+            android:layout_weight=".60"
+
+            android:background="@drawable/druganddrop"
+            android:gravity="bottom"
+            android:padding="32dp"
+          />
+
+        <TextView
+            android:id="@+id/textviewabc"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight=".40"
+            android:gravity="bottom"
+            android:text="Text To Image"
+            android:textColor="	#FFFFFF"
+            android:textSize="23sp"
+            android:textStyle="bold" />
+
+
+    </LinearLayout>
+
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="20dp"
+        android:padding="15dp"/>
+    <TableRow
+        android:id="@+id/row_1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+>
+
+        <ImageView
+            android:id="@+id/option_1"
+            android:layout_width="0dp"
+            android:layout_height="80dp"
+            android:layout_weight=".65"
+            android:background="@drawable/ammuntaa"
+            android:gravity="center"
+            android:padding="32dp"
+            android:tag="option_1" />
+        <ImageView
+            android:id="@+id/choice_3"
+            android:layout_width="0dp"
+            android:layout_height="80dp"
+
+            android:tag="option_3"
+            android:background="@drawable/football"
+            android:gravity="center"
+            android:padding="32dp"
+            android:layout_weight=".35" />
+
+
+    </TableRow>
+
+    <TableRow
+        android:id="@+id/row_2"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+>
+
+        <ImageView
+            android:id="@+id/option_2"
+            android:layout_width="0dp"
+            android:layout_height="80dp"
+            android:layout_weight=".65"
+            android:background="@drawable/hiihtoo"
+            android:gravity="center"
+            android:padding="32dp"
+            android:tag="option_2" />
+
+        <ImageView
+            android:id="@+id/choice_5"
+            android:layout_width="0dp"
+            android:layout_height="80dp"
+            android:layout_weight=".35"
+            android:tag="option_5"
+            android:background="@drawable/hunting"
+            android:gravity="center"
+            android:padding="32dp" />
+
+    </TableRow>
+
+    <TableRow
+        android:id="@+id/row_3"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+>
+
+        <ImageView
+            android:id="@+id/option_3"
+            android:layout_width="0dp"
+
+            android:layout_height="80dp"
+            android:layout_weight=".65"
+            android:background="@drawable/jalkapalloo"
+            android:gravity="center"
+            android:padding="32dp"
+            android:tag="option_3" />
+
+        <ImageView
+            android:id="@+id/choice_1"
+            android:layout_width="0dp"
+            android:layout_height="80dp"
+            android:layout_weight=".35"
+            android:background="@drawable/shooting"
+            android:gravity="center"
+            android:padding="32dp"
+            android:tag="option_1" />
+
+    </TableRow>
+    <TableRow
+        android:id="@+id/row_4"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+>
+
+        <ImageView
+            android:id="@+id/option_4"
+            android:layout_width="0dp"
+            android:layout_height="80dp"
+
+            android:layout_weight=".65"
+            android:background="@drawable/krikettii"
+            android:gravity="center"
+            android:padding="32dp"
+            android:tag="option_4" />
+        <ImageView
+            android:id="@+id/choice_6"
+            android:layout_width="0dp"
+            android:layout_height="80dp"
+            android:layout_weight=".35"
+            android:background="@drawable/cycling"
+            android:gravity="center"
+            android:padding="32dp"
+            android:tag="option_6" />
+
+    </TableRow>
+    <TableRow
+        android:id="@+id/row_5"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+>
+
+        <ImageView
+            android:id="@+id/option_5"
+            android:layout_width="0dp"
+            android:layout_height="80dp"
+            android:layout_weight=".65"
+            android:background="@drawable/metsastyss"
+            android:gravity="center"
+            android:padding="32dp"
+            android:tag="option_5" />
+
+        <ImageView
+            android:id="@+id/choice_2"
+            android:layout_width="0dp"
+            android:layout_height="80dp"
+            android:layout_weight=".35"
+            android:tag="option_2"
+            android:background="@drawable/skiing"
+            android:gravity="center"
+            android:padding="32dp" />
+    </TableRow>
+    <TableRow
+        android:id="@+id/row_6"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+>
+
+        <ImageView
+            android:id="@+id/option_6"
+            android:layout_width="0dp"
+            android:layout_height="80dp"
+            android:layout_weight=".65"
+            android:background="@drawable/pyorailyy"
+            android:gravity="center"
+            android:padding="32dp"
+            android:tag="option_6" />
+
+
+        <ImageView
+            android:id="@+id/choice_4"
+            android:layout_width="0dp"
+            android:layout_height="80dp"
+            android:layout_weight=".35"
+            android:tag="option_4"
+            android:background="@drawable/cricket"
+            android:gravity="center"
+            android:padding="32dp" />
+    </TableRow>
+
+
+</TableLayout>

@@ -1,0 +1,125 @@
+<resources>
+
+
+
+<string-array name="math_title">
+
+<item>Vähennyslasku</item>
+<item>Lisäys</item>
+<item>Kertolasku</item>
+
+<item>Jako</item>
+<item>Jakaa</item>
+<item>Kertoa</item>
+
+<item>Vähentää</item>
+<item>Lisätä</item>
+<item>Ympyrä</item>
+
+<item>Kolmio</item>
+<item>Neliö</item>
+<item>Laskin</item>
+
+</string-array>
+
+<string-array name="mathsub_title">
+  
+
+<item>Subtraction</item>
+<item>Addition</item>
+<item>Multiplication</item>
+
+<item>Division</item>
+<item>To divide</item>
+<item>To multiply</item>
+
+<item>To subtract</item>
+<item>To add</item>
+<item>Circle</item>
+
+<item>Triangle</item>
+<item>Square</item>
+<item>Calculator</item>
+    
+
+</string-array>
+
+<string-array name="mathimage_title">
+    
+
+<item>@drawable/subtraction</item>
+<item>@drawable/addition</item>
+<item>@drawable/multiplication</item>
+
+<item>@drawable/division</item>
+<item>@drawable/todivide</item>
+<item>@drawable/tomultiply</item>
+
+<item>@drawable/tosubtract</item>
+<item>@drawable/toadd</item>
+<item>@drawable/circles</item>
+
+<item>@drawable/triangle</item>
+<item>@drawable/square</item>
+<item>@drawable/calculator</item>
+
+
+</string-array>
+
+<string-array name="mathnew_title">
+    <item>Vähennyslaskun tulosta kutsutaan erotukseksi.\n\n Meaning:The result of the deduction is called the subtraction.</item>
+    <item>Uusin lisäys Odomin taloon.\n\n Meaning: This is our newest addition to the Odom House.</item>
+    <item>Kertolasku 3*4 voidaan esittää yhteenlaskuna 3+3+3+3. \n\n Meaning:Multiplication 3*4 can be represented as a sum of 3 + 3 + 3 + 3.</item>
+
+    <item>Jako on päinvastainen kertolasku \n\n Meaning:Division is the inverse of multiplication</item>
+    <item></item>
+    <item></item>
+
+    <item></item>
+    <item></item>
+    <item>Euroopan lipussa on kahdentoista kullanvärisen tähden muodostama ympyrä sinisellä taustalla.\n\n Meaning: The European flag consists of 12 golden stars in a circle on a blue background.</item>
+
+    <item>Se on Bermudan kolmio.\n\n Meaning: that\'s the Bermuda Triangle.</item>
+    <item>Huone on 10 neliötä.\n\n Meaning:The room is 10 square meters.</item>
+    <item>Onko sinulla iso laskin? \n\n Meaning:Do you have a big calculator? </item>
+</string-array>
+
+<string-array name="mathsong">
+   
+
+
+<item>@raw/vahennyslasku</item>
+<item>@raw/lisays</item>
+<item>@raw/kertolasku</item>
+
+<item>@raw/jako</item>
+<item>@raw/jakaa</item>
+<item>@raw/kertoa</item>
+
+<item>@raw/vahentaa</item>
+<item>@raw/lisata</item>
+<item>@raw/ympyra</item>
+
+<item>@raw/kolmio</item>
+<item>@raw/nelio</item>
+<item>@raw/laskin</item>
+
+
+</string-array>
+
+
+
+
+
+
+
+
+
+
+</resources>
+
+
+
+
+
+

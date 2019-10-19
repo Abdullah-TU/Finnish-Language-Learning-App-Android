@@ -1,0 +1,302 @@
+<resources>
+
+
+    <string-array name="greetings_title">
+
+        <item>Tervetuloa</item>
+        <item>Terve</item>
+        <item>Haloo </item>
+
+        <item>Mitä kuuluu?</item>
+        <item>Hyvää kiitos, entä sinulle?</item>
+        <item>Mikä sinun nimesi on?  </item>
+
+        <item>Nimeni on …</item>
+        <item>Mistä olet kotoisin?</item>
+        <item>Olen kotoisin … </item>
+
+        <item>Hauska tavata</item>
+        <item>Hyvää huomenta</item>
+        <item>Hyvää päivää </item>
+
+        <item>Hyvää iltaa</item>
+        <item>Hyvää yötä</item>
+        <item>Näkemiin</item>
+
+        <item>Onnea!</item>
+        <item>Kippis!</item>
+        <item>Hyvää päivänjatkoa</item>
+
+        <item>Hyvää ruokahalua! </item>
+        <item>Hyvää matkaa!</item>
+        <item>En tiedä</item>
+
+        <item>Ymmärrän</item>
+        <item>En ymmärrä</item>
+        <item>Kirjoitatteko sen ylös?</item>
+
+        <item>Puhutteko englantia?</item>
+        <item>Puhutteko suomea? </item>
+        <item>Anteeksi!</item>
+
+        <item>Pyydän</item>
+        <item>Kiitos </item>
+        <item>Eipä kestä</item>
+
+        <item>Missä on vessa?</item>
+        <item>Minulla on sinua ikävä</item>
+        <item>Minä rakastan sua </item>
+
+        <item>Tulipalo!</item>
+        <item>Soittakaa poliisille!</item>
+        <item>Hyvää syntymäpäivää</item>
+
+        <item>Seis! </item>
+
+
+
+    </string-array>
+
+    <string-array name="greetingssub_title">
+
+                <item> Welcome </item>
+                <item> Welcome </item>
+                <item> Hello? </item>
+
+                <item> How are you? </item>
+                <item> Thank you, what about you? </item>
+                <item> What\'s your name? </item>
+
+                <item> My name is ... </item>
+                <item> Where are you from? </item>
+                <item> I\'m from ... </item>
+
+                <item> Pleased to meet you </item>
+                <item> Good morning </item>
+                <item> Good afternoon </item>
+
+                <item> Good evening </item>
+                <item> Good night </item>
+                <item> Goodbye </item>
+
+                <item> Good luck! </item>
+                <item> Cheers! </item>
+                <item> Have a nice day </item>
+
+                <item> Have a nice meal! </item>
+                <item> Have a good journey! </item>
+                <item> I don\'t know </item>
+
+                <item> I understand </item>
+                <item> I do not understand </item>
+                <item> Please write it down </item>
+
+                <item> Do you speak English? </item>
+                <item> Do you speak Finnish? </item>
+                <item> Excuse me! </item>
+
+                <item> Please </item>
+                <item> Thanks </item>
+                <item> Reply to thank you </item>
+
+                <item> Where\'s the toilet? </item>
+                <item> I miss you </item>
+                <item> I love you </item>
+
+                <item> Fire! </item>
+                <item> Call the police! </item>
+                <item> Happy Birthday </item>
+
+                <item> Stop! </item>
+
+
+    </string-array>
+
+    <string-array name="greetingsimage_title">
+
+
+        <item>@drawable/blank</item>
+        <item>@drawable/blank</item>
+        <item>@drawable/blank</item>
+
+        <item>@drawable/blank</item>
+        <item>@drawable/blank</item>
+        <item>@drawable/blank</item>
+
+        <item>@drawable/blank</item>
+        <item>@drawable/blank</item>
+        <item>@drawable/blank</item>
+
+        <item>@drawable/blank</item>
+        <item>@drawable/blank</item>
+        <item>@drawable/blank</item>
+
+        <item>@drawable/blank</item>
+        <item>@drawable/blank</item>
+        <item>@drawable/blank</item>
+
+        <item>@drawable/blank</item>
+        <item>@drawable/blank</item>
+        <item>@drawable/blank</item>
+
+        <item>@drawable/blank</item>
+        <item>@drawable/blank</item>
+        <item>@drawable/blank</item>
+
+        <item>@drawable/blank</item>
+        <item>@drawable/blank</item>
+        <item>@drawable/blank</item>
+
+        <item>@drawable/blank</item>
+        <item>@drawable/blank</item>
+        <item>@drawable/blank</item>
+
+        <item>@drawable/blank</item>
+        <item>@drawable/blank</item>
+        <item>@drawable/blank</item>
+
+        <item>@drawable/blank</item>
+        <item>@drawable/blank</item>
+        <item>@drawable/blank</item>
+
+        <item>@drawable/blank</item>
+        <item>@drawable/blank</item>
+        <item>@drawable/blank</item>
+
+        <item>@drawable/blank</item>
+
+
+    </string-array>
+
+    <string-array name="greetingsnew_title">
+
+        <item>Example is not available.</item>
+        <item>Example is not available.</item>
+        <item>Example is not available.</item>
+
+        <item>Example is not available.</item>
+        <item>Example is not available.</item>
+        <item>Example is not available.</item>
+
+        <item>Example is not available.</item>
+        <item>Example is not available.</item>
+        <item>Example is not available.</item>
+
+        <item>Example is not available.</item>
+        <item>Example is not available.</item>
+        <item>Example is not available.</item>
+
+        <item>Example is not available.</item>
+        <item>Example is not available.</item>
+        <item>Example is not available.</item>
+
+        <item>Example is not available.</item>
+        <item>Example is not available.</item>
+        <item>Example is not available.</item>
+
+        <item>Example is not available.</item>
+        <item>Example is not available.</item>
+        <item>Example is not available.</item>
+
+        <item>Example is not available.</item>
+        <item>Example is not available.</item>
+        <item>Example is not available.</item>
+
+        <item>Example is not available.</item>
+        <item>Example is not available.</item>
+        <item>Example is not available.</item>
+
+        <item>Example is not available.</item>
+        <item>Example is not available.</item>
+        <item>Example is not available.</item>
+
+        <item>Example is not available.</item>
+        <item>Example is not available.</item>
+        <item>Example is not available.</item>
+
+        <item>Example is not available.</item>
+        <item>Example is not available.</item>
+        <item>Example is not available.</item>
+
+        <item>Example is not available.</item>
+
+
+
+    </string-array>
+
+
+
+
+
+
+    <string-array name="greetingssong">
+
+
+
+        <item>R.raw.tervetuloa</item>
+        <item>R.raw.terveyvpmoi</item>
+        <item>R.raw.haloo</item>
+
+        <item>R.raw.mitakuuluu</item>
+        <item>R.raw.hkiitosentasinulle</item>
+        <item>R.raw.mikasinunnimesion</item>
+
+        <item>R.raw.nimenion</item>
+        <item>R.raw.mistaoletkotoisin</item>
+        <item>R.raw.olenkotoisin</item>
+
+        <item>R.raw.hauskatavata</item>
+        <item>R.raw.hyvaahuomenta</item>
+        <item>R.raw.hyvaapaivaa</item>
+
+        <item>R.raw.hyvaailtaa</item>
+        <item>R.raw.hyvaayota</item>
+        <item>R.raw.nakemiin</item>
+
+        <item>R.raw.onnea</item>
+        <item>R.raw.kippis</item>
+        <item>R.raw.hyvpivnjatkoa</item>
+
+        <item>R.raw.hyvruokahalua</item>
+        <item>R.raw.hyvaamatkaa</item>
+        <item>R.raw.entieda</item>
+
+        <item>R.raw.ymmarran</item>
+        <item>R.raw.enymmarra</item>
+        <item>R.raw.kirjoitattekosenylos</item>
+
+        <item>R.raw.puhuttekoenglantia</item>
+        <item>R.raw.puhuttekosuomea</item>
+        <item>R.raw.aniksensiemen</item>
+
+        <item>R.raw.pyydan</item>
+        <item>R.raw.kiitos</item>
+        <item>R.raw.eipakesta</item>
+
+        <item>R.raw.missaonvessa</item>
+        <item>R.raw.minullaonsinuaikava</item>
+        <item>R.raw.minarakastansua</item>
+
+        <item>R.raw.tulipalo</item>
+        <item>R.raw.soitta</item>
+        <item>R.raw.hyvsyntym</item>
+
+        <item>R.raw.seis</item>
+
+
+
+
+    </string-array>
+
+
+
+
+
+
+</resources>
+
+
+
+
+
+

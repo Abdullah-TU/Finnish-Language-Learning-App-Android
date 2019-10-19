@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                xmlns:tools="http://schemas.android.com/tools"
+                android:orientation="vertical" android:layout_width="match_parent"
+                android:background="@drawable/back2"
+    android:layout_height="match_parent">
+
+
+    <View
+        android:id="@+id/viewb"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_below="@+id/textView36"
+        android:layout_marginEnd="18dp"
+        android:layout_marginStart="18dp"
+        android:background="#FF4081" />
+
+    <View
+        android:id="@+id/view"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="#FFFFFF"
+        android:layout_alignRight="@+id/textView30"
+        android:layout_alignEnd="@+id/textView30"
+        android:layout_below="@+id/imageViewa"
+        android:layout_alignLeft="@+id/imageViewa"
+        android:layout_alignStart="@+id/imageViewa"/>
+
+    <ImageView
+        android:id="@+id/imageViewa"
+        android:layout_width="50sp"
+        android:layout_height="50sp"
+        android:background="@drawable/moi"
+        tools:ignore="ContentDescription"
+        android:layout_alignParentTop="true"
+        android:layout_toLeftOf="@+id/textView30"
+        android:layout_toStartOf="@+id/textView30"
+        android:layout_marginRight="21dp"
+        android:layout_marginEnd="21dp"
+        />
+
+    <TextView
+        android:id="@+id/textView30"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginEnd="16dp"
+        android:layout_marginRight="16dp"
+        android:gravity="center"
+        android:text="Own Dictionary"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="#FF4081"
+        android:textSize="30dp"
+        android:textStyle="bold"/>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/relativeLayout">
+
+    </RelativeLayout>
+
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/linearLayout">
+
+    </LinearLayout>
+
+    <ListView
+        android:id="@+id/listView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignEnd="@+id/textView30"
+        android:layout_below="@+id/textView36"
+        android:layout_gravity="bottom"
+        android:layout_marginEnd="20dp"
+        android:layout_marginStart="25dp"/>
+
+
+  <LinearLayout
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:orientation="horizontal"
+      android:layout_below="@+id/textView30"
+      android:id="@+id/linearLayout2">
+
+  </LinearLayout>
+
+    <TextView
+        android:id="@+id/textView36"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/imageViewa"
+        android:layout_marginTop="40dp"
+        android:layout_toEndOf="@+id/imageViewa"
+        android:layout_toRightOf="@+id/imageViewa"
+        android:layout_weight="1"
+        android:text="Finnish"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textColor="#69F0AE"
+        android:textSize="20dp"
+        android:textStyle="bold"/>
+
+
+    <TextView
+        android:id="@+id/textView35"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/textView36"
+        android:layout_alignBottom="@+id/textView36"
+        android:layout_alignStart="@+id/listView"
+        android:layout_marginStart="8dp"
+        android:layout_weight="1"
+        android:text="English"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textColor="#69F0AE"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        tools:ignore="ObsoleteLayoutParam" />
+
+</RelativeLayout>
+
+

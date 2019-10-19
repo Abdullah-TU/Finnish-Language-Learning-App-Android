@@ -1,0 +1,315 @@
+<resources>
+
+
+<string-array name="tandd_title">
+
+
+
+<item>Kello</item> 
+<item>Aika</item> 
+<item>yö</item> 
+
+<item>aamu</item> 
+<item>iltapäivällä</item> 
+<item>päivä</item> 
+
+
+<item>Kuukausi</item>
+<item>Tammikuu</item> 
+<item>Helmikuu</item> 
+
+<item>Huhtikuu</item> 
+<item>Toukokuu</item> 
+<item>Kesäkuu</item> 
+
+<item>Heinäkuu</item> 
+<item>Elokuu</item> 
+<item>Syyskuu</item> 
+
+<item>Lokakuu</item> 
+<item>Marraskuu</item> 
+<item>Joulukuu</item> 
+
+<item>vuosi</item> 
+<item>Päivä</item> 
+<item>Viikko</item> 
+
+<item>Maanantai</item> 
+<item>Tiistai</item> 
+<item>Keskiviikko</item>
+
+<item>Torstai</item>
+<item>Perjantai</item> 
+<item>Lauantai</item> 
+
+<item>Sunnuntai</item> 
+<item>tänään</item> 
+<item>huomenna</item> 
+
+<item>Ylihuomenna</item> 
+<item>eilen</item> 
+<item>toissapäivänä</item> 
+
+
+<item>vapaapäivä</item> 
+<item>arkisin</item> 
+
+
+<item>Mikä vuosi on se nyt?</item> 
+<item>Se on nyt 2018</item>
+<item>Mihin aikaan se on nyt?</item> 
+
+<item>Kello on yksi</item> 
+
+</string-array>
+
+<string-array name="tanddsub_title">
+  
+<item>Clock</item> 
+<item>Time</item> 
+<item>night</item> 
+
+<item>morning</item> 
+<item>Afternoon</item> 
+<item>Day</item> 
+
+
+<item>Month</item> 
+<item>January</item> 
+<item>February</item> 
+
+<item>April</item> 
+<item>May</item> 
+<item>June</item> 
+
+<item>July</item> 
+<item>August</item> 
+<item>September</item> 
+
+<item>October</item> 
+<item>November</item> 
+<item>December</item> 
+
+<item>Year</item> 
+<item>day</item> 
+<item>week</item> 
+
+<item>Monday</item> 
+<item>Tuesday</item> 
+<item>Wednesday</item> 
+
+<item>Thursday</item> 
+<item>Friday</item> 
+<item>Saturday</item> 
+
+<item>Sunday</item> 
+<item>today</item> 
+<item>tomorrow</item> 
+
+<item>day after tomorrow</item> 
+<item>yesterday</item> 
+<item>day before yesterday</item> 
+
+
+<item>holiday</item> 
+<item>weekdays</item>
+<item>What year is it now?</item> 
+
+<item>It is 2018 now</item> 
+<item>What time it is now?</item> 
+<item>It is one o\'\ clock</item> 
+
+    
+
+</string-array>
+
+<string-array name="tanddimage_title">
+    
+
+
+<item>@drawable/clock</item> 
+<item>@drawable/timeanddate</item>
+<item>@drawable/night</item> 
+
+<item>@drawable/tammiku</item>
+<item>@drawable/afternoon</item> 
+<item>@drawable/day</item> 
+
+
+<item>@drawable/month</item> 
+<item>@drawable/tammiku</item>
+<item>@drawable/helmikku</item>
+
+<item>@drawable/huhtaku</item>
+<item>@drawable/toukokku</item>
+<item>@drawable/kesakuu</item>
+
+<item>@drawable/heinakuu</item>
+<item>@drawable/elokuu</item>
+<item>@drawable/syskuu</item>
+
+<item>@drawable/lokakuu</item>
+<item>@drawable/maarraskuu</item>
+<item>@drawable/juolokuu</item>
+
+<item>@drawable/year</item> 
+<item>@drawable/day</item> 
+<item>@drawable/week</item> 
+
+    <item>@drawable/blank</item>
+    <item>@drawable/blank</item>
+    <item>@drawable/blank</item>
+
+    <item>@drawable/blank</item>
+    <item>@drawable/blank</item>
+    <item>@drawable/blank</item>
+
+    <item>@drawable/blank</item>
+    <item>@drawable/blank</item>
+    <item>@drawable/blank</item>
+
+    <item>@drawable/blank</item>
+    <item>@drawable/blank</item>
+    <item>@drawable/blank</item>
+
+
+    <item>@drawable/blank</item>
+    <item>@drawable/blank</item>
+    <item>@drawable/blank</item>
+
+    <item>@drawable/blank</item>
+    <item>@drawable/blank</item>
+    <item>@drawable/blank</item>
+
+
+</string-array>
+
+<string-array name="tanddnew_title">
+    <item>Mitä kello on? Paljonko kello on?\n\n Meaning:What time is it? What\'\s the time?</item>
+    <item>Aikaa voidaan mitata kellolla.\n\n Meaning:Time can be measured with a clock.</item>
+    <item>Syksyllä yöt ovat pimeitä ja synkkiä.\n\n Meaning:In the fall the nights are dark and dark.</item>
+
+    <item>Minusta ei ole mukava herätä aikaisin aamulla.\n\n Meaning:I do not feel comfortable getting up early in the morning.</item>
+    <item>Kello on viisi iltapäivällä ja jo...\n\n Meaning:The clock is five in the afternoon and already ...</item>
+    <item>Olen päivisin töissä, joten voin lenkkeillä vain iltaisin.\n\n Meaning:I work during the day, so I can just jog in the evenings. </item>
+
+    <item>Gregoriaanisessa kalenterissa on kaksitoista kuukautta.\n\n Meaning:The Gregorian calendar has twelve months.</item>
+    <item>Hintapariteetti tammikuu 2013 \n\n Meaning:Economic parity January 2013</item>
+    <item>Helmikuu on jo lopuillaan.\n\n Meaning:February is already over.</item>
+
+    <item>Joka huhtikuu, he ovat täällä.\n\n Meaning:Every April, they\'\re here.</item>
+    <item> Toukokuu oli hieno kuukausi ulkotyöhön.\n\n Meaning:May is  a great month for outdoor work.</item>
+    <item>On melkein kesäkuu. On jo liian myöhäistä.\n\n Meaning:It\'\s almost June. It\'\s too late.</item>
+
+    <item>Kesä- ja heinäkuu ovat olleet sateisimmat maani historiassa.\n\n Meaning:Summer and July have been the most rainfall in my country\'\s history.</item>
+    <item>Elokuu tosin on kurja. Pysyttele sisällä. \n\n Meaning:August is rubbish though stay indoors.</item>
+    <item>Nyt on vasta syyskuu.\n\n Meaning:Now is only September.</item>
+
+    <item>Lokakuu ja marraskuu soveltuisivat tähän hyvin.\n\n Meaning:October or November would be an appropriate time for this to take place.</item>
+    <item>Lokakuu ja marraskuu soveltuisivat tähän hyvin.\n\n Meaning:October or November would be an appropriate time for this to take place.</item>
+    <item>Joulukuuta on vuoden viimeinen kuukausi.\n\n Meaning:December is the last month of the year.</item>
+
+    <item>Kalenterivuosi kestää 365 tai 366 päivää.\n\n Meaning:The calendar year is 365 or 366 days.</item>
+    <item>Tänään on se päivä, kultaseni.\n\n Meaning:Today is that day, sweetheart.</item>
+    <item>Pitkä viikko tulossa. \n\n Meaning:It\'\s gonna be a long week.</item>
+
+    <item>Joka maanantai.\n\n Meaning:Every Monday.</item>
+    <item>Tänään on tiistai, kulta.\n\n Meaning:Today is Tuesday, sweetheart.</item>
+    <item> Nyt on keskiviikko, eikö? \n\n Meaning: It\'\s Wednesday, right?</item>
+
+    <item>Viime kuun ensimmäinen torstai. \n\n Meaning:First Thursday of last month.</item>
+    <item>Hienoa että on perjantai vai mitä? \n\n Meaning:Good thing it\'\s Friday, you know</item>
+    <item>Lauantai kello 14, Kimin ajotunti.\n\n Meaning:Saturday at 14, Kimi\'\s driving lessons.</item>
+
+    <item>Nyt on sunnuntai.\n\n Meaning: Today is Sunday</item>
+    <item>Tänään, huomenna, onko sillä väliä? \n\n Meaning:Today, tomorrow, does it matter?</item>
+    <item>Tänään, huomenna, onko sillä väliä? \n\n Meaning:Today, tomorrow, does it matter?</item>
+
+
+    <item>Alus tulee ylihuomenna. -Yes. \n\n Meaning:The boat gets in the day after tomorrow.</item>
+    <item>Olin eilen autossa. \n\n Meaning:I was driving yesterday. </item>
+    <item>Arvoisa puhemies, toissapäivänä oli Armenian kansanmurhan 91. \n\n Meaning:vuosipäivä.more_vert   Mr President, the day before yesterday was the 91st anniversary of the Armenian genocides.</item>
+
+    <item>Huomenna...minulla on vapaapäivä.\n\n Meaning: Tomorrow\'\s my day off.</item>
+    <item>Erkinen asia.\n\n Meaning:Everyday issue.</item>
+    <item>Mikä vuosi on se nyt?What year is it now? </item>
+
+    <item>Se on nyt 2018.\n\n Meaning:It is now 2018.</item>
+    <item>Mihin aikaan se on nyt?\n\n Meaning:What time is it now?</item>
+    <item>Kello on yksi.\n\n Meaning:It\'\s one o\'\clock.</item>
+
+
+
+
+</string-array>
+
+<string-array name="tanddsong">
+   
+
+
+<item>@raw/kello</item> 
+<item>@raw/aika</item> 
+<item>@raw/yo</item> 
+
+<item>@raw/aamu</item> 
+<item>@raw/iltapaivalla</item> 
+<item>@raw/paiva</item> 
+
+
+<item>@raw/kuukausi</item>
+<item>@raw/tammikuu</item> 
+<item>@raw/helmikuu</item> 
+
+<item>@raw/huhtikuu</item> 
+<item>@raw/toukokuu</item> 
+<item>@raw/kesakuu</item> 
+
+<item>@raw/heinakuu</item> 
+<item>@raw/elokuu</item> 
+<item>@raw/syyskuu</item> 
+
+<item>@raw/lokakuu</item> 
+<item>@raw/marraskuu</item> 
+<item>@raw/joulukuu</item> 
+
+<item>@raw/vuosi</item> 
+<item>@raw/paiva</item> 
+<item>@raw/viikko</item> 
+
+<item>@raw/maanantai</item> 
+<item>@raw/tiistai</item> 
+<item>@raw/keskiviikko</item>
+
+<item>@raw/torstai</item>
+<item>@raw/perjantai</item> 
+<item>@raw/lauantai</item> 
+
+<item>@raw/sunnuntai</item> 
+<item>@raw/tanaan</item> 
+<item>@raw/huomenna</item> 
+
+<item>@raw/ylihuomenna</item> 
+<item>@raw/eilen</item> 
+<item>@raw/toissapaivana</item> 
+
+
+<item>@raw/vapaapaiva</item> 
+<item>@raw/arkisin</item> 
+<item>@raw/mikavuosionsenyt</item>
+
+<item>@raw/seonnyt</item>
+
+<item>@raw/mihinaikaanseonnyt</item>
+
+<item>@raw/kelloonyksi</item>
+
+</string-array>
+
+
+
+</resources>
+
+
+
+
+

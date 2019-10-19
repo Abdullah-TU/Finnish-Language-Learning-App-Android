@@ -1,0 +1,160 @@
+<resources>
+
+
+
+<string-array name="health_title">
+
+
+        <item>Terveys</item>
+        <item>Sairaala</item>
+        <item>Lääkäri</item>
+
+        <item>Sairaanhoitaja</item>
+        <item>Yleislääkäri</item>
+        <item>Fysioterapeutti</item>
+
+        <item>Tauti</item>
+        <item>Kuume</item>
+        <item>Huimaus</item>
+
+        <item>Kutittaa</item>
+        <item>Apteekki</item>
+        <item>Leikkaus</item>
+
+        <item>Turvonnut</item>
+        <item>Palovamma</item>
+        <item>Röntgen</item>
+
+        <item>Väsynyt</item>    
+
+
+</string-array>
+
+<string-array name="healthsub_title">
+  
+
+        <item>Health</item>
+        <item>Hospital</item>
+        <item>Medical doctor, Physician</item>
+
+        <item>Nurse</item>
+        <item>General practitioner</item>
+        <item>Physiotherapist</item>
+
+        <item>Disease</item>
+        <item>Fever</item>
+        <item>Dizziness</item>
+
+        <item>Itch</item>
+        <item>Pharmacy</item>
+        <item>Surgery</item>
+
+        <item>Swollen</item>
+        <item>Burn</item>
+        <item>X-ray</item>
+
+        <item>Tired</item>
+
+
+    
+
+</string-array>
+
+<string-array name="healthimage_title">
+    
+
+ <item>@drawable/medical</item>
+        <item>@drawable/hospital</item>
+        <item>@drawable/doctor</item>
+
+        <item>@drawable/nurse</item>
+        <item>@drawable/generalpractitioner</item>
+        <item>@drawable/physio</item>
+
+        <item>@drawable/disease</item>
+        <item>@drawable/fever</item>
+        <item>@drawable/dizziness</item>
+
+        <item>@drawable/itch</item>
+        <item>@drawable/pharmacy</item>
+        <item>@drawable/surgery</item>
+
+        <item>@drawable/swollen</item>
+        <item>@drawable/burn</item>
+        <item>@drawable/xray</item>
+
+        <item>@drawable/tired</item>
+
+
+
+</string-array>
+
+<string-array name="healthnew_title">
+    <item>Terveys ja erityisesti lasten terveys on jo sinänsä tärkein tavoite.\n\n Meaning:Health, and particularly children\'s health, is a priority in itself.</item>
+    <item>Tämä on Siam-Rach sairaala.\n\n Meaning: This is Siam-Rach Hospital </item>
+    <item>Lääkäri on lääketiedettä harjoittava terveydenhuollon ammattilainen.\n\n Meaning:A doctor is a healthcare practitioner practicing medicine . </item>
+
+    <item>Sairaanhoitaja antoi potilaalle lääkkeen.\n\n Meaning:The nurse gave the patient a drug.</item>
+    <item>Olen yleislääkäri.\n\n Meaning: I\'m a general practitioner at the moment.</item>
+    <item>Mä oon ihan koulutettu fysioterapeutti. \n\n Meaning:I’m a trained physiotherapist.</item>
+
+    <item>Hoitamattomana tauti johtaa koomaan ja potilaan väistämättömään kuolemaan.\n\n Meaning: If the disease is not treated, the patient goes into a coma and inevitably dies.</item>
+    <item>Kuume on yleensä virus- tai bakteeri-infektioiden merkki.\n\n Meaning: Fever is usually a sign of viral or bacterial infections </item>
+    <item>Huimaus on hyvin yleinen oire. \n\n Meaning: Dizziness is a very common symptom.</item>
+
+    <item>Kutittaa on sensaatio, joka aiheuttaa halu tai refleksi tyhjästä.\n\n Meaning:Itch is a sensation that causes the desire or reflex to scratch.</item>
+    <item>voitko mennä apteekkiin? \n\n Meaning:can you go to the pharmacy?</item>
+    <item>Tämä on pieni leikkaus.\n\n Meaning:This is minor surgery.</item>
+
+    <item>hänen polvi oli jo turvonnut. \n\n Meaning:Her knee was already swelling up</item>
+    <item>Palovamma on yleensä äkillisen kuumuuden aiheuttama kudosvaurio.\n\n Meaning: Burns are usually tissue damage caused by sudden heat</item>
+    <item>Kävin röntgenissä.\n\n Meaning: I went to X-rays.</item>
+
+    <item>olen väsynyt. \n\n Meaning:I am tired</item>
+</string-array>
+
+<string-array name="healthsong">
+   
+
+
+
+         <item>@raw/terveys</item>
+        <item>@raw/sairaala</item>	
+        <item>@raw/laakari</item>
+
+        <item>@raw/sairaanhoitaja</item>
+        <item>@raw/yleislaakari</item>
+        <item>@raw/fysioterapeutti</item>
+
+        <item>@raw/tauti</item>
+        <item>@raw/kuumeisuus</item>
+        <item>@raw/huimaus</item>
+
+        <item>@raw/kutittaa</item>
+        <item>@raw/apteekki</item>
+        <item>@raw/leikkaus</item>
+
+        <item>@raw/turvonnut</item>
+        <item>@raw/palovamma</item>
+        <item>@raw/rontgen</item>
+
+        <item>@raw/vasynyt</item>
+
+
+</string-array>
+
+
+
+
+
+
+
+
+
+</resources>
+
+
+
+
+
+

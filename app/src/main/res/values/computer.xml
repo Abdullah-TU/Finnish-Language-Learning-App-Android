@@ -1,0 +1,110 @@
+<resources>
+
+
+
+<string-array name="computer_title">
+
+<item>Pöytätietokone</item>
+<item>Kannettava tietokone</item>	
+<item>Tulostin</item>	
+
+<item>Skanneri	</item>
+<item>Muistikortti</item>
+<item>Ohjelmat</item>
+	
+<item>Käyttöjärjestelmä</item> 	
+<item>Näyttö</item>	
+<item>Näppäimistö</item>	
+<item>Hiiri</item>
+
+    
+
+
+</string-array>
+
+<string-array name="computersub_title">
+
+<item>Desktop computer</item>
+<item>Laptop computer</item>
+<item>Printer</item>
+
+<item>Scanner</item>
+<item>Memory card </item>
+<item>Programs</item>
+
+<item>Operating system </item>
+<item>Monitor</item>
+<item>Keyboard</item>
+
+<item>Mouse</item>
+
+
+</string-array>
+
+<string-array name="computerimage_title">
+    
+
+
+<item>@drawable/desktopcomputer</item>
+<item>@drawable/laptopcomputer</item>
+<item>@drawable/printer</item>
+<item>@drawable/scanner</item>
+<item>@drawable/memorycard</item>
+<item>@drawable/programs</item>
+<item>@drawable/operatingsystem</item>
+<item>@drawable/monitor</item>
+<item>@drawable/keyboard</item>
+<item>@drawable/mouse</item>
+
+
+</string-array>
+
+<string-array name="computernew_title">
+    <item>Jos käytössä on pöytätietokone, suunnitelma näkyy Ensisijaiset suunnitelmat -kohdassa.\n\n Meaning: If you are using a desktop computer, your plan appears under Preferred plans.</item>
+    <item>Muut PC:t, jotka tunnistat ja joihin luotat (kuten tyttären kannettava tietokone tai töissä käyttämäsi PC.\n\n Meaning: Additional PCs that you recognize and trust (like your daughter’s laptop, or the PC you use at work.</item>
+    <item>Nopein tapa tulostaa asiakirja tai tiedosto on tulostaa Windowsin avulla.\n\n Meaning: The quickest way to print a document or file is to print using Windows.</item>
+
+    <item>Liitä skanneri tietokoneeseen käyttämällä USB-kaapelia ja kytke skanneriin virta.\n\n Meaning: Connect a scanner to your computer by using a USB cable, and then turn on the scanner.</item>
+    <item>Aseta muistikortti muistikortinlukijaan (jos tietokoneessa on sellainen).\n\n Meaning:Insert the flash memory card into a card reader (if you have one).</item>
+    <item>It\'s a computer program. \n\n Meaning:Se on tietokoneohjelma. </item>
+
+    <item>Niissä on vain käyttöjärjestelmä.\n\n Meaning: Basic Three Laws operating system. That\'s it.</item>
+    <item>Varmista näyttölaitteen mukana toimitetuista ohjeista, että näyttö on kalibroitu oikein.\n\n Meaning: To ensure your monitor is calibrated correctly, refer to the instructions that came with your monitor.</item>
+    <item>tiedon syöttämiseen tarkoitettu laite, joka koostuu sormilla painetta vista näppäimistö.\n\n Meaning:A device for entering information, consisting of a fingertip keyboard.</item>
+
+    <item>Siitä tuli ensimmäinen kaupallinen tietokonehiiri Apple Lisalle ja Macintoshille.\n\n Meaning:Now, that became the first commercial computer mouse for the Apple Lisa and the Macintosh. </item>
+
+
+</string-array>
+
+<string-array name="computersong">
+   
+
+
+
+<item>@raw/poytatietokone</item>	
+<item>@raw/kannettavatietokone</item>	
+<item>@raw/tulostin</item>
+
+<item>@raw/skanneri</item>
+<item>@raw/muistikortti</item>
+<item>@raw/ohjelmat</item>
+
+<item>@raw/kayttojarjestelma</item> 	
+<item>@raw/naytto</item>	
+<item>@raw/nappaimisto</item>
+
+<item>@raw/hiiri</item>
+</string-array>
+
+
+
+
+
+</resources>
+
+
+
+
+
+

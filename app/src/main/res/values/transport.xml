@@ -1,0 +1,94 @@
+<resources>
+
+
+<string-array name="transport_title">
+
+<item>Liikenne</item>
+<item>Bussi</item> 
+<item>Juna</item> 
+
+<item>Taksi</item> 
+<item>Lentokone</item> 
+<item>Metro</item> 
+
+<item>Raitiovaunu</item> 
+
+</string-array>
+
+<string-array name="transportsub_title">
+  
+<item> Transport</item>
+    <item> Bus</item>
+    <item> Train</item>
+
+<item> Taxi</item>
+    <item> Airplane</item>
+    <item> Metro</item>
+
+    <item> Tram</item>
+
+
+</string-array>
+
+<string-array name="transportimage_title">
+    
+
+<item>@drawable/transport</item>
+<item>@drawable/bus</item>
+<item>@drawable/train</item>
+
+<item>@drawable/taxi</item>
+<item>@drawable/airplane</item>
+<item>@drawable/metro</item>
+
+<item>@drawable/tram</item>
+
+
+</string-array>
+
+<string-array name="transportnew_title">
+    <item>Liikenne palautuu normaaliksi.\n\n Meaning:The traffic will return to normal. </item>
+    <item>Do we have a bus? \n\n Meaning:Mennäänkö bussilla?</item>
+    <item>Matkustan Oulusta Helsinkiin junalla.\n\n Meaning:I travel from Oulu to Helsinki by train.</item>
+
+    <item>Taksi saapui nopeasti.\n\n Meaning:Taxi arrived quickly.</item>
+    <item>Lentokone laskeutui lentokentälle keskipäivällä.\n\n Meaning:The plane landed at the airport at noon.</item>
+    <item>Helsingin metro avattiin vuonna 1982.\n\n Meaning:The metro of Helsinki was opened in 1982. </item>
+
+    <item>Raitiovaunu on usein helpoin tapa liikkua Helsingin kantakaupungissa.\n\n Meaning:The tram is often the easiest way to move to Helsinki\'\s main city.</item>
+
+</string-array>
+
+<string-array name="transportsong">
+   
+
+
+<item>@raw/liikenne</item>
+<item>@raw/bussi</item> 
+<item>@raw/juna</item> 
+
+<item>@raw/taksi</item> 
+<item>@raw/lentokone</item> 
+<item>@raw/metro</item> 
+
+<item>@raw/raitiovaunu</item> 
+
+
+</string-array>
+
+
+
+
+
+
+
+
+
+
+</resources>
+
+
+
+
+
+

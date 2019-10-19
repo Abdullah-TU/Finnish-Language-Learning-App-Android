@@ -1,0 +1,99 @@
+<resources>
+
+
+
+
+
+<string-array name="family_title">
+
+
+
+<item>Perhe</item>
+<item>Isä</item> 
+<item>Äiti</item>
+
+<item>Veli</item> 
+<item>Sisko</item>
+<item>Poika</item>
+ 
+<item>Tytär</item>
+
+
+    
+
+
+</string-array>
+
+<string-array name="familysub_title">
+  
+<item> Family</item> 
+<item> Father</item> 
+<item> Mother</item> 
+
+<item> Brother</item> 
+<item> Sister</item> 
+<item> Boy</item> 
+
+<item> Girl</item> 
+    
+
+</string-array>
+
+<string-array name="familyimage_title">
+    
+
+
+ <item>@drawable/family</item> 
+ <item>@drawable/father</item> 
+ <item>@drawable/mother</item> 
+
+ <item>@drawable/brother</item> 
+ <item>@drawable/sister</item> 
+ <item>@drawable/boy</item>
+
+ <item>@drawable/girl</item>
+
+
+</string-array>
+
+<string-array name="familynew_title">
+    <item>Perhe on liimaus.\n\n Meaning:Family is a bonding.</item>
+    <item>Hän on kuin isä minulle. \n\n Meaning:He was like a father to me.</item>
+    <item>Äiti haluaa, että tulet myöhästyneelle synttäripäivälliselleni.\n\n Meaning: My mother wants you to come in for my belated birthday dinner.</item>
+
+    <item>Hän on veljeni. \n\n Meaning:He\'s my brother</item>
+    <item>Sally on minulle kuin sisko.\n\n Meaning: Sally is like a sister to me.</item>
+    <item>Pekka on minun poikani.\n\n Meaning: Pekka is my son.</item>
+
+    <item>Eikö sinulla olekin Sonja-niminen tytär? \n\n Meaning:You have a daughter named Sonja, right?</item>
+</string-array>
+
+<string-array name="familysong">
+   
+
+
+<item>@raw/perhe</item>
+<item>@raw/isa</item> 
+<item>@raw/aiti</item>
+
+<item>@raw/veli</item> 
+<item>@raw/sisko</item>
+<item>@raw/poika</item> 
+
+<item>@raw/tytar</item> 
+
+
+</string-array>
+
+
+
+
+
+
+</resources>
+
+
+
+
+
+

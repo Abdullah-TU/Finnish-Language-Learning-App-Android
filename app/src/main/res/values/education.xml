@@ -1,0 +1,109 @@
+<resources>
+
+
+
+<string-array name="education_title">
+
+
+
+<item>Koulutus</item> 
+<item>Koulu</item> 
+<item>Yliopisto</item> 
+
+<item>Luokkahuone</item>
+<item>Opettaja</item> 
+<item>Opiskelija</item> 
+
+<item>Kirjasto</item> 
+<item>Kirja</item> 
+<item>Kynä</item> 
+
+<item>Sanakirja</item> 
+
+    
+
+
+</string-array>
+
+<string-array name="educationsub_title">
+  
+<item> Education</item>
+<item> School</item> 
+<item> University</item> 
+
+<item> Classroom</item> 
+<item> Teacher</item> 
+<item> Student</item> 
+
+<item> Library</item>
+<item> Book</item><item> pen</item>
+<item> Dictionary</item> 
+    
+
+</string-array>
+
+<string-array name="educationimage_title">
+    
+
+
+<item>@drawable/edu</item>
+ <item>@drawable/school</item> 
+ <item>@drawable/university</item> 
+
+ <item>@drawable/classroom</item> 
+ <item>@drawable/teacher</item> 
+ <item>@drawable/student</item> 
+
+ <item>@drawable/library</item> 
+ <item>@drawable/book</item>  <item>@drawable/pen</item> 
+
+ <item>@drawable/dictionary</item> 
+
+
+</string-array>
+
+<string-array name="educationnew_title">
+    <item>Mielestäni koulutus, koulutus ja aina vaan koulutus on todellinen vastaus köyhyyteen.\n\n Meaning:e I believe that \'education, education, education\' is the real answer to poverty.</item>
+    <item>Yksi keskeisistä vapauksista on vanhempien vapaus valita lastensa koulu.\n\n Meaning: An important freedom is parents\' choice of a school for their children. </item>
+    <item>Pohjoismaissa Ruotsin ensimmäinen yliopisto perustettiin Uppsalaan vuonna 1477.\n\n Meaning: In the Nordic countries, Sweden\'s first university was founded in Uppsala in 1477.</item>
+
+    <item>Se on teidän uusi luokkahuone.\n\n Meaning: It\'s your new classroom.</item>
+    <item>Olet kuulemma lahjakas opettaja.\n\n Meaning: He claims you\'re a very gifted teacher.</item>
+    <item>Olet kuulemma lahjakas opettaja\n\n Meaning: He claims you\'re a very gifted teacher.</item>
+
+    <item>Netherfieldin kirjasto on kuulemma yksi maan hienoimmista.\n\n Meaning: The library at Netherfield, I\'ve heard, is one of the finest.</item>
+    <item>Hänellä on viimeinen kirja. \n\n Meaning:He has the final book.</item>
+    <item>Tuolla on kynä ja paperia.\n\n Meaning: You get that piece of paper and that pen over there.</item>
+
+    <item>Uusi latinan sanakirja.\n\n Meaning: It\'s a new Latin dictionary.</item>
+</string-array>
+
+<string-array name="educationsong">
+   
+
+<item>@raw/koulutus</item> 
+<item>@raw/koulu</item> 
+<item>@raw/yliopisto</item> 
+
+<item>@raw/luokkahuone</item>
+<item>@raw/opettaja</item> 
+<item>@raw/opiskelija</item> 
+
+<item>@raw/kirjasto</item> 
+<item>@raw/kirja</item> 
+<item>@raw/kyna</item>
+
+<item>@raw/sanakirja</item> 
+
+
+</string-array>
+
+
+
+</resources>
+
+
+
+
+
+

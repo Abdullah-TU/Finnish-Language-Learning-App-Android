@@ -1,0 +1,174 @@
+<resources>
+
+
+
+
+
+<string-array name="environment_title">
+
+
+
+<item>Ympäristö</item> 
+<item>Kesä</item> 
+<item>Kevät</item> 
+
+<item>Talvi</item> 
+<item>Syksy</item> 
+<item>Kylmä</item> 
+
+<item>Sumuista</item>
+<item>Kuuma</item> 
+<item>Sade</item> 
+
+<item>Lumi</item> 
+<item>Myrsky</item> 
+<item>Aurinkoinen</item> 
+
+<item>Tuulinen</item> 
+<item>Lämmin</item> 
+<item>Aurinko</item> 
+
+<item>Sää</item> 
+<item>Kausi</item>
+<item>Sateinen</item>
+
+</string-array>
+
+<string-array name="environmentsub_title">
+  
+
+<item>Environment</item> 
+<item>Summer</item> 
+<item>Spring</item> 
+
+<item>Winter</item> 
+<item>Autumn</item> 
+<item>Cold</item> 
+
+<item>Foggy</item> 
+<item>Hot</item> 
+<item>Rain</item> 
+
+<item>Snow</item> 
+<item>Storm</item> 
+<item>Sunnyday</item> 
+
+<item>Windy</item> 
+<item>Warm</item> 
+<item>Sun</item> 
+
+<item>Weather</item> 
+<item>Seasons</item> 
+<item>Rainy</item> 
+    
+
+</string-array>
+
+<string-array name="environmentimage_title">
+    
+
+<item>@drawable/environ</item>
+<item>@drawable/summer</item> 
+<item>@drawable/spring</item> 
+
+<item>@drawable/winter</item> 
+<item>@drawable/autumn</item> 
+<item>@drawable/cold</item> 
+
+<item>@drawable/foggy</item> 
+<item>@drawable/hot</item> 
+<item>@drawable/rain</item> 
+
+<item>@drawable/snow</item> 
+<item>@drawable/storm</item> 
+<item>@drawable/sunnyday</item> 
+
+<item>@drawable/windy</item> 
+<item>@drawable/warm</item> 
+<item>@drawable/sun</item> 
+
+<item>@drawable/weather</item> 
+<item>@drawable/seasons</item> 
+<item>@drawable/rainy</item> 
+
+
+</string-array>
+
+<string-array name="environmentnew_title">
+    <item>Tämä on steriili ympäristö.\n\n Meaning: This is a sterile environment.</item>
+    <item>kesä- ja talviolympialaiset.\n\n Meaning: the summer and winter Olympic Games;</item>
+    <item>Kevät muuttui kesäksi. \n\n Meaning:Spring changed into summer.</item>
+
+    <item>Kesä oli hyvä ja talvi helppo. \n\n Meaning:Good summer, easy winter.</item>
+    <item>Syksy oli erityisen kaunis. \n\n Meaning:Fall was particularly beautiful this year.</item>
+    <item>Etkö huomaa, miten kylmä on?\n\n Meaning:Did you feel how cold it is out there? </item>
+
+    <item>ilma oli kylmä ja sumuinen\n\n Meaning: it is cold and foggy. </item>
+    <item> Se on kuuma.\n\n Meaning: It\'s hot.</item>
+    <item>Häntä huoletti sade.\n\n Meaning: She was worried about the rain.</item>
+
+    <item>Maahan satoi puoli metriä lunta.\n\n Meaning:Earth was half a meter of snow.</item>
+    <item>Tämä on suurin antarktinen myrsky 25 vuoteen. \n\n Meaning:This is the biggest Antarctic storm in 25 years.</item>
+    <item>Ulkona on aurinkoinen sää.\n\n Meaning:Outdoors is sunny weather.</item>
+
+    <item>Sää on hieman tuulinen.\n\nMeaning:The weather is a little bit windy.</item>
+    <item>Minulla on lämmin olo.\n\nMeaning: I\'m feeling kind of warm right now.</item>
+    <item>Aurinko nousi jo tunteja sitten.\n\nMeaning: Wake up! The sun rose hours ago!</item>
+
+
+    <item>Sää on lämmin ja aurinkoinen.\n\nMeaning:The weather is warm and sunny.</item>
+    <item>Historiassa on useita tärkeitä kausia.\n\nMeaning:There are several important periods in history</item>
+    <item>Tämä kesä on ollut erityisen sateinen.\n\nMeaning:This summer has been particularly rainy.</item>
+
+   
+</string-array>
+
+
+
+
+
+
+<string-array name="environmentsong">
+   
+
+
+<item>@raw/ymparisto</item> 
+<item>@raw/kesa</item> 
+<item>@raw/kevat</item> 
+
+<item>@raw/talvi</item> 
+<item>@raw/syksy</item> 
+<item>@raw/kylma</item> 
+
+<item>@raw/sumuista</item>
+<item>@raw/kuuma</item> 
+<item>@raw/sade</item> 
+
+<item>@raw/lumi</item> 
+<item>@raw/myrsky</item> 
+<item>@raw/aurinkoinen</item> 
+
+<item>@raw/tuulinen</item> 
+<item>@raw/lammin</item> 
+<item>@raw/aurinko</item> 
+
+<item>@raw/saa</item> 
+<item>@raw/kausi</item>
+<item>@raw/sateinen</item>
+
+
+
+</string-array>
+
+
+
+
+
+
+</resources>
+
+
+
+
+
+

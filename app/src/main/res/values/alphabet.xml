@@ -1,0 +1,239 @@
+<resources>
+<string-array name="alphabet_title">
+    <item>aa</item>
+    <item>bee</item>
+    <item>see</item>
+
+    <item>dee</item>
+    <item>ee</item>
+    <item>äf, äffä</item>
+
+    <item>gee</item>
+    <item>hoo</item>
+    <item>ii</item>
+
+    <item>jii</item>
+    <item>koo</item>
+    <item> äl, ällä </item>
+
+    <item> äm, ämmä </item>
+    <item> än, ännä </item>
+    <item> oo </item>
+
+    <item> pee </item>
+    <item> kuu </item>
+    <item>är, ärrä</item>
+
+    <item>äs, ässä</item>
+    <item>tee </item>
+    <item>uu</item>
+
+    <item>vee</item>
+    <item>kaksois-vee,tupla-vee</item>
+    <item>äks, äksä</item>
+
+    <item>yy</item>
+    <item>tset, tseta</item>
+    <item>ruotsalainen oo</item>
+
+   <item>ää</item>
+    <item>öö</item>
+    <item>hattu-äs</item>
+
+    <item>hattu-tset</item>
+    
+
+
+</string-array>
+
+<string-array name="alphabetsub_title">
+     <item>/ɑː/</item>
+    <item>/beː/</item>
+    <item>/seː/</item>
+
+    <item>/deː/</item>
+    <item>/eː</item>
+    <item>/æf/</item>
+
+    <item>/ɡeː/</item>
+    <item>/hoː/</item>
+    <item>/iː/</item>
+
+    <item>/j/</item>
+    <item>/koː/</item>
+    <item> /æl/</item>
+
+    <item> /æm/</item>
+    <item> /æn/</item>
+    <item> /oː/ </item>
+
+    <item> /peː/</item>
+    <item>/kuː/</item>
+    <item>/ær/</item>
+
+    <item>/æs/</item>
+    <item>/teː/</item>
+    <item>/uː/</item>
+
+    <item>/ʋeː/</item>
+    <item>/ʋeː/</item>
+    <item>/æks/</item>
+
+    <item>/uː/</item>
+    <item>/tset/</item>
+    <item>/oː/</item>
+
+   <item>/æː/</item>
+    <item>/øː/</item>
+    <item>/hattu æs/</item>
+
+    <item>/ˈhattu-tset/</item>
+    
+
+</string-array>
+
+<string-array name="alphabetimage_title">
+    <item>@drawable/a</item>
+    <item>@drawable/b</item>
+    <item>@drawable/c</item>
+
+    <item>@drawable/d</item>
+    <item>@drawable/e</item>
+    <item>@drawable/f</item>
+
+    <item>@drawable/g</item>
+    <item>@drawable/h</item>
+    <item>@drawable/i</item>
+
+    <item>@drawable/j</item>
+    <item>@drawable/k</item>
+    <item>@drawable/l</item>
+
+    <item>@drawable/m</item>
+    <item>@drawable/n</item>
+    <item>@drawable/o</item>
+
+    <item>@drawable/p</item>
+    <item>@drawable/q</item>
+    <item>@drawable/r</item>
+
+    <item>@drawable/s</item>
+    <item>@drawable/t</item>
+    <item>@drawable/u</item>
+
+    <item>@drawable/v</item>
+    <item>@drawable/w</item>
+    <item>@drawable/x</item>
+
+    <item>@drawable/y</item>
+    <item>@drawable/z</item>
+    <item>@drawable/ao</item>
+
+    <item>@drawable/aa</item>
+    <item>@drawable/oo</item>
+    <item>@drawable/ss</item>
+
+    <item>@drawable/zz</item>
+
+</string-array>
+
+<string-array name="alphabetnew_title">
+    <item>The first letter of the Finnish alphabet, called aa and written in the Latin script. Example- like in the finnish word "Aamu" (Morning).</item>
+    <item>The second letter of the Finnish alphabet, called bee and written in the Latin script. Example-like in the finnish word "Banaani" (Banani).</item>
+    <item>Example-like in the finnish word "Celsius" (Celsius).</item>
+
+    <item>Example-like in the finnish word "Dinosaurus" (Dinosaur).</item>
+    <item>Example-like in the finnish word "etana" (Snail).</item>
+    <item>Example-like in the finnish word "Fantastinen" (Fantastic).</item>
+
+    <item>Example-like in the finnish word "Gorilla" (Gorilla).</item>
+    <item>Example-like in the finnish word "Hevonen" (A horse). </item>
+    <item>Example-like in the finnish word "Iso" (Big). </item>
+
+    <item>Example-like in the finnish word "Jänis" (A rabbit).</item>
+    <item>Example-like in the finnish word "Kaunis" (Beautiful).</item>
+    <item>Example-like in the finnish word "Laulu" (Song).</item>
+
+    <item>Example-like in the finnish word "Metsä" (Forest).</item>
+    <item>Example-like in the finnish word "Naula" (Nail).</item>
+    <item>Example-like in the finnish word "Opettaja" (Teacher).</item>
+
+   <item>Example-like in the finnish word "Paras" (Best).</item>
+    <item>Q is no longer used</item>
+    <item>Example-like in the finnish word "Ruusu" (Rose).</item>
+
+    <item>Example-like in the finnish word "Sakset" (Scissors).</item>
+    <item>Example-like in the finnish word "Tee" (Tea).</item>
+    <item>Example-like in the finnish word "Uskoa" (To believe).</item>
+
+    <item>Example-like in the finnish word "Vauti" (Speed).</item>
+    <item>Example-like in the finnish word "Watti" (Watt).</item>
+    <item>There are no words in finnish language that includes X.</item>
+
+    <item>Example-like in the finnish word "Ystävä" (Friend).</item>
+    <item>Example-like in the finnish word "Zeppeliini" (Zeppelin).</item>
+    <item>Example-It came from Swedish alphabets. There are no words in Finnish language like this.</item>
+
+    <item>Example-like in the finnish word "Äiti" (Mother).</item>
+    <item>Example-like in the finnish word "Öljy" (Oil).</item>
+    <item>The "s with caron" is a rare variant of s. It occurred in some relatively new loanwords, such as šakki \'chess\' and šillinki \'shilling\', but is often replaced with digraph sh (šampoo → shampoo) or, in more established loanwords, with plain s (sampoo). In theory pronounced as [ʃ] but in practice often as [s].</item>
+
+    <item>The "z with caron" is a rare variant of z. It occurs in some unestablished loanwords, such as džonkki \'junk\', and foreign proper names, The "z with caron" is a rare variant of z. It occurs in some unestablished loanwords, such as džonkki \'junk\', and foreign proper names, but is often replaced with digraph zh. </item>
+</string-array>
+
+<string-array name="alphabetsong">
+    <item>@raw/a</item>
+    <item>@raw/b</item>
+    <item>@raw/c</item>
+
+    <item>@raw/d</item>
+    <item>@raw/e</item>
+    <item>@raw/f</item>
+
+    <item>@raw/g</item>
+    <item>@raw/h</item>
+    <item>@raw/i</item>
+
+    <item>@raw/j</item>
+    <item>@raw/k</item>
+    <item>@raw/l</item>
+
+    <item>@raw/m</item>
+    <item>@raw/n</item>
+    <item>@raw/o</item>
+
+    <item>@raw/p</item>
+    <item>@raw/q</item>
+    <item>@raw/r</item>
+
+    <item>@raw/s</item>
+    <item>@raw/t</item>
+    <item>@raw/u</item>
+
+    <item>@raw/v</item>
+    <item>@raw/w</item>
+    <item>@raw/x</item>
+
+    <item>@raw/y</item>
+    <item>@raw/z</item>
+    <item>@raw/ao</item>
+
+    <item>@raw/aa</item>
+    <item>@raw/oo</item>
+    <item>@raw/ss</item>
+
+    <item>@raw/zz</item>
+
+
+</string-array>
+
+
+
+
+</resources>
+
+
+
+
+
+

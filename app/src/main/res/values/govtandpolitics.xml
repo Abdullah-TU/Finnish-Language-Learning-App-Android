@@ -1,0 +1,116 @@
+<resources>
+
+
+<string-array name="govtandpolitics_title">
+
+
+
+<item>Hallitus</item>
+<item>Parlamentti</item>
+<item>Politiikka</item>
+
+<item>Pääministeri</item>
+<item>Valtakunta</item>
+<item>Kansanvalta</item>
+
+<item>Tasavalta</item>
+<item>Yhteiskunta</item>
+<item>Valtio</item>
+
+<item>Ehdokas</item>
+<item>Oppositio</item>
+
+
+
+
+
+
+
+</string-array>
+
+<string-array name="govtandpoliticssub_title">
+  
+
+<item>Government</item>
+<item>Parliament</item>
+<item>Politics</item>
+
+<item>Prime minister</item>
+<item>Kingdom</item>
+<item>Democracy</item>
+
+<item>Republic</item>
+<item>Society</item>
+<item>Nation</item>
+
+<item>Candidate</item>
+<item>Opposition</item>
+
+
+    
+
+</string-array>
+
+<string-array name="govtandpoliticsimage_title">
+    
+
+<item>@drawable/blank</item>
+<item>@drawable/blank</item> 
+<item>@drawable/blank</item>
+<item>@drawable/blank</item> 
+<item>@drawable/blank</item> <item>@drawable/blank</item>
+<item>@drawable/blank</item>
+<item>@drawable/blank</item> 
+<item>@drawable/blank</item> 
+<item>@drawable/blank</item> 
+<item>@drawable/blank</item>
+
+
+
+
+
+
+</string-array>
+
+<string-array name="govtandpoliticsnew_title">
+    <item>Pitää kysyä vielä hallitukselta, sopiiko minun huomenna tulla teille.You still have to ask the government whether it\'s okay for me to come to you tomorrow.</item>
+    <item>Euroopan parlamentti ja neuvosto päättävät ehdotuksesta tavallista lainsäätämisjärjestystä noudattaen." The European Parliament and the Council shall act on such a proposal by the ordinary legislative procedure.";</item>
+    <item>Politiikka on sotkenut elämämme. Politics has made a mess of our lives.</item>
+
+    <item>Pääministeri, Teidän Majesteettinne. The Prime Minister, Your Majesty.</item>
+    <item>Rooman valtakunta ei tunne rajoja! The Roman Empire knows no boundaries.</item>
+    <item>Meidän on nykyisin kuitenkin valittava prioriteettimme: yhdentyminen vai kansanvalta.expand_more But today we have to prioritise between integration or democracy.</item>
+
+    <item>Entä Peppino Mazzinin tasavalta? How would you like Mazzini\'s republic, then?</item>
+    <item>On kysytty, onko kansanvalta edes ainoa tapa hallita valtiota - sopiiko se kaikkialle.more_vertPeople have asked whether rule by the people is even the right way to govern a country. Is it a suitable option everywhere?</item>
+    <item>Kuinka kauan aiomme vielä hyväksyä nämä poikkeavuudet, joilta yhteiskunta on sulkenut silmänsä?more_vertHow long will we go on accepting the deviance of a system that has gone blind?</item>
+
+    <item>Minä en tiedä, mikä valtio ensimmäisenä liittyy euroalueeseen Slovakian jälkeen.more_vertI do not know who will be the first to join the euro area after Slovakia.</item>
+    <item>Ehdokas ei saisi valittaa, jos hän jatkuvasti tulee toiseksi.more_vertHe should not complain if he keeps coming second.</item>
+    <item>Pääministeri, Teidän Majesteettinne. The Prime Minister, Your Majesty.</item>
+    <item>Nyt oppositio sitten itkee, että sitä on syrjitty.more_vertWe express our sympathy with the victims of that violence.</item>
+    </string-array>
+
+<string-array name="govtandpoliticssong">
+
+    <item>@raw/hallitus</item>
+    <item>@raw/parlamentti</item>
+    <item>@raw/politiikka</item>
+
+    <item>@raw/paaministeri</item>
+    <item>@raw/valtakunta</item>
+    <item>@raw/kansanvalta</item>
+
+    <item>@raw/tasavalta</item>
+    <item>@raw/yhteiskunta</item>
+    <item>@raw/valtio</item>
+    <item>@raw/ehdokas</item><item>@raw/oppositio</item>
+
+
+
+</string-array>
+
+</resources>
+
+
+

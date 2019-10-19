@@ -1,0 +1,143 @@
+<resources>
+
+
+<string-array name="nationsandnationalities_title">
+
+
+
+<item>Kansakunta</item> 
+<item>Suomi</item> 
+<item>Bangladesh</item>
+
+<item>Kiina</item> 
+<item>Ranska</item> 
+<item>Saksa</item> 
+
+<item>Kreikka</item> 
+<item>Intia</item> 
+<item>Pakistan</item> 
+
+<item>Venäjä</item>
+<item>Espanja</item> 
+<item>Ruotsi</item>
+
+ <item>Britannia</item>
+<item>Kansallisuuksia</item> 
+<item>Olen italialainen</item> 
+
+</string-array>
+
+<string-array name="nationsandnationalitiessub_title">
+  
+
+<item>Nations</item>
+<item>Finland</item> 
+<item>Bangladesh</item>
+
+<item>China</item> 
+<item>France</item> 
+<item>Germany</item> 
+
+<item>Greece</item> 
+<item>India</item>
+<item>Pakistan</item> 
+
+<item>Russia</item> 
+<item>Spain</item> 
+<item>Sweden</item> 
+
+<item>United kingdom </item>
+<item>Nationalities</item>
+<item>I\'m Italian</item> 
+
+    
+
+</string-array>
+
+<string-array name="nationsandnationalitiesimage_title">
+    
+
+<item>@drawable/nationality</item>
+<item>@drawable/finland</item> 
+<item>@drawable/bangladesh</item>
+
+<item>@drawable/china</item> 
+<item>@drawable/france</item> 
+<item>@drawable/germany</item> 
+
+<item>@drawable/greece</item> 
+<item>@drawable/india</item>
+<item>@drawable/pkistan</item> 
+
+<item>@drawable/russia</item> 
+<item>@drawable/spain</item> 
+<item>@drawable/sweden</item> 
+
+<item>@drawable/uk</item>
+<item>@drawable/blank</item>
+<item>@drawable/blank</item> 
+
+
+
+</string-array>
+
+<string-array name="nationsandnationalitiesnew_title">
+    <item>Kiitollinen kansakunta odottaa sinua. \n\n Meaning: A grateful nation is waiting to say thank you. </item>
+    <item>Norja on Suomen rajanaapuri.\n\n Meaning:Norway is Finland\'s border neighbor.</item>
+    <item>Bangladesh oli aiemmin Itä-Pakistan.\n\n Meaning:Bangladesh was formerly East Pakistan.</item>
+
+    <item>Kiinan kansantasavalta on maa Itä-Aasiassa.\n\n Meaning:The People\'s Republic of China is a country in East Asia.</item>
+    <item>Ranskan pääkaupunki on Pariisi.\n\n Meaning:The capital of France is Paris.</item>
+    <item>Saksa on Länsi-Euroopan maa \n\n Meaning:Germany is a Western European country</item>
+
+    <item>Kreikan pääkaupunki on Ateena. \n\n Meaning:The Greek capital is Athens.</item>
+    <item>Intian rajanaapuri on Pakistan. \n\n Meaning:India\'s border is Pakistan.</item>
+    <item>Pakistan rajanaapuri on Intia.\n\n Meaning:Pakistan\'s border is India.</item>
+
+    <item>Venäjän pääkaupunki on Moskova.\n\n Meaning:The Russian capital is Moscow.</item>
+    <item>Madrid on Espanjan pääkaupunki.\n\n Meaning:Madrid is the capital of Spain.</item>
+    <item>Puhutteko ruotsia?\n\n Meaning:Do you speak Swedish?</item>
+
+    <item>Britannia tarvitsee vahvan johtajan.\n\n Meaning:Britain needs a strong leader.</item>
+    <item>Määränpää, kansallisuus ja koko nimi,\n\n Meaning:Your destination, your nationality and your full name.</item>
+    <item>Olen Italialainen. \n\n Meaning:I\'m Italian.</item>
+
+
+</string-array>
+
+<string-array name="nationsandnationalitiessong">
+   
+
+
+<item>@raw/kansakunta</item> 
+<item>@raw/suomi</item> 
+<item>@raw/bangladesh</item>
+
+<item>@raw/kiina</item> 
+<item>@raw/ranska</item> 
+<item>@raw/saksa</item> 
+
+<item>@raw/kreikka</item> 
+<item>@raw/intia</item> 
+<item>@raw/pakistan</item> 
+
+<item>@raw/venaja</item>
+<item>@raw/espanja</item> 
+<item>@raw/ruotsi</item>
+
+ <item>@raw/britannia</item>
+<item>@raw/kansallisuuksia</item>
+<item>@raw/olenitalialainen</item>
+
+
+</string-array>
+
+
+
+</resources>
+
+
+
+
+
+

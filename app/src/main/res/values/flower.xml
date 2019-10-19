@@ -1,0 +1,110 @@
+
+<resources>
+<string-array name="flower_title">
+
+
+<item>Kukka</item>
+<item>Asteri</item>
+<item>Auringonkukka</item>
+
+<item>Daalia</item>
+<item>Jasmiini</item>
+<item>Lumme</item>
+
+<item>Narsissi</item>
+<item>Neilikka</item>
+<item>Orkidea</item>
+
+<item>Ruusu</item>
+<item>Tulppaani</item>
+
+   </string-array>
+
+<string-array name="flowersub_title">
+  
+<item>Flower</item>	
+<item>Aster</item>	
+<item>Sunflower</item>
+	
+<item>Dahlia</item>	
+<item>Jasmine</item>	
+<item>Water lily</item>
+	
+<item>Narcissus</item>	
+<item>Carnation</item>	
+<item>Orchid</item>	
+
+<item>Rose</item>	
+<item>Tulip</item>
+
+</string-array>
+
+<string-array name="flowerimage_title">
+    
+<item>@drawable/floer</item>
+<item>@drawable/aster</item>	
+<item>@drawable/sunflower</item>	
+
+<item>@drawable/dahlia</item>	
+<item>@drawable/jasmine</item>	
+<item>@drawable/waterlily</item>
+	
+<item>@drawable/narcissus</item>	
+<item>@drawable/carnation</item>	
+<item>@drawable/orchid</item>
+	
+<item>@drawable/rose</item>	
+<item>@drawable/tulip</item>	
+
+
+</string-array>
+
+<string-array name="flowernew_title">
+    <item>Olet harvinainen ja hauras kukka. \n\n Meaning:You are a rare and a delicate flower.</item>
+    <item>Asterit on suku asterikasvien (Asteraceae) heimossa. \n\n Meaning:Asteris is a family of Asteraceae tribes. </item>
+    <item>Tuollainen auringonkukka tuottaa varmasti paljon öljyä. Auton öljybudjetti pienenisi.  \n\n Meaning:Sunflower plant produces tons of oil This may reduce the fuel (Catherine) for the last ten years.</item>
+
+    <item>Se on Musta Daalia.\n\n Meaning: It\'s a black dahlia. </item>
+    <item> Parhaassa, Minun jasmiini kukkaseni. \n\n Meaning: Never better, my jasmine flower.</item>
+    <item>Lumme ovat vesikasveja.\n\n Meaning:Water lily are aquatic plants.</item>
+
+    <item>Narsissit ovat yleensä väriltään keltaisia.\n\n Meaning:The daffodils are usually yellow in color.</item>
+    <item>Neilikka on eri värejä.\n\n Meaning:Carnation have different colours.</item>
+    <item>Se on kyLLäkin orkidea.\n\n Meaning:It is also an orchid.</item>
+
+    <item>Ruusu on kaunis kukka. \n\n Meaning:Rose is a beautiful flower.</item>
+    <item>Tulppaanit ovat yleensä suuria, näkyviä ja värikkäitä, yleensä punaisia, keltaisia tai valkoisia.\n\n Meaning: Tulips are usually large, showy and brightly coloured, generally red, yellow, or white.</item>
+</string-array>
+
+<string-array name="flowersong">
+   
+
+
+<item>@raw/kukka</item>
+<item>@raw/asteri</item>
+<item>@raw/auringonkukka</item>
+
+<item>@raw/daalia</item>
+<item>@raw/jasmiini</item>
+<item>@raw/lumme</item>
+
+<item>@raw/narsissi</item>
+<item>@raw/neilikka</item>
+<item>@raw/orkidea</item>
+
+<item>@raw/ruusu</item>
+<item>@raw/tulppaani</item>
+
+
+</string-array>
+
+</resources>
+
+
+
+
+
+
+
+
+

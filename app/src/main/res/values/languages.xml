@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+
+    <string-array name="languages_title">
+
+        <item>Englanti</item>
+        <item>Suomi</item>
+        <item>Espanja</item>
+
+        <item>Hollanti</item>
+        <item>Italia</item>
+        <item>Japani</item>
+
+        <item>Kiina</item>
+        <item>Kreikka</item>
+        <item>Norja</item>
+
+        <item>Puola</item>
+        <item>Ranska</item>
+        <item>Saksa</item>
+
+        <item>Tanska</item>
+        <item>Thaimaa</item>
+        <item>Viro</item>
+
+        <item>Venäjä</item>
+        <item>Vietnam</item>
+
+
+    </string-array>
+
+    <string-array name="languagessub_title">
+
+
+        <item>English</item>
+        <item>Finnish</item>
+        <item>Spanish</item>
+
+        <item>Dutch</item>
+        <item>Italian</item>
+        <item>Japanese</item>
+
+        <item>Chinese</item>
+        <item>Greek</item>
+        <item>Norwegian</item>
+
+        <item>Polish</item>
+        <item>French</item>
+        <item>German</item>
+
+        <item>Danish</item>
+        <item>Thai</item>
+        <item>Estonian</item>
+
+        <item>Russian</item>
+        <item>Vietnamese</item>
+
+
+
+    </string-array>
+
+    <string-array name="languagesimage_title">
+
+
+        <item>@drawable/english</item>
+        <item>@drawable/finnish</item>
+        <item>@drawable/spanish</item>
+
+        <item>@drawable/dutch</item>
+        <item>@drawable/italian</item>
+        <item>@drawable/japanese</item>
+
+        <item>@drawable/chinese</item>
+        <item>@drawable/greek</item>
+        <item>@drawable/norwegian</item>
+
+        <item>@drawable/polish</item>
+        <item>@drawable/french</item>
+        <item>@drawable/german</item>
+
+        <item>@drawable/danish</item>
+        <item>@drawable/thai</item>
+        <item>@drawable/estonian</item>
+
+        <item>@drawable/russian</item>
+        <item>@drawable/vietnamese</item>
+
+    </string-array>
+
+    <string-array name="languagesnew_title">
+        <item>Asun Englannissa. Minä puhun englantia.\n\n Meaning:I live in England. I speak English.</item>
+        <item>Minä olen suomalainen. Puhun suomen kieltä (Suomi).\n\n Meaning:I am Finnish. I speak Finnish language.</item>
+        <item>Opiskelen Espanjassa. Nyt puhun espanjaa.\n\n Meaning:I am studying in Spain. Now I speak Spanish.</item>
+
+        <item>Asun Hollannissa. Puhun Hollanti.\n\n Meaning: I live in  Netherland. I speak dutch.</item>
+        <item>Asun Italiassa. Puhun Italian. \n\n Meaning:I live in Italy. I speak italian.</item>
+        <item>Asun Japanissa. Puhun Japani. \n\n Meaning:I live in Japan. I speak Japanese.</item>
+
+        <item>Asun Kiinassa. Haluan puhua kiinaa.\n\n Meaning:I live in China. I like to speak Chinese.</item>
+        <item>Asun Kreikassa. Haluan puhua kreikkaa.\n\n Meaning:I live in Greece. I like to speak Greek.</item>
+        <item>Asun Norjassa. Haluan puhua Norja.\n\n Meaning:I live in Norway. I like to speak Norwegian.</item>
+
+        <item>Asun Puolassa. Haluan puhua Puolan.\n\n Meaning:I live in Poland. I like to speak Polish.</item>
+        <item>Minä asun Ranskassa. Haluan puhua ranskaa.\n\n Meaning:I live in France. I like to speak French.</item>
+        <item>Asun Saksassa. Haluan puhua saksaa.\n\n Meaning:I live in Germany. I like to speak German.</item>
+
+        <item>Asun Tanskassa. Haluan puhua Tanskan.\n\n Meaning:I live in Denmark. I like to speak Danish.</item>
+        <item>Asun Thaimaassa. Haluan puhua Thai.\n\n Meaning:I live in Thailand. I like to speak Thai.</item>
+        <item>Asun Virossa. Haluan puhua virolaista.\n\n Meaning:I live in Estonia. I like to speak Estonian.</item>
+
+        <item>Asun Venäjällä. Haluan puhua venäjää.\n\n Meaning:I live in Russia. I like to speak Russian.</item>
+        <item>Asun Vietnamissa. Haluan puhua Vietnam.\n\n Meaning:I live in Vietnam. I like to speak Vietnamese.</item>
+
+
+
+    </string-array>
+
+    <string-array name="languagessong">
+
+
+        <item>@raw/englanti</item>
+        <item>@raw/suomi</item>
+        <item>@raw/espanja</item>
+
+        <item>@raw/hollanti</item>
+        <item>@raw/italia</item>
+        <item>@raw/japani</item>
+
+        <item>@raw/kiina</item>
+        <item>@raw/kreikka</item>
+        <item>@raw/norja</item>
+
+        <item>@raw/puola</item>
+        <item>@raw/ranska</item>
+        <item>@raw/saksa</item>
+
+        <item>@raw/tanska</item>
+        <item>@raw/thaimaa</item>
+        <item>@raw/viro</item>
+
+        <item>@raw/venaja</item>
+        <item>@raw/vietnam</item>
+
+
+    </string-array>
+
+
+
+</resources>

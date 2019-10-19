@@ -1,0 +1,112 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:background="@drawable/back1">
+
+    <ImageView
+        android:id="@+id/imageView3"
+        android:layout_width="200dp"
+        android:layout_height="84dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="2dp"
+        android:layout_marginLeft="85dp"
+        app:srcCompat="@drawable/quizyp"
+        tools:ignore="ContentDescription" />
+
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="460dp"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/relativeLayouta"
+        android:layout_marginStart="15dp"
+        android:layout_marginTop="3dp"
+        android:padding="5dp">
+
+        <LinearLayout
+            android:id="@+id/relativesafe"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+
+            <LinearLayout
+                android:id="@+id/lin1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:padding="2dp">
+
+
+                <ImageView
+                    android:id="@+id/alpha"
+                    android:layout_width="180sp"
+                    android:layout_height="140sp"
+                    android:layout_weight="1"
+                    android:paddingRight="15dp"
+                    android:spacing="15dp"
+                    android:src="@drawable/writingtest" />
+
+
+                <ImageView
+                    android:id="@+id/number"
+                    android:layout_width="180sp"
+                    android:layout_height="140sp"
+                    android:layout_weight="1"
+                    android:paddingRight="15dp"
+                    android:spacing="15dp"
+                    android:src="@drawable/blnaktest" />
+
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/lin2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:padding="2dp">
+
+
+                <ImageView
+                    android:id="@+id/aslpha"
+                    android:layout_width="181dp"
+                    android:layout_height="145dp"
+                    android:layout_weight="1"
+                    android:paddingRight="15dp"
+                    android:spacing="15dp"
+                    android:src="@drawable/picmcqtest" />
+
+
+                <ImageView
+                    android:id="@+id/numsber"
+                    android:layout_width="180sp"
+                    android:layout_height="140sp"
+                    android:layout_weight="1"
+                    android:paddingRight="15dp"
+                    android:spacing="15dp"
+                    android:src="@drawable/multiplechoice" />
+
+
+            </LinearLayout>
+
+
+        </LinearLayout>
+    </ScrollView>
+
+    <HorizontalScrollView
+        android:layout_width="381dp"
+        android:layout_height="match_parent"
+        android:padding="5dp"
+        android:layout_marginTop="80dp">
+
+    </HorizontalScrollView>
+
+</LinearLayout>

@@ -1,0 +1,214 @@
+<resources>
+
+
+
+<string-array name="numbers_title">
+
+
+<item>Numero</item>
+<item>Nolla</item> 
+<item>Yksi</item> 
+
+<item>Kaksi</item> 
+<item>Kolme</item> 
+<item>Neljä</item> 
+
+<item>Viisi</item> 
+<item>Kuusi</item> 
+<item>Seitsemän</item> 
+
+<item>Kahdeksan</item>
+<item>Yhdeksän</item> 
+<item>Kymmenen</item> 
+
+<item>Kaksikymmentä</item> 
+<item>Kolmekymmentä</item> 
+<item>Neljäkymmentä</item>
+
+<item>Viisikymmentän</item> 
+<item>Kuusikymmentä</item> 
+<item>Seitsemänkymmentä</item> 
+
+<item>Kahdeksankymmentä</item>
+<item>Yhdeksänkymmentä</item> 
+<item>Sata</item> 
+
+<item>Tuhat</item> 
+<item>Miljona</item>
+<item>Yksitoista</item> 
+
+<item>Kaksikymmentäyksi</item> 
+
+</string-array>
+
+<string-array name="numberssub_title">
+  
+
+<item>Numbers</item> 
+<item>Zero</item> 
+<item>One</item> 
+
+<item>Two</item> 
+<item>Three</item> 
+<item>Four</item> 
+
+<item>Five</item> 
+<item>Six</item>
+<item>Seven</item> 
+
+<item>Eight</item> 
+<item>Nine</item> 
+<item>Ten</item> 
+
+
+<item>Twenty</item>
+<item>Thirty</item> 
+<item>Fourty</item> 
+
+<item>Fifty</item> 
+<item>Sixty</item> 
+<item>Seventy</item> 
+
+<item>Eighty</item> 
+<item>Ninety</item> 
+<item>Hundred</item> 
+
+
+<item>thousand</item> 
+<item>Million</item> 
+<item>Eleven</item> 
+
+<item>Twentyone</item> 
+    
+
+</string-array>
+
+<string-array name="numbersimage_title">
+    
+
+<item>@drawable/numbers</item> 
+<item>@drawable/zero</item> 
+<item>@drawable/one</item> 
+
+<item>@drawable/two</item> 
+<item>@drawable/three</item> 
+<item>@drawable/four</item> 
+
+<item>@drawable/five</item> 
+<item>@drawable/six</item>
+<item>@drawable/seven</item> 
+
+<item>@drawable/eight</item> 
+<item>@drawable/nine</item> 
+<item>@drawable/ten</item> 
+
+<item>@drawable/twen</item>
+<item>@drawable/thirty</item> 
+<item>@drawable/fourty</item> 
+
+<item>@drawable/fifty</item> 
+<item>@drawable/sisty</item>
+<item>@drawable/seventy</item> 
+
+<item>@drawable/eighty</item> 
+<item>@drawable/ninety</item> 
+<item>@drawable/hundred</item> 
+
+
+<item>@drawable/onethousand</item>
+<item>@drawable/million</item> 
+<item>@drawable/eleven</item> 
+
+<item>@drawable/twentyone</item> 
+
+
+
+
+</string-array>
+
+<string-array name="numbersnew_title">
+    <item>bussin numero on 109 tai 105.\n\n Meaning:the bus number is 109 or 105.</item>
+    <item>Mikä tahansa luku kerrottuna nollalla on nolla.\n\n Meaning:Any number multiplied by zero is zero.</item>
+    <item>Tässä yksi ja vielä toinen.\n\n Meaning:Here\'s one and another one.</item>
+
+    <item>Kaksi poikaa luulevat olevansa seuraava Rolling Stones. \n\n Meaning:The two boys, who think they\'re the next Rolling Stones.</item>
+    <item>Sinulla on kolme vaihtoehtoa. \n\n Meaning:You\'ve got three choices.</item>
+    <item>Sinä pidät neljä. \n\n Meaning:You keep four.</item>
+
+    <item>Saammeko vielä toiset viisi minuuttia? \n\n Meaning:Why don\'t you give us another five minutes?</item>
+    <item>Kahdeksan... Kuusi, viisi... Neljä, kolme... \n\n Meaning:You have eight... ... six, five... ... four, three...</item>
+    <item>Olen seitsemän vuotta vanha.\n\n Meaning:I am seven years old.</item>
+
+    <item>Norjassa on kahdeksan lääniä, joiden asukastiheys on alle 12,5 asukasta neliökilometrillä. \n\n Meaning:Norway has eight counties with population density of less than 12,5 inhabitants per km2</item>
+    <item>Menit kotiin yhdeksän kuukautta sitten.\n\n Meaning:You went to the home nine months ago.</item>
+    <item>Hänen on käytettävä lääkettä kymmenen kertaa päivässä.\n\n Meaning:She must use the medicine ten times a day.</item>
+
+    <item>Tässä on kaksikymmentä euroa ja… 40 senttiä.\n\n Meaning: Here\'s twenty euros and ... 40 cents.</item>
+    <item>Tässä on Kolmekymmentä euroa ja... 40 senttiä. \n\n Meaning:Here\'s thirty euros and ... 40 cents.</item>
+    <item>Tässä on Neljäkymmentä euroa ja... 40 senttiä.\n\n Meaning:Here\'s Forty Euros and ... 40 Cents.</item>
+
+   <item>Tässä on viisikymmentä euroa ja... 40 senttiä.\n\n Meaning:Here is fifty euros and ... 40 cents</item>
+    <item>Tässä on Kuusikymmentä euroa ja... 40 senttiä.\n\n Meaning:Here is sixty euros and ... 40 cents</item>
+    <item>Tässä on Seitsemänkymmentä euroa ja... 40 senttiä.\n\n Meaning:Here is seventy euros and ... 40 cents</item>
+
+    <item>Tässä on kahdeksankymmentä euroa ja... 40 senttiä.\n\n Meaning:Here is eighty euros and ... 40 cents</item>
+    <item>Tässä on yhdeksänkymmentä euroa ja... 40 senttiä.\n\n Meaning:Here is ninety euros and ... 40 cents</item>
+    <item>sata prosenttisen varma. \n\n Meaning:One hundred percent positive.
+          \n\n Meaning:Sata miljoonaa dollaria! \n\n Meaning:One hundred million dollars!</item>
+
+           <item>Minulla on miljoona euroa.\n\n Meaning:I have one million euros.</item>
+    <item>Tässä on yksitoista dollaria ja… 40 centtiä. \n\n Meaning:Here\'s eleven dollars and… forty cents.</item>
+    <item>Tässä on kaksikymmentäyksi dollaria ja… 40 senttiä. \n\n Meaning:Here\'s twenty-three dollars and … 40 cents.</item>
+
+
+    <item>Sorry</item>
+</string-array>
+
+<string-array name="numberssong">
+   
+
+
+
+<item>@raw/numero</item>
+<item>@raw/nolla</item> 
+<item>@raw/yksi</item> 
+
+<item>@raw/kaksi</item> 
+<item>@raw/kolme</item> 
+<item>@raw/nelja</item> 
+
+<item>@raw/viisi</item> 
+<item>@raw/kuusi</item> 
+<item>@raw/seitseman</item> 
+
+<item>@raw/kahdeksan</item> 
+<item>@raw/yhdeksan</item> 
+<item>@raw/kymmenen</item> 
+
+<item>@raw/kaksikymmenta</item> 
+<item>@raw/thirty</item>
+<item>@raw/fourty</item>
+
+<item>@raw/fifty</item>
+<item>@raw/sixty</item>
+<item>@raw/seventy</item>
+
+<item>@raw/eighty</item>
+<item>@raw/ninety</item>
+<item>@raw/sata</item> 
+
+
+<item>@raw/thousand</item>
+<item>@raw/miljona</item>
+<item>@raw/yksitoista</item> 
+
+<item>@raw/kaksikymmentayksi</item> 
+
+
+
+</string-array>
+
+
+
+
+</resources>

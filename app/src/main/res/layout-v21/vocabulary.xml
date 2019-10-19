@@ -1,0 +1,409 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:background="@drawable/back1"
+    tools:context=".VocabularyActivity" >
+
+    <HorizontalScrollView
+        android:layout_width="381dp"
+        android:layout_height="match_parent"
+        android:padding="5dp">
+
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="5dp">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:padding="5dp">
+
+
+            <ImageView
+                android:id="@+id/alphabet"
+                android:layout_width="160sp"
+                android:layout_height="140sp"
+                android:paddingRight="15dp"
+                android:spacing="15dp"
+                android:src="@drawable/alphabets"/>
+
+            <ImageView
+                android:id="@+id/animal"
+                android:layout_width="160sp"
+                android:layout_height="140sp"
+                android:paddingRight="15dp"
+                android:spacing="15dp"
+                android:src="@drawable/animalss" />
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:padding="5dp">
+
+            <ImageView
+                android:id="@+id/biology"
+                android:layout_width="160sp"
+                android:layout_height="140sp"
+                android:paddingRight="15dp"
+                android:spacing="15dp"
+                android:src="@drawable/biology" />
+
+            <ImageView
+                android:id="@+id/body"
+                android:layout_width="160sp"
+                android:layout_height="140sp"
+                android:paddingRight="15dp"
+                android:spacing="15dp"
+                android:src="@drawable/body" />
+
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:padding="5dp">
+
+            <ImageView
+                android:id="@+id/chemistry"
+                android:layout_width="160sp"
+                android:layout_height="140sp"
+                android:paddingRight="15dp"
+                android:spacing="15dp"
+                android:src="@drawable/chemistry" />
+
+            <ImageView
+                android:id="@+id/computer"
+                android:layout_width="160sp"
+                android:layout_height="140sp"
+                android:paddingRight="15dp"
+                android:spacing="15dp"
+                android:src="@drawable/compuuter" />
+
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:padding="5dp">
+
+
+            <ImageView
+                android:id="@+id/color"
+                android:layout_width="160sp"
+                android:layout_height="140sp"
+                android:paddingRight="15dp"
+                android:spacing="15dp"
+                android:src="@drawable/colorss" />
+
+            <ImageView
+                android:id="@+id/cloth"
+                android:layout_width="160sp"
+                android:layout_height="140sp"
+                android:paddingRight="15dp"
+                android:spacing="15dp"
+                android:src="@drawable/clothess" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:padding="5dp">
+
+
+            <ImageView
+                android:id="@+id/communication"
+                android:layout_width="160sp"
+                android:layout_height="140sp"
+                android:paddingRight="15dp"
+                android:spacing="15dp"
+                android:src="@drawable/communicationsss"/>
+
+
+            <ImageView
+                android:id="@+id/education"
+                android:layout_width="160sp"
+                android:layout_height="140sp"
+                android:paddingRight="15dp"
+                android:spacing="15dp"
+                android:src="@drawable/education"/>
+
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:padding="5dp">
+
+            <ImageView
+                android:id="@+id/environment"
+                android:layout_width="160sp"
+                android:layout_height="140sp"
+                android:paddingRight="15dp"
+                android:spacing="15dp"
+                android:src="@drawable/environment"/>
+
+
+            <ImageView
+                android:id="@+id/emotions"
+                android:layout_width="160sp"
+                android:layout_height="140sp"
+                android:paddingRight="15dp"
+                android:spacing="15dp"
+                android:src="@drawable/expressions"/>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:padding="5dp">
+
+
+            <ImageView
+                android:id="@+id/fruits"
+                android:layout_width="160sp"
+                android:layout_height="140sp"
+                android:paddingRight="15dp"
+                android:spacing="15dp"
+                android:src="@drawable/fruitss"/>
+
+            <ImageView
+                android:id="@+id/flower"
+                android:layout_width="160sp"
+                android:layout_height="140sp"
+                android:paddingRight="15dp"
+                android:spacing="15dp"
+                android:src="@drawable/flower"/>
+
+        </LinearLayout>
+
+        <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:padding="5dp">
+
+        <ImageView
+            android:id="@+id/family"
+            android:layout_width="160sp"
+            android:layout_height="140sp"
+            android:paddingRight="15dp"
+            android:spacing="15dp"
+            android:src="@drawable/familyy"/>
+
+        <ImageView
+            android:id="@+id/food"
+            android:layout_width="160sp"
+            android:layout_height="140sp"
+            android:paddingRight="15dp"
+            android:spacing="15dp"
+            android:src="@drawable/foodd"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:padding="5dp">
+
+        <ImageView
+            android:id="@+id/govt"
+            android:layout_width="160sp"
+            android:layout_height="140sp"
+            android:paddingRight="15dp"
+            android:spacing="15dp"
+            android:src="@drawable/govt"/>
+
+        <ImageView
+            android:id="@+id/health"
+            android:layout_width="160sp"
+            android:layout_height="140sp"
+            android:paddingRight="15dp"
+            android:spacing="15dp"
+            android:src="@drawable/health"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:padding="5dp">
+
+        <ImageView
+            android:id="@+id/home"
+            android:layout_width="160sp"
+            android:layout_height="140sp"
+            android:paddingRight="15dp"
+            android:spacing="15dp"
+            android:src="@drawable/homes"/>
+
+        <ImageView
+            android:id="@+id/language"
+            android:layout_width="160sp"
+            android:layout_height="140sp"
+            android:paddingRight="15dp"
+            android:spacing="15dp"
+            android:src="@drawable/languagesss"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:padding="5dp">
+
+        <ImageView
+            android:id="@+id/math"
+            android:layout_width="160sp"
+            android:layout_height="140sp"
+            android:paddingRight="15dp"
+            android:spacing="15dp"
+            android:src="@drawable/mathematics"/>
+
+        <ImageView
+            android:id="@+id/number"
+            android:layout_width="160sp"
+            android:layout_height="140sp"
+            android:paddingRight="15dp"
+            android:spacing="15dp"
+            android:src="@drawable/numbersssss"/>
+
+    </LinearLayout>
+
+
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:padding="5dp">
+
+   <ImageView
+            android:id="@+id/nations"
+            android:layout_width="160sp"
+            android:layout_height="140sp"
+            android:paddingRight="15dp"
+            android:spacing="15dp"
+            android:src="@drawable/nations"/>
+
+        <ImageView
+            android:id="@+id/physics"
+            android:layout_width="160sp"
+            android:layout_height="140sp"
+            android:paddingRight="15dp"
+            android:spacing="15dp"
+            android:src="@drawable/physics"/>
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:padding="5dp">
+
+        <ImageView
+            android:id="@+id/religin"
+            android:layout_width="160sp"
+            android:layout_height="140sp"
+            android:paddingRight="15dp"
+            android:spacing="15dp"
+            android:src="@drawable/religions"/>
+
+        <ImageView
+            android:id="@+id/science"
+            android:layout_width="160sp"
+            android:layout_height="140sp"
+            android:paddingRight="15dp"
+            android:spacing="15dp"
+            android:src="@drawable/scienceandtech"/>
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:padding="5dp">
+
+        <ImageView
+            android:id="@+id/space"
+            android:layout_width="160sp"
+            android:layout_height="140sp"
+            android:paddingRight="15dp"
+            android:spacing="15dp"
+            android:src="@drawable/space"/>
+
+        <ImageView
+            android:id="@+id/sports"
+            android:layout_width="160sp"
+            android:layout_height="140sp"
+            android:paddingRight="15dp"
+            android:spacing="15dp"
+            android:src="@drawable/sportsss"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:padding="5dp">
+
+
+        <ImageView
+            android:id="@+id/time"
+            android:layout_width="160sp"
+            android:layout_height="140sp"
+            android:paddingRight="15dp"
+            android:spacing="15dp"
+            android:src="@drawable/timenaddate"/>
+
+        <ImageView
+            android:id="@+id/transport"
+            android:layout_width="160sp"
+            android:layout_height="140sp"
+            android:paddingRight="15dp"
+            android:spacing="15dp"
+            android:src="@drawable/transportt"/>
+
+    </LinearLayout>
+
+    </LinearLayout>
+
+    </ScrollView>
+    </HorizontalScrollView>
+
+    </LinearLayout>
+

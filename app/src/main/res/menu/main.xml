@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+
+
+    >
+
+    <item
+        android:icon="@drawable/menuicon"
+        android:title="Main Menu"
+        app:showAsAction="always">
+
+        <menu>
+
+
+            <item
+                android:id="@+id/alphabet_menu"
+                android:icon="@drawable/alphaa"
+                android:orderInCategory="100"
+                android:title="Finnish Alphabet"
+                />
+            <item
+                android:id="@+id/bookmark_menu"
+                android:icon="@drawable/contact"
+                android:orderInCategory="100"
+                android:title="Contact Us"
+                />
+            <item
+                android:id="@+id/fb_menu"
+                android:icon="@drawable/fbicon"
+                android:orderInCategory="100"
+                android:title="Follow us!"
+                />
+
+
+            <item
+                android:id="@+id/share_menu"
+                android:icon="@drawable/share"
+                android:orderInCategory="100"
+                android:title="Share!"
+                />
+            <item
+                android:id="@+id/rate_menu"
+                android:icon="@drawable/ratingicon"
+                android:orderInCategory="100"
+                android:title="Rate the app"
+                />
+
+            <item
+                android:id="@+id/about_menu"
+                android:icon="@drawable/info"
+                android:orderInCategory="100"
+                android:title="About"
+
+                />
+
+        </menu>
+    </item>
+</menu>

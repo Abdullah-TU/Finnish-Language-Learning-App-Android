@@ -1,0 +1,6768 @@
+﻿Chicken
+
+	Kana
+
+
+On
+
+	Päällä
+
+That
+
+	Että
+
+By
+
+	Mennessä
+
+This
+
+	Tämä
+
+In
+
+	Sisään
+
+Is
+
+	On
+
+With
+
+	Kanssa
+
+
+I
+
+	 Minä.
+	
+
+You
+
+	Sinä .
+
+
+It
+
+	Se
+
+Not
+
+	  Ei 
+
+	
+
+Or
+
+	 Tai 
+
+Be
+
+	 Olla 
+
+Are
+
+	
+
+	 Olemme
+
+From
+
+	Alkaen
+
+At
+
+	At
+
+As
+
+	Kuten
+
+Your
+
+	Teidän
+
+All
+
+	Kaikki
+
+Have
+
+	 Omistaa 
+
+New
+
+	 Uusi 
+
+More
+
+	
+	Lisää
+
+	
+
+Will
+
+	 Tahtoa 
+
+Home
+
+	 Koti 
+Can
+
+	Voida 
+
+Us
+
+	 Meille 
+
+About
+
+	Noin
+
+If
+
+	Jos
+
+Page
+
+	 Sivu 
+My
+
+	 Minun 
+
+Has
+
+	On 
+Search
+
+	Hae
+
+Free
+
+	Vapaa
+
+But
+
+	 Mutta 
+Our
+
+	 Meidän 
+
+One
+
+	 Yksi
+
+Other
+
+	Muut
+
+Do
+
+	Tehdä
+
+No
+
+	Ei
+
+Information
+
+	Tiedot
+
+Time
+
+	Aika
+
+They
+
+	 Ne 
+
+Site
+
+	Paikka
+
+He
+
+	Hän
+
+Up
+
+	Ylös 
+May
+
+	Saattaa
+
+What
+
+	Mitä
+
+Which
+
+	 Joka
+	
+
+Their
+
+	Heidän
+
+News
+
+	Uutiset
+
+Out
+
+	Ulos
+	
+
+Use
+
+	Käyttää 
+
+Any
+
+	Minkä tahansa 
+
+There
+
+	 Siellä 
+
+See
+
+	Nähdä
+
+Only
+
+	Vain
+
+So
+
+	 Niin,
+	
+
+His
+
+	Hänen
+
+When
+
+	 Kun
+	
+
+Contact	
+
+	Ottaa yhteyttä
+
+Here
+
+	
+	Tässä 
+
+Business
+
+	Liiketoiminta
+
+Who
+
+	 Kuka 
+
+Web
+
+	 Verkko 
+
+Also
+
+	Myös
+
+Now
+
+	Nyt
+
+Help
+
+	Auta
+
+Get
+
+	Saada
+
+Pm
+
+	Pm
+
+View
+
+	Näkymä 
+
+
+
+	
+
+Online
+
+	 Verkossa.
+
+	
+
+First
+
+	 Ensimmäinen
+
+Am
+
+	Olen
+
+Been
+
+	Ollut
+
+Would
+
+	Olisi 
+
+How
+
+	 Millä tavalla
+
+Were
+
+	Olivat
+
+Me
+
+	 Minulle
+
+Services	
+
+	 Palvelut
+
+Some
+
+	 Jonkin verran 
+
+These
+
+	 Nämä 
+Click
+
+	 Klikkaus.
+
+Its
+
+	Sen
+
+Like
+
+	 Kuten
+
+Service
+
+	Palvelu
+
+Than
+
+	Kuin
+
+Find
+
+	Löytö
+
+Price
+
+	Hinta
+
+Date
+
+	Treffi
+
+Back
+
+	Takaisin
+
+Top
+
+	Ylin
+
+People
+
+	Ihmiset
+
+Had
+
+	Oli
+
+List
+
+	 Lista 
+Name
+
+	Nimi
+
+Just
+
+	Vain
+
+Over
+
+	 Yli 
+
+State
+
+	Osavaltio
+
+Year
+
+	Vuosi
+
+Day
+
+	Päivä
+
+Into
+
+	Osaksi
+
+Email
+
+	Sähköposti
+
+Two
+
+	Kaksi
+
+Health
+
+	 Terveys 
+
+World
+
+	 Maailman 
+
+Next
+
+	 Seuraava 
+Used
+
+	Käytetty
+
+Go
+
+	Mennä
+
+Work
+
+	Tehdä työtä
+
+Last
+
+	Kestää
+
+Most
+
+	Suurin osa
+
+Products
+
+	Tuotteet
+
+Music
+
+	Musiikki
+
+8051
+
+	Intel 8051
+
+Buy
+
+	Ostaa
+
+Data
+
+	Data
+
+Make
+
+	Tehdä
+
+Them
+
+	Niitä
+
+Should
+
+	Pitäisi
+
+Product
+
+	Tuote
+
+System
+
+	Järjestelmä
+
+Post
+
+	Lähettää
+
+Her
+
+	Hänen
+
+City
+
+	Kaupunki
+
+Add
+
+	 Lisätä 
+	
+Policy
+
+	Politiikka 
+
+Number	
+
+	Määrä 
+Such
+
+	 Sellainen 
+
+Please
+
+	Ole kiltti
+
+Available
+
+	Käytettävissä
+
+Support	
+
+	 Tuki
+	
+
+Message
+
+	Viesti
+
+After
+
+	Jälkeen
+
+Best
+
+	Parhaat
+
+Software
+
+	Ohjelmisto
+
+Then
+
+	Sitten
+
+Good
+
+	Hyvä
+
+Video
+
+	 Video 
+
+Well
+
+	Hyvin
+
+Where
+
+	Missä
+
+Info
+
+	Tiedot
+	
+Rights
+	Oikeudet
+
+Public
+
+	Julkinen
+
+Books
+
+	Kirjat
+
+High
+
+	Korkea
+
+School
+
+	 Koulu 
+Through	
+
+	Kautta
+
+Each
+
+	Kukin
+
+Links
+
+	Linkit 
+She
+
+	Hän 
+Review
+
+	 Arvostelu 
+
+Years
+
+	Vuotta
+
+Order
+
+	Tilata
+
+Very
+
+	 Erittäin
+
+Privacy
+
+	Yksityisyys
+
+Book
+
+	Kirja 
+
+Items
+
+	Kohdetta
+
+Company
+
+	 Yhtiö 
+
+Read
+
+	Lukea
+
+Group
+
+	Ryhmä
+
+Sex
+
+	Sukupuoli
+
+Need
+
+	Tarve
+
+Many	
+
+	Monet 
+
+User
+
+	 Käyttäjä 
+Said
+
+	Sanoi
+
+Does
+
+	 Tekee 
+
+Set
+
+	Sarja
+
+Under
+
+	 Alla 
+
+General	
+
+	Yleinen 
+
+Research
+
+	 Tutkimus
+
+University
+
+	 Yliopisto 
+
+January
+
+	Tammikuu 
+
+Mail
+
+	 Posti 
+
+Full
+
+	 Koko 
+
+Map
+
+	 Kartta
+Reviews	
+
+	 Arvostelut 
+Program
+
+	 Ohjelmoida)
+
+Life
+
+	 Elämä 
+Know
+
+	Tietää
+
+Games
+
+	Pelit
+
+Way
+
+	Tapa
+
+Days
+
+	Päivää
+
+Management
+
+	 Johto
+
+Part
+
+	Osa
+
+Could	
+
+	Voisi
+
+Great
+
+	 Loistava
+	
+United
+
+	Yhdistynyt 
+
+Hotel
+
+	 Hotelli 
+
+Real
+
+	Todellinen
+
+Is
+
+	On
+No
+
+	Ei
+And
+
+	Ja
+It
+
+	Se
+He
+
+	Hän
+What
+
+	Mitä
+I do not
+
+	En
+That
+
+	Että
+Not
+
+	Ole
+I am
+
+	Olen
+So
+
+	Niin
+I
+
+	Minä
+But
+
+	Mutta
+Only
+
+	Vain
+Its
+
+	Sen
+Was
+
+	Oli
+You
+
+	Sinä
+Now
+
+	Nyt
+This
+
+	Tämä
+If
+
+	Jos
+Are
+
+	Olet
+Oh
+
+	Voi
+When
+
+	Kun
+The
+
+	Sitä
+Than
+
+	Kuin
+They
+
+	He
+Here
+
+	Täällä
+All
+
+	Kaikki
+	
+	
+My
+
+      Minun
+Good
+
+      Hyvä
+His
+
+      Hänen
+Are
+
+      Ovat
+You do not
+
+      Et
+Me
+
+      Minua
+Be
+
+      Olla
+Yes
+
+      Kyllä
+Do not
+
+      Älä
+Your
+
+      Sinun
+Hey
+
+      Hei
+You
+
+      Sinua
+Then
+
+      Sitten
+Whether
+
+      Onko
+Anything
+
+      Mitään
+Why
+
+      Miksi
+What
+
+      Mikä
+Thank you
+
+      Kiitos
+Him
+
+      Hänet
+Thence
+
+      Siitä
+They
+
+      Ne
+How
+
+      Miten
+Which
+
+      Joka
+Me
+
+      Minulle
+Would be
+
+      Olisi
+Here
+
+      Tässä
+With
+
+      Kanssa
+We
+
+      Me
+I
+
+      Minulla
+Or
+
+      Tai
+Where
+
+      Missä
+That
+
+      Tuo
+Something
+
+      Jotain
+Keep
+
+      Pitää
+Been
+
+      Ollut
+You
+
+      Sinulle
+Do not know
+
+      Tiedä
+Are you
+
+      Oletko
+Me
+
+      Minut
+Who
+
+      Kuka
+Him
+
+      Häntä
+Thee
+
+      Sinut
+Going to
+
+      Tule
+Very
+
+      Hyvin
+Yet
+
+      Vielä
+This
+
+      Tämän
+Here
+
+      Tänne
+Our
+
+      Meidän
+Are
+
+      Olemme
+Sorry
+
+      Anteeksi
+Already
+
+      Jo
+Let the
+
+      Anna
+Make
+
+      Tehdä
+I want to
+
+      Haluan
+Must
+
+      Täytyy
+Because
+
+      Koska
+Off
+
+      Pois
+Mr.
+
+      Herra
+I know
+
+      Tiedän
+Perhaps
+
+      Ehkä
+There
+
+      Siellä
+Back
+
+      Takaisin
+A lot
+
+      Paljon
+How
+
+      Kuinka
+You
+
+      Sinulla
+This
+
+      Tätä
+We do not
+
+      Emme
+Will
+
+      Tulee
+Clear
+
+      Selvä
+You
+
+      Te
+There
+
+      Siinä
+Weather
+
+      Saa
+Right
+
+      Eikö
+Just
+
+      Juuri
+Well
+
+      No
+Do not
+
+      Eivät
+Ever
+
+      Koskaan
+One
+
+      Yksi
+Always
+
+      Aina
+Go
+
+      Mennä
+Before
+
+      Ennen
+Any more
+
+      Enää
+Or
+
+      Vai
+Should
+
+      Pitäisi
+Go to
+
+      Mene
+Size
+
+      Koko
+Two
+
+      Kaksi
+Whence
+
+      Mistä
+Thus
+
+      Näin
+Right
+
+      Aivan
+At our house
+
+      Meillä
+Properly
+
+      Oikein
+So
+
+      Joten
+Man
+
+      Mies
+Do not want
+
+      Halua
+Someone
+
+      Joku
+From here
+
+      Tästä
+Him
+
+      Hänelle
+Really
+
+      Todella
+I had
+
+      Olin
+Little
+
+      Vähän
+Good
+
+      Hyvää
+Are
+
+      Olette
+Time
+
+      Aika
+Look
+
+      Katso
+Father
+
+      Isä
+Know
+
+      Tietää
+Book
+
+      Teet
+TRUE
+
+      Totta
+Okay
+
+      Kunnossa
+Out
+
+      Ulos
+Like
+
+      Kuten
+Probably
+
+      Kai
+At least
+
+      Edes
+I can
+
+      Voin
+Thereto
+
+      Siihen
+You can
+
+      Voit
+What about
+
+      Entä
+Mother
+
+      Äiti
+Anyone
+
+      Kukaan
+Quite
+
+      Ihan
+Do not like
+
+      Pidä
+Closed
+
+      Kiinni
+But
+
+      Vaan
+To
+
+      Haluat
+Become
+
+      Tulla
+Time
+
+      Aikaa
+About
+
+      Noin
+Sorry
+
+      Pahoillani
+Also
+
+      Myös
+Therefore
+
+      Siis
+Yours
+
+      Teidän
+About me
+
+      Minusta
+Let's go
+
+      Mennään
+Get
+
+      Päästä
+Self
+
+      Itse
+Today
+
+      Tänään
+For
+
+      Sillä
+Wait
+
+      Odota
+All
+
+      Kaiken
+Said
+
+      Sanoi
+And not
+
+      Eikä
+Please
+
+      Ota
+Their
+
+      Heidän
+Do not you
+
+      Etkö
+Tea
+
+      Tee
+Tell
+
+      Kerro
+Too
+
+      Liian
+Them
+
+      Niitä
+You
+
+      Sinusta
+Again
+
+      Taas
+These
+
+      Nämä
+Show
+
+      Näyttää
+She
+
+      Hänellä
+Us
+
+      Meitä
+By
+
+      Mukaan
+You want to
+
+      Haluatko
+Lest
+
+      Ettei
+Home
+
+      Kotiin
+From here
+
+      Täältä
+After
+
+      Jälkeen
+That
+
+      Jotka
+Talk
+
+      Puhua
+Going
+
+      Menee
+Years
+
+      Vuotta
+There
+
+      Sinne
+See
+
+      Nähdä
+Three
+
+      Kolme
+Although
+
+      Vaikka
+Help
+
+      Auttaa
+There
+
+      Tuolla
+Creator
+
+      Luoja
+Give
+
+      Antaa
+You know
+
+      Tiedät
+Son
+
+      Poika
+More
+
+      Muuta
+Do you know
+
+      Tiedätkö
+Immediately
+
+      Heti
+You do not
+
+      Ette
+You
+
+      Teitä
+Say
+
+      Sanoa
+Us
+
+      Meidät
+Over here
+
+      Tähän
+Get
+
+      Saat
+Took place
+
+      Tapahtui
+Fire
+
+      Tuli
+In
+
+      Sisään
+Free
+
+      Ilman
+Seen
+
+      Nähnyt
+Get
+
+      Saada
+I said
+
+      Sanoin
+Them
+
+      Heidät
+Need
+
+      Tarvitse
+You
+
+      Teille
+I love the
+
+      Rakastan
+Yeah
+
+      Joo
+Certainly
+
+      Varmasti
+Belief
+
+      Usko
+That
+
+      Tuon
+Coffee
+
+      Teen
+Ever
+
+      Ikinä
+Gold
+
+      Kulta
+Makes
+
+      Tekee
+Tell
+
+      Kertoa
+Wants
+
+      Haluaa
+The
+
+      Olevan
+Them
+
+      Heitä
+Soon
+
+      Pian
+Great
+
+      Hienoa
+Us
+
+      Meille
+Against
+
+      Vastaan
+Whom
+
+      Jonka
+Say
+
+      ,Sano
+More
+
+      Enemmän
+Dead
+
+      Kuollut
+Done
+
+      Tehnyt
+About him
+
+      Hänestä
+Sure
+
+      Varma
+Where
+
+      Minne
+Will
+
+      Varmaan
+Okay
+
+      Okei
+Sir
+
+      Sir
+Produce
+
+      Tuota
+Thing
+
+      Asia
+Fire
+
+      Tulen
+Where
+
+      Mihin
+Once
+
+      Kerran
+Girl
+
+      Tyttö
+Happens
+
+      Tapahtuu
+Stop it
+
+      Lopeta
+Take
+
+      Ottaa
+Down
+
+      Alas
+Up
+
+      Ylös
+Visit
+
+      Käy
+I thought
+
+      Luulin
+I got
+
+      Sain
+I like
+
+      Pidän
+Mrs
+
+      Rouva
+You
+
+      Teidät
+Fun
+
+      Hauskaa
+Money
+
+      Rahaa
+We can
+
+      Voimme
+You were
+
+      Olit
+I need
+
+      Tarvitsen
+Of
+
+      N
+Could
+
+      Voisi
+People
+
+      Ihmiset
+Kill
+
+      Tappaa
+I think
+
+      Luulen
+Because of
+
+      Takia
+Start
+
+      Älkää
+I drive
+
+      Ajan
+Long
+
+      Kauan
+Bridge
+
+      Tällä
+At your place
+
+      Teillä
+Equally
+
+      Yhtä
+Go
+
+      Lähteä
+Shit
+
+      Paska
+Second
+
+      Toinen
+Were
+
+      Olivat
+Together
+
+      Yhdessä
+Right
+
+      Oikeassa
+Www
+
+      Www
+Tomorrow
+
+      Huomenna
+Woman
+
+      Nainen
+Day
+
+      Päivä
+Thing
+
+      Juttu
+Later
+
+      Myöhemmin
+Ready
+
+      Valmis
+Sometimes
+
+      Joskus
+I go
+
+      Menen
+Listen
+
+      Kuuntele
+Slightly
+
+      Hieman
+Days
+
+      Päivää
+Then
+
+      Silloin
+See you
+
+      Nähdään
+Really
+
+      Niinkö
+Help
+
+      Apua
+Time
+
+      Kertaa
+More
+
+      Lisää
+Doctor
+
+      Tohtori
+Have been
+
+      Pitänyt
+Had to
+
+      Piti
+I do not
+
+      Enkä
+Meet
+
+      Tavata
+Alone
+
+      Yksin
+I would have
+
+      Olisin
+First
+
+      Ensin
+One
+
+      Yhden
+Because
+
+      Siksi
+Better
+
+      Parempi
+Could not
+
+      Voinut
+Small
+
+      Pieni
+Did
+
+      Teki
+Did you say
+
+      Sanoit
+E
+
+      E
+Expect
+
+      Odottaa
+Someone
+
+      Jonkun
+Will take
+
+      Vie
+TRUE
+
+      Tosi
+Anyone
+
+      Ketään
+Best
+
+      Paras
+Pitched
+
+      Senkin
+Feels
+
+      Tuntuu
+Only
+
+      Ainoa
+Went to
+
+      Meni
+Please come
+
+      Tulkaa
+I get
+
+      Saan
+Miss
+
+      Neiti
+Guy
+
+      Kaveri
+New
+
+      Uusi
+Place
+
+      Paikka
+Moment
+
+      Hetki
+I
+
+      Mä
+Have you
+
+      Oletteko
+Past
+
+      Ohi
+Any
+
+      Mikään
+Whom
+
+      Jota
+Please
+
+      Pyydän
+Pair
+
+      Pari
+Old
+
+      Vanha
+When
+
+      Milloin
+Includes
+
+      Kuuluu
+Still
+
+      Yhä
+Loose
+
+      Irti
+Quickly
+
+      Nopeasti
+I thought
+
+      Ajattelin
+Received
+
+      Saanut
+Me too
+
+      Minäkin
+Quietly
+
+      Hiljaa
+God
+
+      Jumala
+I do not
+
+      Etten
+People
+
+      Ihmisiä
+Last
+
+      Viime
+Enough
+
+      Tarpeeksi
+So
+
+      Jotta
+With you
+
+      Kanssasi
+Something
+
+      Jotakin
+Understand the
+
+      Ymmärrä
+Male
+
+      Miehen
+Remember
+
+      Muista
+I would like to
+
+      Haluaisin
+Start
+
+      Alkaa
+Over
+
+      Yli
+Five
+
+      Viisi
+Received
+
+      Sai
+I mean
+
+      Tarkoitan
+Fuck
+
+      Vittu
+Stay
+
+      Pysy
+Part
+
+      Osaa
+What
+
+      Minkä
+I can
+
+      Voinko
+Right
+
+      Oikea
+You did
+
+      Teit
+Kind
+
+      Kiltti
+Big
+
+      Iso
+Pending
+
+      Tulossa
+Whether
+
+      Oliko
+Dollars
+
+      Dollaria
+Beautiful
+
+      Kaunis
+We do
+
+      Teemme
+I could
+
+      Voisin
+Any
+
+      Tahansa
+Come to
+
+      Tullut
+Mean
+
+      Tarkoittaa
+Paragraph
+
+      Kohta
+I did
+
+      Tein
+My father
+
+      Isäni
+Deuce
+
+      Hitto
+On
+
+      Menossa
+Money
+
+      Rahat
+Them
+
+      Heille
+Things
+
+      Asiaa
+I will take
+
+      Otan
+I wanted to
+
+      Halusin
+This
+
+      Tämä
+Enough
+
+      Riittää
+Good
+
+      Hyvältä
+Talking about
+
+      Puhu
+Hello
+
+      Haloo
+I try to
+
+      Yritän
+Me
+
+      Minuun
+Until
+
+      Kunnes
+Name
+
+      Nimi
+About
+
+      Kyse
+Until
+
+      Asti
+Through
+
+      Läpi
+Those
+
+      Nuo
+Four
+
+      Neljä
+I understand
+
+      Ymmärrän
+Little
+
+      Pikku
+Call
+
+      Soittaa
+You think
+
+      Luulet
+Says
+
+      Sanoo
+Captain
+
+      Kapteeni
+Completely
+
+      Täysin
+Where
+
+      Jossa
+With me
+
+      Kanssani
+Things
+
+      Asioita
+Still
+
+      Silti
+The boys
+
+      Pojat
+Almost
+
+      Melkein
+Go to
+
+      Menkää
+Crazy
+
+      Hullu
+Can I
+
+      Saanko
+Show
+
+      Näytä
+Hell
+
+      Helvetti
+Otherwise
+
+      Muuten
+The pace
+
+      Vauhtia
+Police
+
+      Poliisi
+First
+
+      Ensimmäinen
+Same
+
+      Sama
+Look at
+
+      Katsokaa
+Away
+
+      Poissa
+Fucking
+
+      Vitun
+With
+
+      Mukana
+John
+
+      John
+You mean
+
+      Tarkoitat
+You do not
+
+      Ettet
+Clock
+
+      Kello
+I will tell
+
+      Kerron
+What
+
+      Miltä
+Do you think
+
+      Luuletko
+For real
+
+      Oikeasti
+Nice
+
+      Mukava
+Heard
+
+      Kuullut
+Hopefully
+
+      Toivottavasti
+I see
+
+      Näen
+Nights
+
+      Yötä
+I came to
+
+      Tulin
+Fine
+
+      Hieno
+One
+
+      Jokin
+You look
+
+      Näytät
+Died
+
+      Kuoli
+You would have
+
+      Olisit
+From there
+
+      Sieltä
+Father
+
+      Isäsi
+Jack
+
+      Jack
+Please
+
+      Olkaa
+I feel
+
+      Tunnen
+Working
+
+      Töitä
+Year
+
+      Vuoden
+Find
+
+      Löytää
+Upright
+
+      Pysty
+Bridge
+
+      Siltä
+Believe
+
+      Uskoa
+You speak
+
+      Puhut
+Minutes
+
+      Minuuttia
+Only
+
+      Vasta
+A
+
+      A
+Help
+
+      Auta
+Of them
+
+      Niistä
+Directly
+
+      Suoraan
+I heard
+
+      Kuulin
+At least
+
+      Ainakin
+Use
+
+      Käyttää
+You can
+
+      Voitte
+For
+
+      Varten
+Try
+
+      Yrittää
+Feeling
+
+      Tunne
+However
+
+      Kuitenkin
+Drift net
+
+      Jätä
+At the ready
+
+      Valmiina
+World
+
+      Maailman
+Good
+
+      Hyvät
+Did not know
+
+      Tiennyt
+Fun
+
+      Hauska
+Kind of
+
+      Sellaista
+Even
+
+      Jopa
+New
+
+      New
+Come on
+
+      Viitsi
+Day
+
+      Päivän
+The weather
+
+      Sä
+Way
+
+      Tapa
+With them
+
+      Kanssaan
+Any
+
+      Yhtään
+Did you get
+
+      Sait
+Too much
+
+      Liikaa
+Good morning
+
+      Huomenta
+View
+
+      Mieltä
+Sound
+
+      Kuulostaa
+Forget the
+
+      Unohda
+At home
+
+      Kotona
+Us
+
+      Meistä
+Healthy
+
+      Terve
+Other
+
+      Muut
+Car
+
+      Auto
+Listen
+
+      Kuule
+Done
+
+      Tehdään
+Pay
+
+      Maksaa
+Day
+
+      Päivänä
+All
+
+      Kaikkea
+My friend
+
+      Ystäväni
+Welcome
+
+      Tervetuloa
+Why do not
+
+      Mikset
+Can not see
+
+      Näe
+Things
+
+      Asiat
+Hear
+
+      Kuulla
+Take it easy
+
+      Rauhoitu
+Forced
+
+      Pakko
+Wanted
+
+      Halunnut
+Large
+
+      Suuri
+Best
+
+      Parasta
+Try
+
+      Yritä
+Let's go
+
+      Lähdetään
+Congratulations
+
+      Onnea
+I say
+
+      Sanon
+The same
+
+      Samaa
+Choose
+
+      Välitä
+Time
+
+      Aikaan
+Except
+
+      Paitsi
+Of course
+
+      Tietysti
+Do you remember
+
+      Muistatko
+Very
+
+      Erittäin
+Another
+
+      Toisen
+Very
+
+      Kovin
+Happened
+
+      Tapahtunut
+I'm going to
+
+      Aion
+Because of
+
+      Vuoksi
+Call
+
+      Soita
+The work of
+
+      Työtä
+The matter
+
+      Asian
+I will give
+
+      Annan
+Will come
+
+      Tulevat
+That's
+
+      Sehän
+A man
+
+      Miestä
+Issue
+
+      Lapset
+It
+
+      Sille
+Live
+
+      Elää
+Gentlemen
+
+      Miehet
+Son of a bitch
+
+      Paskiainen
+Nice
+
+      Kiva
+We need
+
+      Tarvitsemme
+Part
+
+      Osa
+Various
+
+      Monta
+Ladies
+
+      Naiset
+Burn
+
+      Palaa
+Their
+
+      Niiden
+Yesterday
+
+      Eilen
+Last
+
+      Viimeinen
+New
+
+      Uuden
+Your mother
+
+      Äitisi
+Can you
+
+      Voitko
+Said
+
+      ,Sanonut
+Going to
+
+      Aio
+Need
+
+      Tarvitsee
+To be
+
+      Olemaan
+Whereby
+
+      Jolla
+We will go
+
+      Menemme
+I knew
+
+      Tiesin
+Re-
+
+      Uudestaan
+Evening
+
+      Iltana
+Hell
+
+      Helvettiä
+Door
+
+      Ovi
+Of course
+
+      Tietenkin
+Effort
+
+      Vaivaa
+Leave
+
+      Jättää
+Told
+
+      Kertoi
+We were
+
+      Olimme
+Oh
+
+      Ai
+Way
+
+      Tavalla
+Alright
+
+      Ok
+Wait a minute
+
+      Hetkinen
+Opens
+
+      Avaa
+Next
+
+      Ensi
+You
+
+      Sinuun
+I think
+
+      Uskon
+Really
+
+      Oikeastaan
+Of you
+
+      Teistä
+Hours
+
+      Tuntia
+Sure
+
+      Toki
+Or
+
+      Eli
+We get
+
+      Saamme
+Wing
+
+      Laita
+Problems
+
+      Ongelmia
+Told
+
+      Kertonut
+On
+
+      Päälle
+Near
+
+      Lähellä
+Up
+
+      Hätänä
+They
+
+      Heillä
+I'm calling
+
+      Soitan
+Me
+
+      Minulta
+Mr
+
+      Mr
+You will
+
+      Tulet
+Problem
+
+      Ongelma
+You say
+
+      Sanot
+Divx finland
+
+      Divxfinland
+Will you please
+
+      Voisitko
+My mother
+
+      Äitini
+Messrs
+
+      Herrat
+Ice
+
+      Jää
+My name
+
+      Nimeni
+Please give
+
+      Antakaa
+Gun
+
+      Ase
+You are going
+
+      Aiot
+Take a look
+
+      Katsomaan
+Outside
+
+      Ulkona
+All
+
+      Kaikkien
+You like
+
+      Pidät
+You go
+
+      Menet
+Source
+
+      Lähde
+Case
+
+      Asiassa
+Whom
+
+      Joita
+Want to
+
+      Haluavat
+Such
+
+      Sellainen
+Do not
+
+      Ala
+Child
+
+      Lapsi
+There
+
+      Tuossa
+Double cloth
+
+      Takana
+To take
+
+      Viedä
+I found
+
+      Löysin
+Great
+
+      Mahtavaa
+My son
+
+      Poikani
+These
+
+      Näitä
+Access
+
+      Pääse
+Six
+
+      Kuusi
+I hope
+
+      Toivon
+Other
+
+      Muita
+Again
+
+      Uudelleen
+Of them
+
+      Heistä
+The woman
+
+      Naisen
+Own
+
+      Oma
+Evil
+
+      Paha
+Married
+
+      Naimisiin
+Better
+
+      Paremmin
+Man
+
+      Ihminen
+Any
+
+      Väliä
+Can you see
+
+      Näetkö
+Both
+
+      Molemmat
+In the morning
+
+      Aamulla
+Stay
+
+      Jäädä
+Year
+
+      Vuonna
+Different
+
+      Eri
+Fits
+
+      Sopii
+Indoors
+
+      Sisällä
+Ask
+
+      Kysyä
+Worry
+
+      Hätää
+You want
+
+      Haluatte
+Type
+
+      Tyyppi
+Precautionary
+
+      Varo
+You could
+
+      Voisit
+Supposedly
+
+      Muka
+I go on
+
+      Lähden
+You need
+
+      Tarvitset
+Fucking
+
+      Helvetin
+You
+
+      Sinulta
+Wrong
+
+      Väärin
+Manage
+
+      Hoitaa
+Frank
+
+      Frank
+Wait for
+
+      Odottakaa
+Sit down
+
+      Istu
+Die
+
+      Kuolla
+Not it
+
+      Olekin
+Sweetheart
+
+      Kultaseni
+Responsible for
+
+      Vastaa
+All
+
+      Kaikille
+You know
+
+      Tiedäthän
+The two of you
+
+      Kahden
+Round
+
+      Luo
+Food
+
+      Ruokaa
+Young
+
+      Nuori
+Can
+
+      Voivat
+To pick up
+
+      Hakemaan
+Do you understand
+
+      Ymmärrätkö
+Bad
+
+      Huono
+Stop
+
+      Lopettaa
+Gave the
+
+      Antoi
+Business
+
+      Homma
+The girl
+
+      Tytön
+Been
+
+      Olleet
+Visit
+
+      Käydä
+-hour
+
+      Tunnin
+To do
+
+      Tekemään
+Terrestrial
+
+      Maan
+Follow
+
+      Seuraa
+Question
+
+      Kysymys
+You do not
+
+      Etkä
+I'm talking about
+
+      Puhun
+Life
+
+      Elämä
+Ten
+
+      Kymmenen
+Jesus
+
+      Jeesus
+We could
+
+      Voisimme
+I remember
+
+      Muistan
+Visited
+
+      Kävi
+Look
+
+      Katsoa
+As long as the
+
+      Kunhan
+You came
+
+      Tulit
+My wife
+
+      Vaimoni
+Every
+
+      Jokainen
+Reason
+
+      Syytä
+Made
+
+      Tehty
+They say
+
+      Sanotaan
+Full
+
+      Täynnä
+Your name
+
+      Nimesi
+Know
+
+      Taitaa
+Stand up
+
+      Kestä
+During
+
+      Aikana
+Children
+
+      Lapsia
+Friends
+
+      Kaverit
+We know
+
+      Tiedämme
+Important
+
+      Tärkeää
+Mixed
+
+      Sekä
+You do
+
+      Teette
+The girls
+
+      Tytöt
+Of water
+
+      Vettä
+For a moment
+
+      Hetken
+May
+
+      Saattaa
+Good
+
+      Hyviä
+Wanted
+
+      Halusi
+New
+
+      Uutta
+It is
+
+      Onkin
+Make
+
+      Tekevät
+Alive
+
+      Elossa
+Being
+
+      Ollaan
+Car
+
+      Auton
+Half
+
+      Puoli
+The god
+
+      Jumalan
+Acts
+
+      Toimii
+Cunt
+
+      Kusipää
+Win
+
+      Voittaa
+There
+
+      Tuonne
+Nice
+
+      Mukavaa
+Take
+
+      Kestää
+Charlie
+
+      Charlie
+You too
+
+      Sinäkin
+Long
+
+      Pitkä
+Please
+
+      Ottakaa
+I promise
+
+      Lupaan
+Number
+
+      Numero
+You see
+
+      Näet
+All
+
+      Kaikkia
+Towards
+
+      Päin
+My life
+
+      Elämäni
+Around
+
+      Ympäri
+Killed
+
+      Tappoi
+Action
+
+      Toimi
+Likewise
+
+      Samoin
+Shit
+
+      Paskaa
+You will receive
+
+      Saatte
+Show
+
+      Näytän
+Is it
+
+      Eihän
+With him
+
+      Häneen
+Difficult
+
+      Vaikea
+Open
+
+      Auki
+Whose
+
+      Kenen
+I am looking for
+
+      Etsin
+At work
+
+      Töissä
+Event
+
+      Tapauksessa
+Shits
+
+      Paskat
+I take care of
+
+      Hoidan
+Boss
+
+      Pomo
+On behalf of
+
+      Puolesta
+Other
+
+      Muu
+Place
+
+      Paikan
+Afraid of
+
+      Pelkää
+I tried to
+
+      Yritin
+Whether
+
+      Ovatko
+Either
+
+      Joko
+How much
+
+      Paljonko
+Fortunately
+
+      Onneksi
+Beyond belief
+
+      Uskomatonta
+On
+
+      Päällä
+Possible
+
+      Mahdollista
+End
+
+      Loppu
+Good
+
+      Kunnon
+On the spot
+
+      Paikalla
+My
+
+      Mun
+Its name
+
+      Nimensä
+Org
+
+      Org
+Friends
+
+      Ystäviä
+Should
+
+      Tulisi
+Joe
+
+      Joe
+Take care
+
+      Huolta
+Thou not
+
+      Sinähän
+Continue
+
+      Jatkaa
+People
+
+      Ihmisten
+Below
+
+      Alla
+Down
+
+      Maahan
+Oman
+
+      Oman
+Motion
+
+      Liikettä
+En route
+
+      Matkalla
+I will kill
+
+      Tapan
+Michael
+
+      Michael
+Change
+
+      Muuttaa
+There
+
+      Olemassa
+Bay
+
+      Lähti
+Far
+
+      Kaukana
+Blood
+
+      Verta
+Able
+
+      Taida
+We received
+
+      Saimme
+Ahead
+
+      Eteenpäin
+Cheerful
+
+      Iloinen
+Mission
+
+      Tehtävä
+Smell
+
+      Haista
+General
+
+      Kenraali
+Tom
+
+      Tom
+Spectacular
+
+      Mahtava
+Late
+
+      Myöhässä
+Please keep
+
+      Pitäkää
+Indebted
+
+      Velkaa
+Love
+
+      Rakas
+Strange
+
+      Outoa
+Somewhere
+
+      Jossain
+Sam
+
+      Sam
+Drive
+
+      Ajaa
+Indeed
+
+      Todellakin
+A few
+
+      Muutaman
+In front
+
+      Edessä
+Next
+
+      Seuraava
+Time
+
+      Kerta
+Love
+
+      Rakastaa
+Hardly
+
+      Tuskin
+World
+
+      Maailma
+Speaks
+
+      Puhuu
+From
+
+      Luota
+From that
+
+      Tuosta
+Started
+
+      Alkoi
+Through
+
+      Kautta
+Whereof
+
+      Josta
+Friend
+
+      Ystävä
+To work
+
+      Töihin
+Inside
+
+      Sisälle
+Eat
+
+      Syö
+Idea
+
+      Idea
+Arise
+
+      Nouse
+Yet
+
+      Sentään
+David
+
+      David
+Off
+
+      Päässä
+Previously
+
+      Aiemmin
+Some
+
+      Jotkut
+Should
+
+      Saisi
+Would want to
+
+      Haluaisi
+Subtitle
+
+      Tekstityksen
+Am I
+
+      Olenko
+Idiot
+
+      Idiootti
+Goes
+
+      Lähtee
+We want
+
+      Haluamme
+So
+
+      Niinpä
+Usually
+
+      Yleensä
+Stop
+
+      Seis
+Eat
+
+      Syödä
+Situation
+
+      Tilanne
+Get lost
+
+      Häivy
+Together
+
+      Yhteen
+Will receive
+
+      Saavat
+Your hands
+
+      Kädet
+Tedious
+
+      Ikävä
+Hard
+
+      Vaikeaa
+George
+
+      George
+Probably
+
+      Luultavasti
+Left
+
+      Jäljellä
+By
+
+      Luona
+Easy
+
+      Helppoa
+Myself
+
+      Itseni
+Yourself
+
+      Itsesi
+Do you
+
+      Ettekö
+Request
+
+      Pyytää
+Return
+
+      Palata
+Visited
+
+      Käynyt
+Seven
+
+      Seitsemän
+Congratulations
+
+      Olkoon
+From her
+
+      Häneltä
+Itself
+
+      Itsensä
+It is
+
+      Onpa
+In the evening
+
+      Illalla
+Just think
+
+      Ajattele
+Out
+
+      Loppuun
+Jack
+
+      Jatka
+House
+
+      Talo
+Factor
+
+      Kerroin
+My brother
+
+      Veljeni
+Night
+
+      Yönä
+Under
+
+      Alle
+Influence
+
+      Vaikuttaa
+Worry
+
+      Huoli
+Repeat
+
+      Toista
+Put
+
+      Laittaa
+Yourself
+
+      Itseäsi
+Men
+
+      Miehiä
+Really
+
+      Tosiaan
+Peace
+
+      Rauhaan
+President
+
+      Presidentti
+Million
+
+      Miljoonaa
+Why not
+
+      Miksei
+Thank you
+
+      Kiitoksia
+Flagstone
+
+      Pääsi
+Gone
+
+      Mennyt
+Dies
+
+      Kuolee
+I apply
+
+      Haen
+One or two
+
+      Muutama
+The week
+
+      Viikon
+Of
+
+      Vien
+Chub
+
+      Turpa
+Wait and see
+
+      Katsotaan
+Mike
+
+      Mike
+I look forward to
+
+      Odotan
+Sun.
+
+      Sun
+Between
+
+      Välillä
+In danger
+
+      Väärässä
+Trust
+
+      Luottaa
+Towards
+
+      Kohti
+Often
+
+      Usein
+Months
+
+      Kuukautta
+Are you going to
+
+      Aiotko
+Stupid
+
+      Tyhmä
+Dog
+
+      Koira
+I think
+
+      Mielestäni
+Buy
+
+      Ostaa
+Do you like
+
+      Pidätkö
+One
+
+      Eräs
+Story
+
+      Jutun
+Goodbye
+
+      Näkemiin
+T
+
+      T
+For I
+
+      Minähän
+In the process
+
+      Samalla
+Hell
+
+      Helvettiin
+I hate
+
+      Vihaan
+In security
+
+      Turvassa
+Industry
+
+      Alan
+The son
+
+      Pojan
+House
+
+      Talon
+Understand
+
+      Ymmärtää
+On the side of
+
+      Puolella
+Long
+
+      Pitkään
+Harm to
+
+      Haittaa
+Part of
+
+      Kuulu
+After
+
+      Kuluttua
+Brother
+
+      Veli
+King
+
+      Kuningas
+Jimmy
+
+      Jimmy
+Use the
+
+      Käytä
+Reason
+
+      Syy
+All
+
+      Kaikesta
+Sick
+
+      Sairas
+Get
+
+      Hae
+Please help
+
+      Auttakaa
+Hurts
+
+      Sattuu
+Ask
+
+      Kysy
+The
+
+      The
+Stick to your
+
+      Pysykää
+Happy
+
+      Onnellinen
+Master
+
+      Mestari
+Eight
+
+      Kahdeksan
+Search for
+
+      Etsi
+To save
+
+      Pelastaa
+Married
+
+      Naimisissa
+Years old
+
+      Vuotias
+Properly
+
+      Kunnolla
+Quietly
+
+      Rauhallisesti
+Since
+
+      Lähtien
+Shoot
+
+      Ammu
+What
+
+      Mitäs
+I look
+
+      Katson
+Coffee
+
+      Kahvia
+Chat
+
+      Jutella
+Mad
+
+      Vihainen
+Truth
+
+      Totuus
+Perfect
+
+      Täydellinen
+Clear
+
+      Selvää
+Please stop
+
+      Lopettakaa
+During the week
+
+      Viikolla
+Go to
+
+      Painu
+Short
+
+      Äkkiä
+Stay
+
+      Pysyä
+Head
+
+      Pää
+Careful
+
+      Varovainen
+To sleep
+
+      Nukkumaan
+Minutes
+
+      Minuutin
+Weeks
+
+      Viikkoa
+Would make
+
+      Tekisi
+Thought
+
+      Ajatus
+Reportedly
+
+      Kuulemma
+Tried to
+
+      Yritti
+Evening
+
+      Iltaa
+Who
+
+      Ketä
+What kind of
+
+      Millainen
+I think I
+
+      Taidan
+Life
+
+      Elämän
+Colonel
+
+      Eversti
+Friend
+
+      Ystäväsi
+Harry
+
+      Harry
+Major
+
+      Suurin
+To do
+
+      Tekemistä
+Last
+
+      Viimeksi
+Quite
+
+      Melko
+Contact
+
+      Yhteyttä
+Hard
+
+      Kovasti
+Towards
+
+      Kohtaan
+Start
+
+      Aloittaa
+Paul
+
+      Paul
+Says
+
+      Kertoo
+Sees
+
+      Näkee
+Will
+
+      Tahdon
+Explain
+
+      Selittää
+We leave
+
+      Lähdemme
+My husband
+
+      Mieheni
+Phoned
+
+      Soitti
+Should
+
+      Pitäisikö
+You know
+
+      Tiedätte
+To go
+
+      Mentävä
+The car
+
+      Autoon
+The way
+
+      Tietä
+At that
+
+      Tuohon
+Any more
+
+      Enempää
+Ben
+
+      Ben
+Evening
+
+      Ilta
+Important
+
+      Tärkeä
+Hell
+
+      Helvetissä
+The same
+
+      Saman
+Kind of
+
+      Tällaista
+The moment
+
+      Hetkellä
+To meet
+
+      Tapaamaan
+James
+
+      James
+Story
+
+      Tarina
+Humor
+
+      Tajua
+Glorious
+
+      Loistava
+I swear
+
+      Vannon
+Do you want
+
+      Haluatteko
+Peter
+
+      Peter
+Bob
+
+      Bob
+Took
+
+      Otti
+Town's
+
+      Kaupungin
+Apply
+
+      Koske
+At once
+
+      Kerralla
+Proud
+
+      Ylpeä
+Bad
+
+      Pahaa
+Brilliant
+
+      Loistavaa
+The running
+
+      Juokse
+Still
+
+      Edelleen
+Black
+
+      Musta
+Guessing
+
+      Arvaa
+I do not
+
+      Enpä
+Who
+
+      Keitä
+I visit
+
+      Käyn
+Of life
+
+      Elämää
+Do you know
+
+      Tiedättekö
+Find out
+
+      Selville
+Access
+
+      Pääsee
+Behind
+
+      Taakse
+The matter
+
+      Asiasta
+To be
+
+      Oltava
+Night
+
+      Yön
+Taking
+
+      Otetaan
+The world
+
+      Maailmassa
+In peace
+
+      Rauhassa
+Maternal
+
+      Äidin
+I will return
+
+      Palaan
+Of course
+
+      ,Tietenkään
+Doctor
+
+      Lääkäri
+Think
+
+      Ajatella
+We get
+
+      Pääsemme
+Oie
+
+      Oie
+Mere
+
+      Pelkkä
+Can you hear
+
+      Kuuletko
+Play
+
+      Leikkiä
+Again
+
+      Jälleen
+Did you see
+
+      Näitkö
+Lives
+
+      Asuu
+Wife
+
+      Vaimo
+Shoot
+
+      Ampua
+Even
+
+      Vieläkin
+Can we
+
+      Voimmeko
+Know
+
+      Tietävät
+In front of
+
+      Eteen
+Drive the
+
+      Aja
+Listen to
+
+      Kuunnelkaa
+I gave
+
+      Annoin
+Good
+
+      Hyvän
+Manager
+
+      Johtaja
+Needed
+
+      Tarvitaan
+Witch
+
+      Noita
+I think
+
+      Mietin
+News
+
+      Uutisia
+Year
+
+      Vuosi
+Talk about
+
+      Puhutaan
+Thought
+
+      Ajatellut
+Whereby
+
+      Millä
+Somehow
+
+      Jotenkin
+Family
+
+      Perhe
+Women
+
+      Naisia
+Tumbled
+
+      Sekaisin
+To lead
+
+      Johtaa
+We made
+
+      Teimme
+Took
+
+      Vei
+Rid of
+
+      Eroon
+Write
+
+      Kirjoittaa
+Paternal
+
+      Isän
+Wonderful
+
+      Ihana
+I went to
+
+      Menin
+Will be held
+
+      Pidetään
+Suomennos
+
+      Suomennos
+Part
+
+      Osaan
+Human
+
+      Ihmisen
+At least not
+
+      Ainakaan
+For the sake of
+
+      Tähden
+Game
+
+      Peli
+You
+
+      Pääset
+People
+
+      Ihmistä
+Giant
+
+      Jätti
+Send
+
+      Lähettää
+Anywhere
+
+      Mihinkään
+Wake up
+
+      Herää
+Do you
+
+      Ethän
+Out
+
+      Esiin
+Place
+
+      Pane
+Purpose
+
+      Tarkoitus
+The fuck
+
+      Vittua
+Unless
+
+      Ellei
+Given
+
+      Antanut
+Offers
+
+      Tarjoaa
+Heck
+
+      Hittoa
+How long
+
+      Kauanko
+Own
+
+      Omaa
+Did not
+
+      Enkö
+Dream
+
+      Unta
+The road
+
+      Tien
+I took
+
+      Otin
+Say
+
+      ,Sanovat
+Afoot
+
+      Tekeillä
+You try to
+
+      Yrität
+Magnificent
+
+      Upea
+Billy
+
+      Billy
+Ye shall carry
+
+      Viekää
+Done
+
+      Tehneet
+Ray
+
+      Ray
+Hard
+
+      Kova
+Carefully
+
+      Varovasti
+Goodbye
+
+      Hyvästi
+Of all
+
+      Kaikista
+First
+
+      Ensimmäisen
+Max
+
+      Max
+Find
+
+      Löydä
+Read
+
+      Lukea
+Free
+
+      Vapaa
+Saw the
+
+      Näki
+Message
+
+      Viesti
+Brought
+
+      Toi
+You feel
+
+      Tunnet
+Seats
+
+      Paikkaa
+And do not
+
+      Äläkä
+The door
+
+      Oven
+Other
+
+      Muiden
+Yup
+
+      Jep
+In the middle
+
+      Keskellä
+Did you hear
+
+      Kuulitko
+The child
+
+      Lapsen
+For some
+
+      Jostain
+Small
+
+      Pienen
+Johnny
+
+      Johnny
+S
+
+      S
+In addition
+
+      Lisäksi
+Them
+
+      Niille
+Killed
+
+      Tappanut
+Forgot
+
+      Unohdin
+Fbi
+
+      Fbi
+Messenger
+
+      Lähetti
+Plan
+
+      Suunnitelma
+With me
+
+      Mukaani
+Move
+
+      Liiku
+Thought
+
+      Uskonut
+Only
+
+      Ainoastaan
+These
+
+      Näistä
+Count
+
+      Laske
+Mary
+
+      Mary
+Forever
+
+      Ikuisesti
+Would be
+
+      Olisivat
+Consider
+
+      Pitävät
+Knowledge
+
+      Tietoa
+For years
+
+      Vuosia
+Really
+
+      Todellakaan
+Possibility
+
+      Mahdollisuus
+A woman
+
+      Naista
+Visit
+
+      Käymään
+Not the
+
+      Olekaan
+My daughter
+
+      Tyttäreni
+Spoken
+
+      Puhunut
+Today
+
+      Nykyään
+Death
+
+      Kuolema
+The three
+
+      Kolmen
+Something
+
+      Jonkin
+Forget
+
+      Unohtaa
+Mr
+
+      Hra
+Your hand
+
+      Kätesi
+Bobby
+
+      Bobby
+Would allow me
+
+      Saisinko
+City
+
+      Kaupunki
+Chassis
+
+      Alusta
+Out
+
+      Mahdotonta
+Ask
+
+      Pyydä
+Wanted
+
+      Halusit
+Looked
+
+      Näytti
+Alex
+
+      Alex
+Jim
+
+      Jim
+San
+
+      San
+Can be found
+
+      Löytyy
+Beautiful
+
+      Kaunista
+Job
+
+      Työ
+In search of
+
+      Etsimään
+Room
+
+      Tilaa
+Drinking
+
+      Juo
+You can
+
+      Pystyt
+Bill
+
+      Bill
+Lie
+
+      Maata
+Half of
+
+      Puolet
+Succeed
+
+      Onnistu
+To sleep
+
+      Nukkua
+Do you know
+
+      Tunnetko
+Apparently
+
+      Ilmeisesti
+The police
+
+      Poliisille
+Would
+
+      Taisi
+Bring
+
+      Tuoda
+Legal
+
+      Oikeus
+I brought
+
+      Toin
+I get
+
+      Pääsen
+On
+
+      Päähän
+You were
+
+      Olitte
+To speak
+
+      Puhumaan
+On the ground
+
+      Maassa
+Knew
+
+      Tiesi
+Thanked
+
+      Kiitti
+Seconds
+
+      Sekuntia
+Anyone
+
+      Kenenkään
+We come
+
+      Tulemme
+Pull
+
+      Vedä
+The way
+
+      Tieltä
+Picture
+
+      Kuva
+Me neither
+
+      Minäkään
+Hurry
+
+      Kiire
+A little
+
+      Hiukan
+The truth
+
+      Totuuden
+Henry
+
+      Henry
+Police officers
+
+      Poliisit
+This
+
+      Tälle
+Better
+
+      Parempaa
+Next
+
+      Seuraavaksi
+Late
+
+      Myöhäistä
+Kind of
+
+      Tavallaan
+Wrong
+
+      Vialla
+That's
+
+      Sepä
+A place
+
+      Paikkaan
+Asked
+
+      Pyysi
+I help
+
+      Autan
+Country
+
+      Maa
+Having sex
+
+      Seksiä
+Stop
+
+      Pysähdy
+Eyes
+
+      Silmät
+Uncle
+
+      Setä
+Nick
+
+      Nick
+Untie
+
+      Päästäkää
+Worry
+
+      Huolehdi
+Remained
+
+      Jäi
+All right
+
+      Sopiiko
+In a house
+
+      Talossa
+Intends to
+
+      Aikoo
+Renew
+
+      Uusia
+War
+
+      Sota
+Spell Check
+
+      Oikoluku
+Really
+
+      Todellako
+Agent
+
+      Agentti
+Prevent
+
+      Estää
+I met
+
+      Tapasin
+Kidding
+
+      Tosissasi
+Hunger
+
+      Nälkä
+In the direction of
+
+      Suuntaan
+Jail
+
+      Vankilaan
+Creator
+
+      Luojan
+Wonder
+
+      Ihme
+Joke
+
+      Vitsi
+Many
+
+      Monet
+Rather
+
+      Mieluummin
+Itself
+
+      Itseään
+O
+
+      O
+Every
+
+      Jokaisen
+Eddie
+
+      Eddie
+You saw
+
+      Näit
+Address of the
+
+      Kenelle
+The lord
+
+      Herran
+Dr.
+
+      Tri
+Silly
+
+      Typerä
+Permission
+
+      Lupaa
+Travel
+
+      Matka
+Relevant
+
+      Asiaan
+Lhan
+
+      Lhan
+Search
+
+      Etsiä
+Help
+
+      Auttamaan
+We would
+
+      Olisimme
+How many
+
+      Montako
+Father
+
+      Isänsä
+Beats
+
+      Lyö
+Between
+
+      Kesken
+I'm afraid
+
+      Pelkään
+Eventually
+
+      Lopulta
+What kind of
+
+      Millaista
+Pull
+
+      Vetää
+Its
+
+      Olevansa
+Nearly
+
+      Lähes
+Bye
+
+      Heippa
+Place
+
+      Paikassa
+In a car
+
+      Autossa
+U.S
+
+      Usa
+Would you like
+
+      Haluaisitko
+Do
+
+      Tehkää
+Hurry
+
+      Kiirettä
+The past
+
+      Mennyttä
+For a while
+
+      Hetkeksi
+Surprise
+
+      Yllätys
+Common sense
+
+      Järkeä
+I spoke
+
+      Puhuin
+Easy
+
+      Helppo
+Word
+
+      Sana
+Your wife
+
+      Vaimosi
+The rest
+
+      Loput
+Spatula
+
+      Lasta
+Car
+
+      Autoa
+Manufacturing
+
+      Valmista
+Call
+
+      Kutsua
+Cold
+
+      Kylmä
+Love
+
+      Rakkaus
+In town
+
+      Kaupungissa
+The scene
+
+      Paikalle
+Across
+
+      Poikki
+Fly
+
+      Lentää
+Deadly
+
+      Kuoleman
+Tried
+
+      Yrittänyt
+Room
+
+      Huone
+The trip
+
+      Matkaa
+I can
+
+      Pystyn
+Through
+
+      Avulla
+At all
+
+      Ollenkaan
+Evidence
+
+      Todistaa
+The police
+
+      Poliisin
+These
+
+      Näiden
+Is called
+
+      Kutsutaan
+Nine
+
+      Yhdeksän
+Tell
+
+      Käske
+Play
+
+      Pelata
+Met
+
+      Tavannut
+Outside
+
+      Ulkopuolella
+All
+
+      Kaikilla
+Professor
+
+      Professori
+Eat
+
+      Syömään
+Oh
+
+      Oi
+Poorly
+
+      Huonosti
+To go
+
+      Menemään
+Anyone
+
+      Kenellekään
+Came to
+
+      Tulivat
+Earlier
+
+      Aikaisemmin
+Less
+
+      Vähemmän
+Sort out
+
+      Selvittää
+Choose
+
+      Valita
+Unfortunately
+
+      Valitettavasti
+Thinks
+
+      Luulee
+Lieutenant
+
+      Luutnantti
+Can be
+
+      Voidaan
+Tony
+
+      Tony
+That you are
+
+      Olevasi
+Second
+
+      Toisella
+Hot
+
+      Kuuma
+Come on
+
+      Tulehan
+TV
+
+      Tv
+D
+
+      D
+Thank
+
+      Kiittää
+Finely
+
+      Hienosti
+Tell
+
+      Kertokaa
+Did you know
+
+      Tiesit
+Seemed to
+
+      Tuntui
+Morning
+
+      Aamuna
+Far
+
+      Pitkälle
+Dispute
+
+      Riitä
+Reads
+
+      Lukee
+Whore
+
+      Huora
+Reserve
+
+      Varaa
+After all
+
+      Onhan
+Seek
+
+      Hakea
+Sit
+
+      Istua
+Mean
+
+      Tarkoita
+Found
+
+      Löytänyt
+Clean
+
+      Siistiä
+Casque
+
+      Käski
+Up
+
+      Ylhäällä
+Bet
+
+      Vetoa
+Is due to
+
+      Johtuu
+Tired
+
+      Väsynyt
+I think
+
+      Ajattelen
+With
+
+      Luokse
+Faster
+
+      Nopeammin
+But I do not
+
+      Mutten
+Think about
+
+      Mieti
+The last
+
+      Viimeisen
+Ready
+
+      Valmiiksi
+Brother
+
+      Veljesi
+Fire
+
+      Tulta
+Surely
+
+      Varmaankin
+Myself
+
+      Itseäni
+To the hospital
+
+      Sairaalaan
+I 'm
+
+      Oien
+Sound
+
+      Ääni
+Judge
+
+      Tuomari
+Did you get
+
+      Saitko
+This
+
+      Tää
+I felt
+
+      Tunsin
+The room
+
+      Huoneessa
+Hard
+
+      Kovaa
+Night
+
+      Yö
+Fucking
+
+      Saatanan
+Have seen
+
+      Nähneet
+Sarah
+
+      Sarah
+Strange
+
+      Outo
+Girls
+
+      Tyttöä
+We found
+
+      Löysimme
+Jake
+
+      Jake
+I put
+
+      Laitan
+Are you coming
+
+      Tuletko
+Bracket
+
+      Sulje
+Scare
+
+      Pelottaa
+For
+
+      Hyväksi
+To keep
+
+      Pitämään
+Holder
+
+      Pidin
+Reached
+
+      Päässyt
+Felt the
+
+      Tuntenut
+Another
+
+      Toiseen
+Weapons
+
+      Aseita
+Party
+
+      Juhlat
+What
+
+      Mitkä
+Any
+
+      Mistään
+Alive
+
+      Hengissä
+Strong
+
+      Vahva
+I
+
+      I
+Crazy
+
+      Hullua
+Tommy
+
+      Tommy
+Let's not
+
+      Eipä
+Oii
+
+      Oii
+Commanded
+
+      Käskin
+You mean
+
+      Tarkoitatko
+Decide
+
+      Päättää
+Instrument
+
+      Soitin
+Imagine
+
+      Kuvitella
+Multi
+
+      Moni
+Liver
+
+      Maksan
+Absolutely
+
+      Ehdottomasti
+Direct
+
+      Välittömästi
+Detective
+
+      Etsivä
+You give
+
+      Annat
+Which
+
+      Johon
+Danny
+
+      Danny
+Turn
+
+      Käänny
+From behind
+
+      Takaa
+You see
+
+      Katsos
+Could you
+
+      Voisitteko
+Dost thou
+
+      Sinäkö
+Leaving
+
+      Lähdössä
+Whether
+
+      Olisiko
+At the same
+
+      Samaan
+Jerk
+
+      Ääliö
+The trip
+
+      Matkaan
+Real
+
+      Todellinen
+The ice
+
+      Jään
+Dangerous
+
+      Vaarallista
+Interest
+
+      Kiinnosta
+The work
+
+      Työn
+The war
+
+      Sodan
+With pleasure
+
+      Mielelläni
+Lovely
+
+      Ihanaa
+Inside
+
+      Vankilassa
+Waiting for
+
+      Odottanut
+Jumps
+
+      Hyppää
+When
+
+      Jolloin
+If only
+
+      Kunpa
+Mean to
+
+      Tarkoittanut
+Think
+
+      Ajattelet
+Found
+
+      Löysi
+White
+
+      Valkoinen
+Hell
+
+      Hemmetti
+Own
+
+      Omat
+At school
+
+      Koulussa
+Ends
+
+      Loppuu
+Spoke to
+
+      Puhui
+Call
+
+      Kutsu
+I hear
+
+      Kuulen
+Feel
+
+      Tuntea
+Made the
+
+      Tekivät
+Mouth
+
+      Suu
+L
+
+      L
+By
+
+      Mennessä
+J
+
+      J
+Phone
+
+      Puhelin
+Change
+
+      Vaihtaa
+Agreement
+
+      Sopimus
+Stuff
+
+      Juttuja
+I went
+
+      Kävin
+Steve
+
+      Steve
+They have
+
+      Niillä
+Regarding
+
+      Suhteen
+Months
+
+      Kuukauden
+Received
+
+      Saaneet
+Named
+
+      Nimeltä
+Go to
+
+      Menevät
+Had to
+
+      Täytyi
+M
+
+      Metriä
+Game
+
+      Peliä
+Day
+
+      Päivässä
+Interested
+
+      Kiinnostunut
+Evening
+
+      Illan
+K
+
+      K
+Suddenly
+
+      Yhtäkkiä
+Charles
+
+      Charles
+Said
+
+      ,Sanoivat
+Whether
+
+      Voiko
+The car
+
+      Autosta
+Evidence
+
+      Todisteita
+Invites
+
+      Kutsuu
+Act
+
+      Toimia
+Was a
+
+      Olevani
+Honor
+
+      Kunnia
+Happen
+
+      Tapahtua
+Die
+
+      Kuole
+Canst thou
+
+      Taidat
+The world
+
+      Maailmaa
+Great
+
+      Suuren
+By law
+
+      Lailla
+Stop the
+
+      Pysäytä
+Pictures
+
+      Kuvia
+Treat
+
+      Hoida
+Otherwise
+
+      Toisin
+The keys
+
+      Avaimet
+Worried
+
+      Huolissani
+You killed
+
+      Tapoit
+Helluva
+
+      Hiton
+Listen
+
+      Kuunnella
+Easily
+
+      Helposti
+Anywhere
+
+      Missään
+Altered
+
+      Muuttunut
+Person
+
+      Henkilö
+Everywhere
+
+      Kaikkialla
+Lose
+
+      Menettää
+Half
+
+      Puolen
+Down
+
+      Alhaalla
+The message
+
+      Viestin
+Key
+
+      Avain
+We came
+
+      Tulimme
+I asked
+
+      Kysyin
+Was taken by
+
+      Ottanut
+By
+
+      Vuoteen
+Me
+
+      Luokseni
+I can find
+
+      Löydän
+The school
+
+      Koulun
+Sergeant
+
+      Kersantti
+Satan
+
+      Saatana
+Many
+
+      Monia
+Junior
+
+      Lasten
+Of
+
+      Sellaisen
+Tell
+
+      Kerrot
+Is given
+
+      Annetaan
+Gift
+
+      Lahja
+To raise
+
+      Nosta
+Yourself
+
+      Itsellesi
+Do not want
+
+      Tahdo
+We find
+
+      Löydämme
+To do
+
+      Tekevän
+In any way
+
+      Mitenkään
+Somewhere
+
+      Johonkin
+Corpse
+
+      Ruumis
+Death
+
+      Kuolemaa
+Slowly
+
+      Hitaasti
+Death
+
+      Kuolemaan
+A pair of
+
+      Parin
+Present
+
+      Esittää
+Jessus
+
+      Jessus
+On
+
+      Kyytiin
+Look
+
+      Näyttävät
+B
+
+      H
+In
+
+      Perillä
+Another
+
+      Itsekin
+We take
+
+      Otamme
+With us
+
+      Kanssamme
+Love
+
+      Rakkautta
+Please continue
+
+      Jatkakaa
+Way
+
+      Tapaa
+Crazy
+
+      Hulluksi
+Until
+
+      Saakka
+Machine
+
+      Kone
+Shall
+
+      Pitääkö
+Clothing
+
+      Vaatteet
+You take
+
+      Otat
+You leave
+
+      Lähdet
+Richard
+
+      Richard
+To drink
+
+      Juotavaa
+Balance
+
+      Saatava
+Learn
+
+      Oppia
+Who
+
+      Kenet
+Let
+
+      Päästää
+We are looking for
+
+      Etsimme
+Gun
+
+      Aseen
+However
+
+      Kuitenkaan
+You know how
+
+      Osaat
+Wow
+
+      Vau
+Road
+
+      Tie
+Feeling
+
+      Olo
+Started
+
+      Aloitetaan
+Devil
+
+      Piru
+Women's
+
+      Naisten
+We like
+
+      Pidämme
+Throw
+
+      Heittää
+Lucky
+
+      Onnekas
+Third
+
+      Kolmas
+Watch out
+
+      Varokaa
+Ready
+
+      Valmiita
+I ask
+
+      Kysyn
+Music
+
+      Musiikkia
+Fun
+
+      Kivaa
+We do not
+
+      Ettemme
+Answer
+
+      Vastata
+Mother
+
+      Äitinsä
+Your life
+
+      Elämäsi
+Martin
+
+      Martin
+Chris
+
+      Chris
+Stop
+
+      Pysäyttää
+Remember
+
+      Muistaa
+City
+
+      Kaupunkiin
+We will see
+
+      Näemme
+Com
+
+      Com
+Along
+
+      Pitkin
+Information
+
+      Tietoja
+In exchange for
+
+      Sijaan
+The five
+
+      Viiden
+I asked
+
+      Pyysin
+The family
+
+      Perheen
+I die
+
+      Kuolen
+Mua
+
+      Mua
+Answer
+
+      Vastaus
+Do you believe
+
+      Uskotko
+You will die
+
+      Kuolet
+With you
+
+      Kanssanne
+Dollar
+
+      Dollarin
+C
+
+      C
+Introduce
+
+      Esitellä
+Things like that
+
+      Tuollaista
+The old
+
+      Vanhan
+P
+
+      P
+To tell
+
+      Kertomaan
+Story
+
+      Juttua
+I would
+
+      Taisin
+Between
+
+      Väliin
+I told you
+
+      Sanoinhan
+Part
+
+      Osan
+Destroy
+
+      Tuhota
+Unless you
+
+      Ellet
+Lights
+
+      Valot
+Excuse
+
+      Suokaa
+Dead
+
+      Kuolleet
+Justly
+
+      Syystä
+Jumalauta
+
+      Jumalauta
+In progress
+
+      Meneillään
+Badly
+
+      Pahasti
+Major
+
+      Majuri
+Princess
+
+      Prinsessa
+Put to account
+
+      Hyötyä
+Please bring
+
+      Tuokaa
+Los
+
+      Los
+Book
+
+      Kirja
+Image
+
+      Kuvan
+Depends
+
+      Riippuu
+Send
+
+      Lähetä
+Baby
+
+      Vauva
+Other
+
+      Toiset
+With
+
+      Mielestä
+I leave
+
+      Jätän
+OH
+
+      Oh
+The big
+
+      Ison
+This too
+
+      Tämänkin
+At all
+
+      Lainkaan
+The name of
+
+      Nimeä
+To teach
+
+      Opettaa
+Somewhere
+
+      Jonnekin
+Interest
+
+      Kiinnostaa
+Shot
+
+      Ampui
+Not True
+
+      Vitut
+Right
+
+      Oikealle
+Will be
+
+      Tullaan
+Right
+
+      Oikean
+How about
+
+      Entäs
+Sell
+
+      Myydä
+A
+
+      Erään
+Jack
+
+      Jätkä
+Perhaps
+
+      Ehkäpä
+Fuck yourself
+
+      Vittuun
+You came
+
+      Tulitte
+Wrong
+
+      Väärä
+Returned
+
+      Palannut
+I realized
+
+      Tajusin
+B
+
+      B
+The word
+
+      Sanaa
+On the telephone
+
+      Puhelimessa
+More
+
+      Muutakin
+My children
+
+      Lapseni
+Demands
+
+      Vaatii
+Hand
+
+      Käsi
+I have to
+
+      Joudun
+Noticed
+
+      Huomannut
+Sack
+
+      Potkut
+Serious
+
+      Tosissani
+Complete
+
+      Täydellistä
+Pal
+
+      Kamu
+Arms
+
+      Aseet
+Before
+
+      Ennenkin
+My family
+
+      Perheeni
+Wholly
+
+      Kokonaan
+To them
+
+      Niihin
+The first
+
+      Ensimmäistä
+You gave
+
+      Annoit
+I would say
+
+      Sanoisin
+American
+
+      Amerikan
+Commander
+
+      Komentaja
+After
+
+      Perässä
+Did you know
+
+      Tiesitkö
+Biscuit
+
+      Keksin
+Find out
+
+      Huomaa
+That kind of
+
+      Tuollainen
+The name
+
+      Nimen
+Dick
+
+      Mulkku
+Knows the
+
+      Tuntee
+Things
+
+      Asioista
+Your son
+
+      Poikasi
+De
+
+      De
+Enamored
+
+      Rakastunut
+From beyond
+
+      Tuolta
+Officer
+
+      Konstaapeli
+To cope
+
+      Jaksa
+Christmas
+
+      Joulua
+Red
+
+      Punainen
+One
+
+      Jonain
+Robert
+
+      Robert
+Dance
+
+      Tanssia
+With
+
+      Joilla
+Ä
+
+      Ä
+We expect
+
+      Odotamme
+You love
+
+      Rakastat
+Acquire
+
+      Hankkia
+Wrong with
+
+      Vikaa
+Hope
+
+      Toivoa
+Is going
+
+      Sujuu
+I would do
+
+      Tekisin
+Late
+
+      Myöhään
+Anger
+
+      Vihaa
+Concerns
+
+      Koskee
+Are not we
+
+      Emmekö
+Received
+
+      Saivat
+Information
+
+      Tiedot
+Pregnant
+
+      Raskaana
+Plain
+
+      Pelkkää
+The future
+
+      Tulevan
+Can you
+
+      Voitteko
+Kill
+
+      Tappamaan
+Men
+
+      Miesten
+You found
+
+      Löysit
+New
+
+      Uudet
+The times
+
+      Ajat
+Army
+
+      Armeijan
+Kilometers
+
+      Kilometriä
+To come
+
+      Tulemaan
+Jane
+
+      Jane
+Sua
+
+      Sua
+Call
+
+      Kutsun
+Small
+
+      Pientä
+Dave
+
+      Dave
+So
+
+      Siten
+Burn
+
+      Polttaa
+Pleasure
+
+      Ilo
+Get away
+
+      Karkuun
+But not
+
+      Muttei
+Look
+
+      Kas
+We are
+
+      Olemmeko
+Sit down
+
+      Istukaa
+Your eyes
+
+      Silmäsi
+That
+
+      Etteivät
+Associated with
+
+      Liittyy
+Your husband
+
+      Miehesi
+Attention
+
+      Huomio
+Sky
+
+      Taivas
+After
+
+      Perään
+I meant
+
+      Tarkoitin
+Andy
+
+      Andy
+Cover
+
+      Kate
+Master
+
+      Päällikkö
+In times of
+
+      Aikoina
+I fancy
+
+      Luulisin
+To sit
+
+      Istumaan
+Yourself
+
+      Itsestäsi
+Okay
+
+      Tajuatko
+The book
+
+      Kirjan
+Called
+
+      Soittanut
+M
+
+      M
+Don
+
+      Don
+That's what
+
+      Niinhän
+Week
+
+      Viikko
+Military
+
+      Sotilas
+Who
+
+      Ketkä
+Heart
+
+      Sydän
+In the hospital
+
+      Sairaalassa
+La
+
+      La
+Mut
+
+      Mut
+Daddy
+
+      Isi
+Clearly
+
+      Selvästi
+Worth
+
+      Arvoinen
+In time
+
+      Ajoissa
+We will meet
+
+      Tapaamme
+Doing
+
+      Tekemässä
+Hour
+
+      Tunti
+Shape
+
+      Kuntoon
+Live
+
+      Asua
+Walk
+
+      Kävellä
+Accountable
+
+      Vastuussa
+Jerry
+
+      Jerry
+Left
+
+      Vasemmalle
+In trouble
+
+      Pulassa
+Biscuit
+
+      Keksi
+With you
+
+      Mukaasi
+The bed
+
+      Sänkyyn
+Of
+
+      Sellaisia
+Gay
+
+      Homo
+S
+
+      Tä
+Smart
+
+      Fiksu
+Disappeared
+
+      Katosi
+Found
+
+      Tavataan
+Support
+
+      Kannattaa
+Open your
+
+      Avatkaa
+Dead
+
+      Kuolleita
+Pictures
+
+      Kuvaa
+Early
+
+      Aikaisin
+Injecting
+
+      Pistä
+Water
+
+      Vesi
+Pleased
+
+      Tyytyväinen
+Lee
+
+      Lee
+To know
+
+      Tietävän
+Read
+
+      Lukenut
+Read
+
+      Lue
+We try to
+
+      Yritämme
+Even now
+
+      Vieläkään
+Indeed
+
+      Tosin
+Try out
+
+      Kokeilla
+To take
+
+      Ottamaan
+Escape
+
+      Pakoon
+The most
+
+      Eniten
+Fit
+
+      Sovi
+Devil
+
+      Perkele
+Continually
+
+      Jatkuvasti
+Grow
+
+      Kasvaa
+Twice
+
+      Kahdesti
+Walter
+
+      Walter
+I would get
+
+      Saisin
+Cute
+
+      Söpö
+From this
+
+      Tältä
+Try
+
+      Kokeile
+Hurt
+
+      Satuttaa
+Travels
+
+      Liikkuu
+Thou wilt
+
+      Tahdot
+People
+
+      Ihmisille
+Found
+
+      Löytyi
+Mark
+
+      Mark
+Agreement
+
+      Sopimuksen
+Booze
+
+      Kannata
+Christ
+
+      Kristus
+Damn
+
+      Pirun
+I left the
+
+      Jätin
+Sorry
+
+      Valitan
+Army
+
+      Armeija
+In you
+
+      Sinussa
+Fantastic
+
+      Upeaa
+Nowhere
+
+      Minnekään
+At the end
+
+      Lopussa
+Another
+
+      Toiselle
+Tea
+
+      Teetä
+To school
+
+      Kouluun
+In
+
+      Ssa
+Group
+
+      Ryhmä
+His wife
+
+      Vaimonsa
+Open
+
+      Avata
+Other
+
+      Muutkin
+Trying to
+
+      Yrittävät
+In
+
+      Ssä
+Oon
+
+      Oon
+Letting
+
+      Kerroit
+Cause
+
+      Aiheuttaa
+And
+
+      Eivätkä
+Finish the job
+
+      Homman
+Protect
+
+      Suojella
+Make
+
+      Merkki
+Shoot
+
+      Ammun
+Holy
+
+      Pyhä
+To leave
+
+      Lähtemään
+I bought
+
+      Ostin
+A favor
+
+      Palveluksen
+From
+
+      Sta
+Fight
+
+      Taistella
+Daughter
+
+      Tytär
+First
+
+      Ensimmäisenä
+I read
+
+      Luin
+I live in
+
+      Asun
+Meet
+
+      Tutustua
+Lost
+
+      Kadonnut
+Away from
+
+      Erossa
+Perhaps
+
+      Kenties
+Sons
+
+      Poikaa
+At issue
+
+      Kyseessä
+My work
+
+      Työni
+Arrives
+
+      Saapuu
+Kevin
+
+      Kevin
+We do not
+
+      Emmekä
+Misses
+
+      Kaipaa
+Horrible
+
+      Kamalaa
+You can see
+
+      Näette
+To sing
+
+      Laulaa
+Liver
+
+      Maksa
+Drop
+
+      Pudota
+Sheriff
+
+      Sheriffi
+Murderer
+
+      Murhaaja
+Placing
+
+      Asetta
+View
+
+      Ellen
+But now
+
+      Äsken
+In the manner of
+
+      Tapaan
+Lyrics
+
+      Sanat
+For me
+
+      Puolestani
+Despite
+
+      Huolimatta
+Handsome
+
+      Komea
+Other
+
+      Muun
+Did you get
+
+      Pääsit
+I might
+
+      Saatan
+Which
+
+      Joista
+Offer
+
+      Tarjota
+Means
+
+      Keino
+Per cent of
+
+      Prosenttia
+Per minute
+
+      Minuutissa
+I guess
+
+      Tainnut
+My car
+
+      Autoni
+They
+
+      Niissä
+Changes to
+
+      Muuttuu
+The body
+
+      Ruumiin
+Story
+
+      Tarinan
+Stuff
+
+      Kamaa
+Fix
+
+      Korjata
+Will
+
+      Will
+Us
+
+      Meiltä
+You did
+
+      Teitte
+Fool
+
+      Typerys
+Watching
+
+      Katsomassa
+You will find
+
+      Löydät
+Is able to
+
+      Pystyy
+Worry
+
+      Huolehtia
+You have to
+
+      Joudut
+Larry
+
+      Larry
+Issues
+
+      Kysymyksiä
+Hero
+
+      Sankari
+Stinks
+
+      Haisee
+Like
+
+      Tavoin
+Rises
+
+      Nousee
+Drink
+
+      Juoda
+Date
+
+      Päiväys
+From
+
+      Paikasta
+We are talking about
+
+      Puhumme
+You heard
+
+      Kuulit
+Remember
+
+      Muistakaa
+Drugs
+
+      Huumeita
+For example
+
+      Esimerkiksi
+Your help
+
+      Apuasi
+William
+
+      William
+Great
+
+      Suurta
+Would you like
+
+      Haluaisit
+Believes
+
+      Uskoo
+His life
+
+      Elämänsä
+Invalid
+
+      Kelpaa
+Close
+
+      Lähelle
+Which
+
+     Kumpi

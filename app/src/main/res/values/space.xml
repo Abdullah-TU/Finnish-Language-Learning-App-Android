@@ -1,0 +1,103 @@
+<resources>
+
+
+
+
+<string-array name="space_title">
+
+
+
+<item>Avaruus</item>	
+<item>Planeetta</item>
+<item>Aurinko</item>
+
+<item>Kuu</item>
+<item>Galaksi</item>
+    <item>Ilmakehä</item>
+<item>Maapallo</item>
+
+
+    
+
+
+</string-array>
+
+<string-array name="spacesub_title">
+  
+<item>Space</item>
+<item>Planet</item>
+<item>Sun</item>
+
+<item>Moon</item>
+<item>Galaxy</item>
+
+
+<item>Atmosphere</item>
+<item>Globe</item>
+
+
+</string-array>
+
+<string-array name="spaceimage_title">
+    
+
+
+<item>@drawable/spaces</item>
+<item>@drawable/planet</item>
+<item>@drawable/sunn</item>
+
+<item>@drawable/moon</item>
+<item>@drawable/galaxy</item>
+
+
+<item>@drawable/atmosphere</item>
+<item>@drawable/earth</item>
+
+
+</string-array>
+
+<string-array name="spacenew_title">
+    <item>Avaruus on tärkein.\n\n Meaning: Space is paramount.</item>
+    <item> Planeettamme on hyvä planeetta, koska se pitää veden. \n\n Meaning:Our planet is a good planet because it can keep water </item>
+    <item>Ei ole epäilystäkään siitä, että aurinko on erinomainen energianlähde.\n\n Meaning: There can be no doubt that the Sun is an extraordinary source of energy.</item>
+
+    <item> Kuu on yksi voimakkaimista taikuuden symboleista.\n\n Meaning: The moon is one of the most potent symbols of magic.</item>
+    <item>Galaksi on tähtien, kaasu- ja pölypilvien sekä pimeän aineen muodostama järjestelmä, joka pysyy koossa painovoiman vaikutuksesta.\n\n Meaning:The galaxy is a system of stars, gases and dust clouds, as well as the dark substance, which is kept together by gravity.</item>
+
+
+    <item>On selvää, ettei maan ilmakehä tunne kansallisia rajoja.\n\n Meaning:It is obvious that the earth\'s atmosphere knows no borders.</item>
+    <item>Minulla on iso maapallo.\n\n Meaning:I have a big globe.</item>
+
+</string-array>
+
+<string-array name="spacesong">
+   
+
+
+<item>@raw/avaruus</item>	
+<item>@raw/planeetta</item>	
+<item>@raw/aurinko</item>	
+
+<item>@raw/kuu</item>	
+<item>@raw/galaksi</item>	
+<item>@raw/ilmakeha</item>
+
+<item>@raw/maapallo</item>
+
+</string-array>
+
+
+
+
+
+
+
+
+
+</resources>
+
+
+
+
+
+
