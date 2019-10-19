@@ -16,4 +16,8 @@ Know Finnish app is a great method of learning the Finnish language. It consists
 Know Finnish app in Google Play Store: https://play.google.com/store/apps/details?id=com.emssoft.knowfinnish
 
 ![alt tag](https://lh3.googleusercontent.com/UMuf9cYQkM8uMIC-jX7kbALkIQq8us1mgz-kqjM9Ln56FTA74pinquC9gG31zV5q4Sg=w1680-h907-rw)
+![alt tag](https://lh3.googleusercontent.com/BZKudJNr8e9oeO-2PH-amAVV8CCxoBmzK7AK1gG1SLZvc_9YXCASSgI5_Q6g2-BTiNVN=w1680-h907-rw)
+![alt tag](https://lh3.googleusercontent.com/ctBbjY9Jwo29ttjMQFdAdLuTzcT5KnXd3qpxSaEb4IZ5H_hBfIF4LdGXl_9_pecTug=w1680-h907-rw)
+![alt tag](https://lh3.googleusercontent.com/66ntfVd3fM0hhKweTLvVmQNeuu5G6tGtIwkhbgR0DPeXhPPC4C_GbJ0b9XS4VP2OU2Y=w1680-h907-rw)
+
 
