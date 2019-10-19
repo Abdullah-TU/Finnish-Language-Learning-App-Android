@@ -16,51 +16,15 @@ Know Finnish app is a great method of learning the Finnish language. It consists
 Know Finnish app in Google Play Store: https://play.google.com/store/apps/details?id=com.emssoft.knowfinnish
 
 
-<html>
-<head>
-<style>
-* {
-  box-sizing: border-box;
-}
 
-.column {
-  float: left;
-  width: 33.33%;
-  padding: 5px;
-}
-
-/* Clearfix (clear floats) */
-.row::after {
-  content: "";
-  clear: both;
-  display: table;
-}
-</style>
-</head>
-<body>
-
-<h2>Images Side by Side</h2>
-<p>How to create side-by-side images with the CSS float property:</p>
-
-<div class="row">
-  <div class="column">
-    v
-  </div>
-  <div class="column">
-<img src="https://lh3.googleusercontent.com/ctBbjY9Jwo29ttjMQFdAdLuTzcT5KnXd3qpxSaEb4IZ5H_hBfIF4LdGXl_9_pecTug=w1680-h907-rw" alt="Smiley face" width="200" height="300">
-  </div>
-  <div class="column">
-<img src="https://lh3.googleusercontent.com/ctBbjY9Jwo29ttjMQFdAdLuTzcT5KnXd3qpxSaEb4IZ5H_hBfIF4LdGXl_9_pecTug=w1680-h907-rw" alt="Smiley face" width="200" height="300">
-  </div>
-</div>
-
-</body>
-</html>
-
-
+<p float="left">
 <img src="https://lh3.googleusercontent.com/BZKudJNr8e9oeO-2PH-amAVV8CCxoBmzK7AK1gG1SLZvc_9YXCASSgI5_Q6g2-BTiNVN=w1680-h907-rw" alt="Smiley face" width="200" height="300">
 
 <img src="https://lh3.googleusercontent.com/ctBbjY9Jwo29ttjMQFdAdLuTzcT5KnXd3qpxSaEb4IZ5H_hBfIF4LdGXl_9_pecTug=w1680-h907-rw" alt="Smiley face" width="200" height="300">
+<img src="https://lh3.googleusercontent.com/ctBbjY9Jwo29ttjMQFdAdLuTzcT5KnXd3qpxSaEb4IZ5H_hBfIF4LdGXl_9_pecTug=w1680-h907-rw" alt="Smiley face" width="200" height="300">
+</p>
+
+
 
 ![alt tag](https://lh3.googleusercontent.com/UMuf9cYQkM8uMIC-jX7kbALkIQq8us1mgz-kqjM9Ln56FTA74pinquC9gG31zV5q4Sg=w1680-h907-rw)
 ![alt tag](https://lh3.googleusercontent.com/BZKudJNr8e9oeO-2PH-amAVV8CCxoBmzK7AK1gG1SLZvc_9YXCASSgI5_Q6g2-BTiNVN=w1680-h907-rw)
