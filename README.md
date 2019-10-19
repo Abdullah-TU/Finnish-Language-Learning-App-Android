@@ -9,7 +9,7 @@ Know Finnish app is a great method of learning the Finnish language. It consists
 2.	Words with images and audio features. 
 3.	Lots of Quizzes consist of Matching, Drag &amp; drop, Flashcards, Writing a test, Picture Quiz, Fill in the blank test and so on. 
 4.	Finnish Grammar section focuses on basic Finnish grammar.
-5.	A user can easily store their words in Own Dictionary.
+5.	User can easily store their words in Own Dictionary.
 6.	The user can boost their knowledge using Tip &amp; Trick section. 
 7.	Internet is not required  
 
