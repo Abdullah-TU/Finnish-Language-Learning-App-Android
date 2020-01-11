@@ -1,5 +1,6 @@
 ## Finnish language Learning App: Know Finnish 
 Know Finnish app is a great method of learning the Finnish language. It consists of several sections and subsections. It contains 4000+ words, quizzes, puzzles and so on.  
+
 Platform: Android       
 Programming Language: Java 
 
