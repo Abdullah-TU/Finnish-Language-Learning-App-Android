@@ -16,8 +16,6 @@ Programming Language: Java
 6.	The user can boost their knowledge using Tip &amp; Trick section. 
 7.	Internet is not required  
 
-Know Finnish app in Google Play Store: https://play.google.com/store/apps/details?id=com.emssoft.knowfinnish
-
 
 
 <p float="left">
