@@ -4,7 +4,7 @@ Know Finnish app is a great method of learning the Finnish language. It consists
 ### Platform: Android       
 ### Programming Language: Java 
 
-### [![Build Status](https://cdn.imgbin.com/13/18/21/imgbin-google-play-android-app-store-apple-android-xa3xfEQ8ZjGhdEtdKP049ZyMM.jpg)](https://play.google.com/store/apps/details?id=com.emssoft.knowfinnish&hl=en)
+### [![Build Status](https://lh3.googleusercontent.com/cjsqrWQKJQp9RFO7-hJ9AfpKzbUb_Y84vXfjlP0iRHBvladwAfXih984olktDhPnFqyZ0nu9A5jvFwOEQPXzv7hr3ce3QVsLN8kQ2Ao=s0)](https://play.google.com/store/apps/details?id=com.emssoft.knowfinnish&hl=en)
 ### Downloaded: 500+
 
 ## MAIN FEATURES OF THE APPLICATION : 
