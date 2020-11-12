@@ -21,14 +21,11 @@ Programming Language: Java
 <p float="left">
 <img src="https://lh3.googleusercontent.com/UMuf9cYQkM8uMIC-jX7kbALkIQq8us1mgz-kqjM9Ln56FTA74pinquC9gG31zV5q4Sg=w1680-h907-rw" width="250" height="500">
 <img src="https://lh3.googleusercontent.com/BZKudJNr8e9oeO-2PH-amAVV8CCxoBmzK7AK1gG1SLZvc_9YXCASSgI5_Q6g2-BTiNVN=w1680-h907-rw"  width="250" height="500">
-</p>
-
-<p float="left">
 <img src="https://lh3.googleusercontent.com/ctBbjY9Jwo29ttjMQFdAdLuTzcT5KnXd3qpxSaEb4IZ5H_hBfIF4LdGXl_9_pecTug=w1680-h907-rw"  width="250" height="500">
-<img src="https://lh3.googleusercontent.com/66ntfVd3fM0hhKweTLvVmQNeuu5G6tGtIwkhbgR0DPeXhPPC4C_GbJ0b9XS4VP2OU2Y=w1680-h907-rw" width="250" height="500">  
 </p>
 
 <p float="left">
+<img src="https://lh3.googleusercontent.com/66ntfVd3fM0hhKweTLvVmQNeuu5G6tGtIwkhbgR0DPeXhPPC4C_GbJ0b9XS4VP2OU2Y=w1680-h907-rw" width="250" height="500">  
 <img src="https://lh3.googleusercontent.com/TKbUKYiuM5QxVO6cprcS9sURkd5u921h3QTl-_JxxPbVMkCRebpflXfmsbg_SIu9CsU=w1680-h907-rw"  width="250" height="500">
 <img src="https://lh3.googleusercontent.com/t0fGL9at45ORNQFttblhv-N_XFg_2PmqsoD6nDgaCa-gyQkcVNox5ZSkqtmuhKeXVQ=w1680-h907-rw"  width="250" height="500">
 </p>
