@@ -21,7 +21,6 @@ Programming Language: Java
 <p float="left">
 <img src="https://lh3.googleusercontent.com/UMuf9cYQkM8uMIC-jX7kbALkIQq8us1mgz-kqjM9Ln56FTA74pinquC9gG31zV5q4Sg=w1680-h907-rw" width="300" height="500">
 <img src="https://lh3.googleusercontent.com/BZKudJNr8e9oeO-2PH-amAVV8CCxoBmzK7AK1gG1SLZvc_9YXCASSgI5_Q6g2-BTiNVN=w1680-h907-rw"  width="300" height="500">
-<img src="https://lh3.googleusercontent.com/ctBbjY9Jwo29ttjMQFdAdLuTzcT5KnXd3qpxSaEb4IZ5H_hBfIF4LdGXl_9_pecTug=w1680-h907-rw"  width="300" height="500">
 </p>
 
 <p float="left">
