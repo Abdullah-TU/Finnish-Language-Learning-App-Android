@@ -8,6 +8,7 @@ Programming Language: Java
 ### Downloaded: 500+
 
 ## MAIN FEATURES OF THE APPLICATION : 
+1.	Rich in vocabulary.
 
 
 
