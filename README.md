@@ -14,7 +14,7 @@ Programming Language: Java
 4.	Finnish Grammar section focuses on basic Finnish grammar.
 5.	User can easily store their words in Own Dictionary.
 6.	The user can boost their knowledge using Tip &amp; Trick section. 
-
+7.	Internet is not required  
 
 
 
