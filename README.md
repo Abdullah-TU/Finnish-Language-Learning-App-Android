@@ -9,6 +9,8 @@ Programming Language: Java
 
 ## MAIN FEATURES OF THE APPLICATION : 
 1.	Rich in vocabulary.
+2.	Words with images and audio features. 
+3.	Lots of Quizzes consist of Matching, Drag &amp; drop, Flashcards, Writing a test, Picture Quiz, Fill in the blank test and so on. 
 
 
 
