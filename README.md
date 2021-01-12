@@ -10,6 +10,7 @@ Programming Language: Java
 ## MAIN FEATURES OF THE APPLICATION : 
 
 1.	Rich in vocabulary.
+2.	Words with images and audio features. 
 
 
 
