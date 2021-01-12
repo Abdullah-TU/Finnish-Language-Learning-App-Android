@@ -7,12 +7,6 @@ Programming Language: Java
 ### [![Build Status](https://lh3.googleusercontent.com/cjsqrWQKJQp9RFO7-hJ9AfpKzbUb_Y84vXfjlP0iRHBvladwAfXih984olktDhPnFqyZ0nu9A5jvFwOEQPXzv7hr3ce3QVsLN8kQ2Ao=s0)](https://play.google.com/store/apps/details?id=com.emssoft.knowfinnish&hl=en)
 ### Downloaded: 500+
 
-## MAIN FEATURES OF THE APPLICATION : 
-1.	Rich in vocabulary.
-2.	Words with images and audio features. 
-3.	Lots of Quizzes consist of Matching, Drag &amp; drop, Flashcards, Writing a test, Picture Quiz, Fill in the blank test and so on. 
-4.	Finnish Grammar section focuses on basic Finnish grammar.
-5.	User can easily store their words in Own Dictionary.
 
 
 
