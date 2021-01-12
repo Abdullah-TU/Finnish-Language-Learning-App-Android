@@ -9,6 +9,7 @@ Programming Language: Java
 
 ## MAIN FEATURES OF THE APPLICATION : 
 
+1.	Rich in vocabulary.
 
 
 
