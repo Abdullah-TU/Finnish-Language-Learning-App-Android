@@ -11,6 +11,7 @@ Programming Language: Java
 1.	Rich in vocabulary.
 2.	Words with images and audio features. 
 3.	Lots of Quizzes consist of Matching, Drag &amp; drop, Flashcards, Writing a test, Picture Quiz, Fill in the blank test and so on. 
+4.	Finnish Grammar section focuses on basic Finnish grammar.
 
 
 
